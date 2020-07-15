@@ -1,0 +1,683 @@
+import re
+import os
+import requests
+from bs4 import BeautifulSoup
+import sklearn
+import nltk
+from string import punctuation
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.stem import PorterStemmer
+
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+import urllib
+
+from urllib.parse import urlparse
+import scrapy
+
+from ftfy import fix_encoding
+
+
+import urllib.request
+
+import json
+import unicodedata
+from unidecode import unidecode    
+#scrapy startproject f319 
+#scrapy crawl threads
+
+
+from scrapy.crawler import CrawlerProcess
+from scrapy.selector import Selector
+
+from urllib import parse as UrlParser
+from pyquery import PyQuery
+
+
+
+import validators
+from newspaper import Article
+
+
+
+from requests_html import HTMLSession
+from urllib.parse import urlparse, urljoin
+import colorama
+
+
+
+
+
+
+
+
+
+class ThreadsSpider(scrapy.Spider):
+	name = "vy"
+    #folder_path = "lo-gi"
+	print("================================SCRAPY-WEBSITE================================")
+	url = input("Input website's url: ")
+	response = requests.get(url)
+	soup = BeautifulSoup(response.text, 'html.parser')
+	parsedUrl = UrlParser.urlparse(url)
+
+	my_stopwords = set(stopwords.words('english') + list(punctuation))
+
+	supportCategories = [
+	'national', 
+	'world', 
+	'lifestyle',
+	'travel', 
+	'entertainment',
+	'technology', 
+	'finance',
+	'sport'
+	]
+
+	supportCategories = [re.sub(r"\s|-", '', category) for category in supportCategories]
+
+	def parse(self, response):
+		if (response.status == 404):
+			print("4-0-4 ERROR")
+
+
+		#sef = crawl(response.url)
+
+		article = Article(response.url)
+		article.download()
+		article.parse()
+
+		sef = {'title':article.title}
+
+
+
+
+		fol =response.meta.get('folder_pat')
+
+		filename = '%s.txt' % sef['title']
+
+		with open(fol+"/"+filename, 'wb') as f:
+			f.write(response.body)
+		self.log('Saved file3 %s' % filename)
+
+
+
+
+	def start_requests(self):
+  		#Kiem tra URL hop le
+		def __is_url__(self):
+			return validators.url(url)
+
+		def crawl(url):
+			
+			article = Article(url)
+			article.download()
+			article.parser()
+
+			result = {'title':article.title}
+
+			return result
+
+
+
+
+		def writeText(path, content):
+			file = open(path, "w", encoding="utf-8")
+			if isinstance(content, str):
+				file.write(content)
+			elif (isinstance(content, collections.abc.Iterable)):
+				for item in content:
+					file.write(item + '\n')
+
+			file.close()
+		
+
+
+		def __get_all_link_backup(url):
+			response = requests.get(url)
+			soup = BeautifulSoup(response.text, 'html.parser')
+			all_link = []
+			information = soup.find_all('a')
+
+			for data in information:
+				all_link.append(data['href'])
+
+			return all_link
+
+
+
+		def __get_categories__(url,response, supportCategories):
+			if (response.status_code != 200):
+				return None, 'status code is not 200'
+
+			parsedUrl = UrlParser.urlparse(url)
+
+			doc = PyQuery(response.text)
+			all_links = doc('a[href]')
+
+			processedlink = {}
+			categories = []
+			for link in all_links:
+				link = doc(link)
+				href = link.attr('href')
+				parsedhref = UrlParser.urlparse(href)
+				if not bool(parsedhref.hostname):
+					href = "{}://{}{}".format(parsedUrl.scheme, parsedUrl.hostname, href)
+
+				if href in processedlink:
+					continue
+
+				processedlink[href] = True
+
+				title = link.text().strip()
+				title_ = title.lower()
+				title_ = re.sub(r"\s|-", '', title_)
+
+				if title_ in supportCategories:
+					categories.append((href, title))
+
+			return categories, None				
+
+		def __get_text__(file):
+			read_file = open(file, "r", encoding="utf-8")
+			text = read_file.readlines()
+			text = ' '.join(text)
+			return text
+
+		def __clean_html__(text):
+			soup = BeautifulSoup(text, "html.parser")
+			return soup.get_text()
+
+		def __remove_special_character(text):
+			string = re.sub('[^\w\s]', '', text)
+			string = re.sub('\s+', ' ', string)
+			string = string.strip()
+			return string
+
+		def __filter_texts__(txtArr):
+			res = []
+			for i in range(len(txtArr)):
+				text_cleaned = __clean_html__(txtArr[i])
+				sents = sent_tokenize(text_cleaned)
+				sents_cleaned = [__remove_special_character(s) for s in sents]
+				text_sents_join = ' '.join(sents_cleaned)
+				words = word_tokenize(text_sents_join)
+				words = [word.lower() for word in words]
+				words = [ps.stem(word) for word in words]
+
+				sample = ''
+				for i in words:
+					sample += i 
+					sample += " "
+
+				res.append(sample)
+
+			return res
+
+		def writeText(path, content):
+			file = open(path, "w", encoding="utf-8")
+			if isinstance(content, str):
+				file.write(content)
+			elif (isinstance(content, collections.abc.Iterable)):
+				for item in content:
+					file.write(item + '\n')
+
+			file.close()
+
+		def writeCountVectorizer(bow, bow1 ,outputName,  o_path):
+			f = open(o_path + "/" + outputName + ".txt" , 'w+', encoding='utf-8')
+				
+			f.write(str(bow))
+			f.write('\n')
+			f.write(str(bow1))
+			f.close
+
+		def outout(bow ,outputName,  o_path):
+			f = open(o_path + "/" + outputName + ".txt" , 'w+', encoding='utf-8')
+				
+			f.write(str(bow))
+			
+			f.close
+
+
+		def writeTfidfVectorizer(bow, bow1, bow3 ,outputName,  o_path):
+			f = open(o_path + "/" + outputName + ".txt" , 'w+', encoding='utf-8')
+			
+			f.write(str(bow))
+			f.write('\n')
+			f.write(str(bow1))
+			f.write(str(bow1))
+
+			f.close
+
+		def CosiSim(x):
+			cosinearry = []
+			myarray = []
+			j = z = 0
+			v = 1.00
+			while z < len(x):
+				while j < len(x):
+					v = float(cosine_similarity(x[z],x[j]))
+					myarray.append(round(v,2))
+					j += 1
+				cosinearry.append(myarray)
+				z += 1
+			return cosinearry
+
+
+
+
+
+			def __topics__(array_topics):
+				for i in range(len(array_topics)):
+					print(str(i + 1) + '. ' + str(array_topics))
+
+
+			def __choose_topics__(array_topics):
+				for i in range(len(array_topics)):
+					print(str(i + 1) + '. ' + str(array_topics))
+
+				
+		
+
+
+		def __BoW__(array):
+			result = CountVectorizer()
+			bow = result.fit_transform(array).todense()
+			bow1 = result.vocabulary_
+
+			array_BoW = []
+			array_BoW.append((bow, bow1))
+
+			return array_BoW
+
+
+		def __TF_IDF__(array):
+			tf = TfidfVectorizer(analyzer='word', ngram_range=(1, 3), min_df=0, stop_words='english')
+			tf_idf_matrix = tf.fit_transform(corpus_final)
+			feature_names = tf.get_feature_names()
+			dense = tf_idf_matrix.todense()
+
+			array_TF_IDF = []
+			array_TF_IDF.append((tf_idf_matrix, feature_names, dense))
+
+			return array_TF_IDF
+
+
+		def __show_topics__(categories):
+			print("========================CATEGORY=========================")
+
+			for i in range(len(categories)):
+				print('   ' + str(i + 1) + '. ' + str(categories[i][1]))
+			print("=========================================================")
+
+
+
+
+		def ___get_topics__(categories):
+			obj = 0
+			check = 0
+			while( (obj <= 0) | (obj > len(categories)) ):
+				obj = int(input("Enter number to select category)"))
+				check = obj
+				break
+			
+			array_category = []
+			#categories[i][0] = href
+			#categories[i][1] = title
+			array_category.append((categories[check - 1][0], categories[check - 1 ][1]))
+
+			return array_category
+
+
+
+
+		def __create_dirPath__(categories):
+			for href, title in categories:
+				dirPath_html = "{}/{}/{}_html".format(self.parsedUrl.hostname, title, title)	
+				dirPath_word = "{}/{}/{}_word".format(self.parsedUrl.hostname, title, title)
+				dirPath_BoW =  "{}/{}/{}_BoW".format(self.parsedUrl.hostname, title, title)
+				dirPath_Tf_Idf = "{}/{}/{}_Tf_Idf".format(self.parsedUrl.hostname, title, title)
+				dirPath_Cosine = "{}/{}/{}_Cosine".format(self.parsedUrl.hostname, title, title)
+				dirPath_Precision = "{}/{}/{}_Precision".format(self.parsedUrl.hostname, title, title)
+				dirPath_Recall = "{}/{}/{}_Recall".format(self.parsedUrl.hostname, title, title)
+				dirPath_F_score = "{}/{}/{}_Fscore".format(self.parsedUrl.hostname, title, title)
+				os.makedirs(dirPath_html, exist_ok=True)
+				os.makedirs(dirPath_word, exist_ok=True)
+				os.makedirs(dirPath_BoW, exist_ok=True)
+				os.makedirs(dirPath_Tf_Idf, exist_ok=True)
+				os.makedirs(dirPath_Cosine, exist_ok=True)
+				os.makedirs(dirPath_Precision, exist_ok=True)
+				os.makedirs(dirPath_Recall, exist_ok=True)
+				os.makedirs(dirPath_F_score, exist_ok=True)
+
+
+				#create dirPath Bow and TF-IDF inside Cosine
+				dirPath_Cosine_BoW = "{}/{}/{}_Cosine/{}".format(self.parsedUrl.hostname, title, title,"BoW")
+				dirPath_Cosine_Tf_Idf = "{}/{}/{}_Cosine/{}".format(self.parsedUrl.hostname, title, title, "Tf_Idf")
+				os.makedirs(dirPath_Cosine_BoW, exist_ok=True)
+				os.makedirs(dirPath_Cosine_Tf_Idf, exist_ok=True)
+
+
+
+
+
+
+
+
+
+
+		ps = PorterStemmer()
+		    
+		corpus = [] 
+
+		#corpus = __get_theme__(self.url)
+		#for data in corpus:
+		#	print(str(data))
+
+		categories = None
+		categories, error = __get_categories__(self.url,self.response,  self.supportCategories)
+
+
+		__show_topics__(categories)
+		array_categories = ___get_topics__(categories)
+
+		print(str(array_categories))
+		__create_dirPath__(array_categories)
+
+
+
+
+		selectedCategories = []
+		input("Enter y (yes) to select category, another to skip (enter to continue)")
+		for href, title in categories:
+			print("Category: {}, link: {}".format(title, href))
+			userInput = input("Select {}? ".format(title))
+			yesInputs = ["y", "Y"]
+			if userInput in yesInputs:
+				selectedCategories.append((href, title))
+
+
+
+
+		dirPath_html_Travel = "{}/{}/{}_html".format(self.parsedUrl.hostname,"Travel", "Travel")
+
+
+		array_Travel = [
+			'https://www.news.com.au/travel/travel-ideas/best-of-travel/instagram-hashtag-takemeback-reveals-most-popular-travel-destinations/news-story/e7ff8cd2de0f0b383290511d289ffb3a',
+			'https://www.news.com.au/travel/travel-ideas/food-drink/amsterdam-restaurant-launches-quarantine-greenhouses-for-diners/news-story/3e656761bf6253f24643bbe21679f976',
+			'https://www.news.com.au/travel/travel-ideas/ski-snow/aldi-special-buys-iconic-snow-gear-sale-wont-happen-this-year/news-story/bb8ddba740cea4c24ddb20213e3aa887',
+			'https://www.news.com.au/travel/travel-ideas/best-of-travel/airbnb-reveals-top-10-online-experiences-to-do-at-home-under-lockdown/news-story/bd1fecf89d91bb217b09873ad6fcf43d'
+		]
+
+
+
+
+
+		for i in range(len(array_Travel)):
+			yield scrapy.Request(url=array_Travel[i],meta={'folder_pat':dirPath_html_Travel}, callback=self.parse)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#=============================Make Directoy==================================================#
+		dirPath_html_backup = ""
+		for href, title in selectedCategories:
+			#dirPath = "{}/output_html/{}".format(self.parsedUrl.hostname, title)
+			#os.makedirs(dirPath, exist_ok=True)
+
+			dirPath_html = "{}/{}/{}_html".format(self.parsedUrl.hostname, title, title)	
+			dirPath_word = "{}/{}/{}_word".format(self.parsedUrl.hostname, title, title)
+			dirPath_BoW =  "{}/{}/{}_BoW".format(self.parsedUrl.hostname, title, title)
+			dirPath_Tf_Idf = "{}/{}/{}_Tf_Idf".format(self.parsedUrl.hostname, title, title)
+			dirPath_Cosine = "{}/{}/{}_Cosine".format(self.parsedUrl.hostname, title, title)
+			dirPath_Precision = "{}/{}/{}_Precision".format(self.parsedUrl.hostname, title, title)
+			dirPath_Recall = "{}/{}/{}_Recall".format(self.parsedUrl.hostname, title, title)
+			dirPath_F_score = "{}/{}/{}_Fscore".format(self.parsedUrl.hostname, title, title)
+			os.makedirs(dirPath_html, exist_ok=True)
+			os.makedirs(dirPath_word, exist_ok=True)
+			os.makedirs(dirPath_BoW, exist_ok=True)
+			os.makedirs(dirPath_Tf_Idf, exist_ok=True)
+			os.makedirs(dirPath_Cosine, exist_ok=True)
+			os.makedirs(dirPath_Precision, exist_ok=True)
+			os.makedirs(dirPath_Recall, exist_ok=True)
+			os.makedirs(dirPath_F_score, exist_ok=True)
+
+
+			dirPath_Cosine_BoW = "{}/{}/{}_Cosine/{}".format(self.parsedUrl.hostname, title, title,"BoW")
+			dirPath_Cosine_Tf_Idf = "{}/{}/{}_Cosine/{}".format(self.parsedUrl.hostname, title, title, "Tf_Idf")
+			os.makedirs(dirPath_Cosine_BoW, exist_ok=True)
+			os.makedirs(dirPath_Cosine_Tf_Idf, exist_ok=True)
+
+			dirPath_html_backup = dirPath_html
+
+
+
+		array_name_file = []
+		array_file = []
+		dirPath_html = "{}/{}/{}_html".format(self.parsedUrl.hostname,"Lifestyle", "Lifestyle")	
+		for root, dirs, files in os.walk(dirPath_html):
+			for file in files:
+				if file.endswith(".txt"):
+					#print(os.path.join(file).split(".txt"))
+					#print(os.path.join(root, file)
+					array_sample = []
+					array_sample = os.path.join(file).split(".txt")
+						
+					array_file.append(os.path.join(file))
+
+					array_name_file.append(array_sample[0])
+
+
+		for data in array_name_file:
+			print(str(data))
+
+
+
+		#dirPath_html = "{}/{}/{}_html".format(self.parsedUrl.hostname, title, title)	
+		dirPath_word = "{}/{}/{}_word".format(self.parsedUrl.hostname, "Lifestyle", "Lifestyle")
+		dirPath_BoW = "{}/{}/{}_BoW".format(self.parsedUrl.hostname, "Lifestyle", "Lifestyle")
+		dirPath_Tf_Idf = "{}/{}/{}_Tf_Idf".format(self.parsedUrl.hostname, "Lifestyle", "Lifestyle")
+		dirPath_Cosine = "{}/{}/{}_Cosine".format(self.parsedUrl.hostname, "Lifestyle", "Lifestyle")
+
+
+		dirPath_Cosine_BoW = "{}/{}/{}_Cosine/{}".format(self.parsedUrl.hostname, "Lifestyle", "Lifestyle","BoW")
+		dirPath_Cosine_Tf_Idf = "{}/{}/{}_Cosine/{}".format(self.parsedUrl.hostname, "Lifestyle", "Lifestyle","Tf_Idf")
+
+		luachon = 1
+
+		if(luachon == 0):
+			for data in array_file:
+				text = __get_text__("{}/{}".format(dirPath_html, data))
+				text_cleaned = __clean_html__(text)
+
+				#print(str(text_cleaned))
+				sents = sent_tokenize(text_cleaned)
+
+				#print(str(sents))
+				sents_cleaned = [__remove_special_character(s) for s in sents]
+				text_sents_join = ' '.join(sents_cleaned)
+				words = word_tokenize(text_sents_join)
+				words = [word.lower() for word in words]
+				words = [word for word in words if word not in self.my_stopwords]
+				ps = PorterStemmer()
+				words = [ps.stem(word) for word in words]
+				stringwords = ' '.join(words)
+
+				sample = ''
+				for i in words:
+					sample += i 
+					sample += " "
+				#print(str(stringwords))
+				writeText("{}/{}".format(dirPath_word, data), stringwords)
+
+
+
+		elif(luachon == 0):
+			for data1 in array_file:
+				text = __get_text__("{}/{}".format(dirPath_word, data1))
+				corpus_final =[]
+				corpus_final.append(text)
+				result = CountVectorizer()
+				bow = result.fit_transform(corpus_final).todense()
+
+				bow1 = result.vocabulary_
+
+				writeCountVectorizer(bow, bow1, data1, dirPath_BoW)
+
+
+		elif(luachon == 0):
+			for data2 in array_file:
+				text = __get_text__("{}/{}".format(dirPath_word, data2))
+				corpus_final =[]
+				corpus_final.append(text)	
+
+				tf = TfidfVectorizer(analyzer='word', ngram_range=(1, 3), min_df=0, stop_words='english')
+				tf_idf_matrix = tf.fit_transform(corpus_final)
+				feature_names = tf.get_feature_names()
+				dense = tf_idf_matrix.todense()
+
+				writeTfidfVectorizer(tf_idf_matrix, feature_names, dense, data2, dirPath_Tf_Idf )
+
+
+
+		elif(luachon == 1):
+			for data3 in array_file:
+				
+			
+				text = __get_text__("{}/{}".format(dirPath_word, data3))
+				corpus_final =[]
+				corpus_final.append(text)
+
+				result = CountVectorizer()
+				bow = result.fit_transform(corpus_final).todense()
+
+				bow1 = result.vocabulary_
+
+
+				tf = TfidfVectorizer(analyzer='word', ngram_range=(1, 3), min_df=0, stop_words='english')
+				tf_idf_matrix = tf.fit_transform(corpus_final)
+				feature_names = tf.get_feature_names()
+				dense = tf_idf_matrix.todense()
+
+
+				corpus_final_BoW = []
+				corpus_final_Tf = []
+				corpus_final_BoW = CosiSim(bow)
+				corpus_final_Tf = CosiSim(dense)
+
+				outout(corpus_final_BoW, data3, dirPath_Cosine_BoW)
+				outout(corpus_final_Tf, data3, dirPath_Cosine_Tf_Idf)
+				
+
+
+
+		elif(luachon == 2):
+			for data4 in array_file:
+				text = __get_text__("{}/{}".format(dirPath_word, data4))
+				corpus_final = []
+				corpus_final.append(text)
+
+				iris = datasets.load_iris()
+				x = iris.data
+				y = iris.target
+				class_names = iris.target_names
+
+				x_train, x_test, y_train, y_test = train_test_split(x, y,  random_state = 0, test_size = 0.3)
+				knn = KNeighborsClassifier(n_neighbors = 10)
+				knn.fit(x_train, y_train)
+
+				accuracy = knn.score(x_test, y_test)
+				y_pred = knn.predict(x_test)
+				cm = confusion_matrix(y_test, y_pred)
+				precision_score(y_test, y_pred, average=None)
+				recall_score(y_test, y_pred, average=None)
+				f1_score(y_test, y_pred, average=None)
+				classifier = svm.SVC(kernel='linear', c=0.01).fit(x_train, y_train)
+
+				np.set_printoptions(precison=2)
+				titles_options = [("Confusion matrix, without normalization", None), ]
+				for title, normalize in titles_options:
+					disp = plot_confusion_matrix(classifier, x_test, y_test)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#https://www.news.com.au/
+
+
+			#dirPathWord = "{}/output_word/{}_word".format(self.parsedUrl.hostname,title)	
+			#os.makedirs(dirPathWord, exist_ok=True)
+
+
+
+
+
+
+
+
+			
+
+
+
+
+		#title= 'vyvy'
+
+		#dirPath = "{}/output_html/{}".format(self.parsedUrl.hostname, title)
+			##dirPath = "output_html/{}/{}".format(self.parsedUrl.hostname, title)
+		#dirPathWord = "output_word/{}_word/{}_word".format(parsedUrl.hostname, title)	
+
+		#check = os.path.isdir(dirPath)
+
+		#if(check == True):
+			#print('Ton tai thu muc')
+		#else:
+
+			#os.makedirs(dirPath, exist_ok=True)
+			##writeText("{}/{}.txt".format(dirPath, title), html)
+			#for url in corpus:
+				#yield scrapy.Request(url=url, callback=self.parse)
+
+
+
+
+
+
+
+	
+     
+
+
+	
+
+
+
+
