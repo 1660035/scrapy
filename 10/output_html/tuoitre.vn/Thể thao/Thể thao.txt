@@ -1,0 +1,1624 @@
+
+<!DOCTYPE html>
+<html id="mainHtml" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<head prefix="og:&#32;http://ogp.me/ns#&#32;fb:&#32;http://ogp.me/ns/fb#&#32;website:&#32;http://ogp.me/ns/website#"><meta name="google-site-verification" content="nsV1o2gWlgNI0d7amNezlNilgzm47WT4bNIgJPV_wjk" /><meta name="google-site-verification" content="y8PMKPH-UzpVdjHXzQjJ4oUEPfqLSWZl_EyOz5P02vc" /><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><title>Tin tức, đọc báo, tin nhanh - Thể Thao</title><meta name="viewport" content="width=device-width,&#32;initial-scale=1.0,&#32;maximum-scale=1.0,&#32;user-scalable=1" /><meta http-equiv="Content-Language" content="vi" /><meta name="Language" content="vi" /><meta name="distribution" content="Global" /><meta name="REVISIT-AFTER" content="1&#32;DAYS" /><meta id="metaRobots" name="robots" content="index,follow,all" /><meta name="msvalidate.01" content="E52E0AECFFC89B1959FC75D368D4B11E" /><meta property="fb:pages" content="131539760743" /><meta property="fb:pages" content="214610578564918" /><link rel="dns-prefetch" href="https://cdn.tuoitre.vn/" /><link rel="dns-prefetch" href="https://statictuoitre.mediacdn.vn" />
+<meta name="copyright" content="Copyright © 2020 by TUOITRE.VN" />
+<meta name="RATING" content="GENERAL" />
+<meta name="GENERATOR" content="TUOI TRE ONLINE" />
+<meta name="author" content="TUOI TRE ONLINE" />
+<meta property="fb:app_id" content="787960244659509" />
+<link rel="shortcut icon" href="https://statictuoitre.mediacdn.vn/web_images/favicon.ico" type="image/x-icon"/><meta name="keywords" content="" />
+<meta name="news_keywords" content="" />
+<meta name="description" content="Tin thể thao - Cập nhật tin tức nhanh và mới nhất về th&#7875; thao: bóng đá, qu&#7847;n v&#7907;t, bóng chuy&#7873;n, tennis, các cu&#7897;c thi và gi&#7843;i đ&#7845;u h&#7845;p d&#7851;n nh&#7845;t th&#7871; gi&#7899;i." />
+<script type="text/javascript">var _ADM_Channel = '%2Fthe-thao%2Fhome%2F';</script><script>dataLayer=[{'pageCategory':'/the-thao/home/'}];</script>
+
+    <script async type="text/javascript" src="//media1.admicro.vn/core/adm_tracking.js"></script>
+    
+<link rel="stylesheet" type="text/css" href="https://statictuoitre.mediacdn.vn/web_css/font.2017.11.28.1.min.css" />
+<script type="text/javascript">
+    var appSettings = {
+        domain: "https://thethao.tuoitre.vn",        
+        apiDomain: "https://s1.tuoitre.vn",
+        ajaxDomain: "https://s1.tuoitre.vn",
+        idDomain: " https://id.tuoitre.vn",
+        //urlJsId:"https://statictuoitre.mediacdn.vn/web_js/kcb.plugin.async.20181018.3.min.js",
+        urlJsId:"https://statictuoitre.mediacdn.vn/web_js/kcb.plugin.min.20190108.js",
+        
+        sharefbApiDomain:"https://sharefb.cnnd.vn",
+        videoplayer:"https://vcplayer.mediacdn.vn",
+        imageStorage:"https://cdn.tuoitre.vn",
+        videoImageDomain: "https://video-thumbs.tuoitre.vn",
+         domain_TVO: "https://tv.tuoitre.vn",
+        playerSecureToken: "L3NlY3VyZS92ZXJpZnkveHZxcmNhZGhlYmZpMHY1dm5zM2Ywd3d3a3Y2MDdkMDgvMTAwMjI1L2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUp5WldZaU9pSWlMQ0poY0hCclpYa2lPaUo0ZG5GeVkyRmthR1ZpWm1rd2RqVjJibk16WmpCM2QzZHJkall3TjJRd09DSXNJbkJzWVhsbGNpSTZJakV3TURJeU5TSXNJbWxuYm05eVpVVjRjR2x5WVhScGIyNGlPblJ5ZFdVc0ltbGhkQ0k2TVRVek9UVTNNVEE1TVN3aVpYaHdJam94TlRNNU5UY3hNakV4ZlEuVVZUWUxLNkROcjF1TG9vMDYzNVJ2TXNpeU1wUFJvYVJCa0tva3VhWC03OA=="
+        
+        
+    };
+</script>
+
+<!-- Google Analytics -->
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-KFJP3N');</script>
+
+
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+
+   
+    <!--AdAsia-->
+   
+    <!--End AdAsia-->
+    <link rel="stylesheet" type="text/css" href="https://quangcao.tuoitre.vn/static/js/cms_ads.css" />
+<script async type="text/javascript" src="//quangcao.tuoitre.vn/static/js/cms_ads.js"></script>
+     <script type="text/javascript">
+        var arfAsync = arfAsync || [];
+    </script>
+
+<script async src="https://static.amcdn.vn/tka/cdn.js" type="text/javascript"></script>
+<script id="arf-core-js" onerror="window.admerrorload=true;" src="//media1.admicro.vn/cms/Arf.min.js" async></script>
+<script>
+    var is_iPadScreen = navigator.userAgent.match(/iPad/i);
+</script>
+    
+
+
+
+<link href="https://static.mediacdn.vn/tuoitre/web_css/thethao.home.09052019v1.min.css" rel="stylesheet" />   
+
+
+
+
+
+<script src="https://static.mediacdn.vn/tuoitre/web_js/thethao.home.30102019v1.min.js"></script>
+
+
+ 
+
+   
+    <style>
+        .tto-tv:after {
+            display: none !important;
+        }
+    </style>
+    <link rel="canonical" href="https://thethao.tuoitre.vn/" /></head>
+<body class="subsite">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFJP3N" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+        <div id="admWrapsite">
+            <div class="wapper">
+                
+
+
+
+<header>
+    <div class="header-top">
+        <div class="w980">
+            <ul>
+                
+                <li class="fl"><a title="Tuổi trẻ TV" href="https://tv.tuoitre.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTTV.png" alt="logo tuổi trẻ TV" style="width: 80px; height: 26px;" /></a></li>
+                <li class="fl"><a title="Tuổi Trẻ cuối tuần" href="https://cuoituan.tuoitre.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTCT.png" alt="logo tuổi trẻ cuối tuần" style="width: 80px; height: 26px;" /></a></li>
+                <li class="fl"><a title="Tuổi Trẻ News" href="https://tuoitrenews.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTNews.png" alt="logo tuổi trẻ news" style="width: 80px; height: 26px;" /></a></li>
+                <li class="fl logo-ttc"><a title="Tuổi Trẻ Cười" href="https://cuoi.tuoitre.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/thumb_w/75/tuoitre/web_images/logo_tuoitrecuoi-01.png" alt="Tuổi Trẻ Cười" /></a></li>
+                <li class="fr pos-rlt iconhumman hidden tto-id-info">
+                    <a title="Tên đăng nhập" href="javascript:;" rel="nofollow" class="textunset donelogin tto-id-username-a">
+                        <img src="https://static.mediacdn.vn/zoom/15_15/tuoitre/web_images/tto_default_avatar.png" class="img14x14 fl tto-id-useravatar" />
+                        <span class="tto-id-username"></span></a>
+
+                    <div class="expandMenu" style="display: none">
+                        <ul class="information-humman">
+                            <li><a class="news-save active showandhide" href="javascript:void(0)" title="" rel="nofollow">Tin đã lưu</a></li>
+                            <li><a class="comment-setup showandhide comment" href="javascript:void(0)" title="" rel="nofollow">Bình luận của bạn</a></li>
+                            
+                            <li><a class="comment-setup showandhide setup" href="javascript:void(0)" title="" rel="nofollow">Cài đặt tài khoản</a></li>
+                            <li><a href="#" title="Đăng xuất" class="logout" rel="nofollow">Đăng xuất</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="fr tto-id-login">
+                    <a title="Đăng nhập" href="javascript:;" onclick="openPopup('loginForm','tab-login')" rel="nofollow" class="textunset loginlogout fl">Đăng nhập&nbsp;|</a>
+                    <a title="Đăng ký" href="javascript:;" onclick="openPopup('loginForm','tab-register')" rel="nofollow" class="textunset fl">&nbsp;Đăng ký</a>
+                </li>
+                <li class="fr"><a title="Quảng cáo" href="https://quangcao.tuoitre.vn/" rel="nofollow" class="textunset desktop-only" target="_blank">Quảng cáo</a></li>
+                <li class="fr"><a href="http://pay.tuoitre.vn/dat-bao" target="_blank" rel="nofollow" class="textunset desktop-only" title="Đặt báo Tuổi Trẻ">Đặt báo</a></li>
+                <li class="fr"><a title="Hotline" href="tel:0918033133" rel="nofollow" class="textunset desktop-only">Hotline: 0918.033.133</a></li>
+            </ul>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="header-middle">
+
+        <div class="menu-category" style="display: none;">
+            <ul class="menu-ul">
+                <li class="menu-li1"><a class="hidearrow" title="Media" rel="nofollow" target="_blank" href="https://tuoitre.vn/media.htm">Media</a></li>
+                <li class="menu-li1"><a title="Thời sự" rel="nofollow" target="_blank" href="https://tuoitre.vn/thoi-su.htm" data-id="3">Thời sự</a></li>
+                <li class="menu-li1"><a title="Thế giới" rel="nofollow" target="_blank" href="https://tuoitre.vn/the-gioi.htm" data-id="2">Thế giới</a></li>
+                <li class="menu-li1"><a title="Pháp luật" rel="nofollow" target="_blank" href="https://tuoitre.vn/phap-luat.htm" data-id="6">Pháp luật</a></li>
+                <li class="menu-li1"><a title="Kinh doanh" rel="nofollow" target="_blank" href="https://tuoitre.vn/kinh-doanh.htm" data-id="11">Kinh doanh</a></li>
+                <li class="menu-li1"><a title="Công nghệ" href="/" data-id="200029">Công nghệ</a></li>
+                <li class="menu-li1"><a title="Xe" rel="nofollow" target="_blank" href="https://tuoitre.vn/xe.htm" data-id="659">Xe</a></li>
+                <li class="menu-li1"><a title="Du lịch" rel="nofollow" target="_blank" href="https://dulich.tuoitre.vn" data-id="100">Du lịch</a></li>
+                <li class="menu-li1"><a title="Nhịp sống trẻ" rel="nofollow" target="_blank" href="https://tuoitre.vn/nhip-song-tre.htm" data-id="7">Nhịp sống trẻ</a></li>
+                <li class="menu-li1"><a title="Văn hóa" rel="nofollow" target="_blank" href="https://tuoitre.vn/van-hoa.htm" data-id="200017">Văn hóa</a></li>
+                <li class="menu-li1"><a title="Giải trí" rel="nofollow" target="_blank" href="https://tuoitre.vn/giai-tri.htm" data-id="10">Giải trí</a></li>
+                <li class="menu-li1"><a title="Thể thao" rel="nofollow" target="_blank" href="https://thethao.tuoitre.vn" data-id="1209">Thể thao</a></li>
+                <li class="menu-li1"><a title="Giáo dục" rel="nofollow" target="_blank" href="https://tuoitre.vn/giao-duc.htm" data-id="13">Giáo dục</a></li>
+                <li class="menu-li1"><a title="Khoa học" rel="nofollow" target="_blank" href="https://tuoitre.vn/khoa-hoc.htm" data-id="661">Khoa học</a></li>
+                <li class="menu-li1"><a title="Sức khỏe" rel="nofollow" target="_blank" href="https://tuoitre.vn/suc-khoe.htm" data-id="12">Sức khỏe</a></li>
+                <li class="menu-li1"><a title="Giả-thật" rel="nofollow" target="_blank" href="https://tuoitre.vn/gia-that.htm" data-id="200015">Giả-thật</a></li>
+                <li class="menu-li1"><a rel="nofollow" target="_blank" href="https://tuoitre.vn/ban-doc-lam-bao.htm" title="Bạn đọc" data-id="118">Bạn đọc</a></li>
+            </ul>
+        </div>
+
+        <div class="w980">
+            <a href='https://tuoitre.vn' title='Tin tức, tin nóng, đọc báo điện tử - Tuổi Trẻ Online' class='logo-header fl'></a>
+            <div class="frm-search fr desktop-only" id="search-frm">
+                <input class="txt-search" type="text" readonly onfocus="this.removeAttribute('readonly');" placeholder="Tìm kiếm tin tức">
+                <a class="icon icon-search btn-search sprite16" href="javascript:void" title="Tìm kiếm" rel="nofollow">&nbsp;</a>
+            </div>
+            <ul class="list-cate fr">
+                <li>
+                    <a href="https://www.youtube.com/channel/UC47WI-kZXFf0H_f7pvaNCEQ" target="_blank" rel="nofollow" title="YOUTUBE BÁO TUỔI TRẺ">YOUTUBE BÁO TUỔI TRẺ</a>
+                </li>
+                <li>
+                    <a href="/giao-duc/tuyen-sinh.htm" target="_blank" rel="nofollow" title="TUYỂN SINH">TUYỂN SINH</a>
+                </li>
+                <li>
+                    <a href="https://nhadat.tuoitre.vn" target="_blank" rel="nofollow" title="NHÀ ĐẤT">NHÀ ĐẤT</a>
+                </li>
+                <li>
+                    <a href="https://tuoitre.vn/can-biet.htm" target="_blank" rel="nofollow" title="CẦN BIẾT">CẦN BIẾT</a>
+                </li>
+                
+            </ul>
+
+            <a href="javascript:void(0)" title="Search" rel="nofollow" class="btn-search-mobile" style="display: none;"></a>
+            <div title="Menu Ipad" rel="nofollow" class="menu-ipad">
+                <div style="float: right;">
+                    <span class="line1 linemn"></span>
+                    <span class="line2 linemn"></span>
+                    <span class="line3 linemn"></span>
+                </div>
+            </div>
+            <a href="tel:0918.033.133" title="Phone" class="callbyphone tablet-only"></a>
+            
+
+            <div class="frm-search fr tablet-only" id="search-frm-t">
+                <input class="txt-search" type="text" readonly onfocus="this.removeAttribute('readonly');" placeholder="Tìm kiếm tin tức">
+                <a class="icon icon-search btn-search sprite16" href="javascript:void" title="Tìm kiếm" rel="nofollow">&nbsp;</a>
+            </div>
+
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="banner-top w980">
+        
+
+
+<zone id="jmwxbvb5"></zone>
+<script>
+          arfAsync.push("jmwxbvb5");
+</script>
+            <style>
+                .subsite .banner-top { display: block; }
+            </style>
+        
+        
+    </div>
+    <div class="header-bottom">
+        <div class="w980">
+            <ul class="menu-ul">
+                <li class="menu-li"><a class="iconhome hidearrow" title="Trang chủ" href="https://tuoitre.vn/"></a></li>
+                <li class="menu-li"><a class="hidearrow" title="Media" rel="nofollow" target="_blank" href="https://tuoitre.vn/media.htm">Media</a></li>
+                <li class="menu-li"><a title="Thời sự" rel="nofollow" target="_blank" href="https://tuoitre.vn/thoi-su.htm" data-id="3">Thời sự</a></li>
+                <li class="menu-li"><a title="Thế giới" rel="nofollow" target="_blank" href="https://tuoitre.vn/the-gioi.htm" data-id="2">Thế giới</a></li>
+                <li class="menu-li"><a title="Pháp luật" rel="nofollow" target="_blank" href="https://tuoitre.vn/phap-luat.htm" data-id="6">Pháp luật</a></li>
+                <li class="menu-li"><a title="Kinh doanh" rel="nofollow" target="_blank" href="https://tuoitre.vn/kinh-doanh.htm" data-id="11">Kinh doanh</a></li>
+                <li class="menu-li"><a title="Công nghệ" rel="nofollow" target="_blank" href="https://congnghe.tuoitre.vn" data-id="200029">Công nghệ</a></li>
+                <li class="menu-li"><a title="Xe" rel="nofollow" target="_blank" href="https://tuoitre.vn/xe.htm" data-id="659">Xe</a></li>
+                <li class="menu-li"><a title="Du lịch" rel="nofollow" target="_blank" href="https://dulich.tuoitre.vn" data-id="100">Du lịch</a></li>
+                <li class="menu-li"><a title="Nhịp sống trẻ" rel="nofollow" target="_blank" href="https://tuoitre.vn/nhip-song-tre.htm" data-id="7">Nhịp sống trẻ</a></li>
+                <li class="menu-li"><a title="Văn hóa" rel="nofollow" target="_blank" href="https://tuoitre.vn/van-hoa.htm" data-id="200017">Văn hóa</a></li>
+                <li class="menu-li"><a title="Giải trí" rel="nofollow" target="_blank" href="https://tuoitre.vn/giai-tri.htm" data-id="10">Giải trí</a></li>
+                <li class="menu-li"><a title="Thể thao" href="https://thethao.tuoitre.vn" data-id="1209">Thể thao</a></li>
+                <li class="menu-li"><a title="Giáo dục" rel="nofollow" target="_blank" href="https://tuoitre.vn/giao-duc.htm" data-id="13">Giáo dục</a></li>
+                <li class="menu-li"><a title="Khoa học" rel="nofollow" target="_blank" href="https://tuoitre.vn/khoa-hoc.htm" data-id="661">Khoa học</a></li>
+                <li class="menu-li"><a title="Sức khỏe" rel="nofollow" target="_blank" href="https://tuoitre.vn/suc-khoe.htm" data-id="12">Sức khỏe</a></li>
+                <li class="menu-li"><a title="Giả-thật" rel="nofollow" target="_blank" href="https://tuoitre.vn/gia-that.htm" data-id="200015">Giả-thật</a></li>
+                <li class="menu-li"><a rel="nofollow" target="_blank" href="https://tuoitre.vn/ban-doc-lam-bao.htm" title="Bạn đọc" data-id="118">Bạn đọc</a></li>
+            </ul>
+        </div>
+        <div class="menu-expand">
+            <div class="menu-expand-wrapper clearfix">
+                <div class="w980 mgt15">
+                    <div class="menu-expand-left fl">
+                        <a class="menu-expand-title" href="javascript:;" title="Vào chuyên mục">Vào chuyên mục</a>
+                        <ul class="menu-expand-ul clearfix">
+                            <li class="menu-expand-li active" data-item="lastest">
+                                <a href="javascript:;" rel="nofollow" class="menu-expand-li-title" title="Mới nhất">Mới nhất</a>
+                            </li>
+                            <li class="menu-expand-li" data-item="focus">
+                                <a href="javascript:;" rel="nofollow" class="menu-expand-li-title" title="Tiêu điểm">Tiêu điểm</a>
+                            </li>
+                            <li class="menu-expand-li" data-item="mostview">
+                                <a href="javascript:;" rel="nofollow" class="menu-expand-li-title" title="Xem nhiều">Xem nhiều</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="menu-expand-right fr">
+                        <ul class="list-news lastest active">
+                        </ul>
+                        <ul class="list-news focus">
+                        </ul>
+                        <ul class="list-news mostview">
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="arrow"></div>
+    </div>
+    <script>
+        (runinit = window.runinit || []).push(function () {
+            hoverMenuDoneLogin();
+            $('.menu-ipad').click(function () {
+                $(this).toggleClass('active');
+                $(this).closest(".header-middle").find(".menu-category").toggleClass('active');
+            });
+        });
+    </script>
+</header>
+
+                <section id="content">
+                    
+    <div class="w1200">
+        
+
+
+<div class="page_breadcrum">
+    <div class="zone-main"><h1><a href='/' title='Thể thao'>Thể thao</a></h1></div>
+    <ul>
+        <li><a href="https://seagames30.tuoitre.vn/">SEA Games 30</a></li>
+        
+            <li><a href="/tin-tuc.htm">Tin tức</a></li>
+        
+        
+            <li><a href="/cong-dong.htm">Cộng đồng</a></li>
+        
+        
+            <li><a href="/binh-luan.htm">Bình luận</a></li>
+        
+        
+            <li><a href="/video.htm">Videos</a></li>
+        
+        
+            <li><a href="/the-thao-vui.htm">Thể thao vui</a></li>
+        
+    </ul>
+    <div class="page_time">
+        Thứ 7, ngày 20 tháng 6 năm 2020
+    </div>
+</div>
+
+        <div class="page_breaking_news">
+            <ul>
+    
+        <li><a href="/giai-u23-chau-a-2020-e569.htm" title="Giải U23 châu Á 2020">Giải U23 châu Á 2020</a></li>
+    
+        <li><a href="/sea-games-2019-e549.htm" title="SEA Games 2019">SEA Games 2019</a></li>
+    
+        <li><a href="/vong-loai-world-cup-2022-e514.htm" title="Vòng loại World Cup 2022">Vòng loại World Cup 2022</a></li>
+    
+        <li><a href="/chung-tay-diet-nan-bao-luc-san-co-e393.htm" title="Chung tay diệt nạn bạo lực sân cỏ">Chung tay diệt nạn bạo lực sân cỏ</a></li>
+    
+        </ul>
+            </div>
+    
+
+        <div class="page_container page_container_index">
+            <div class="page_col_left">
+                
+<div class="highlight">
+    <div class="top2">
+        <div class="top2_1" data-boxtype="homenewsposition">
+            <a data-displayinslide="0" class="img pos-rlt" title="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu hôm nay: Tâm đi&#7875;m Arsenal"  data-objecttype="1" href="/lich-truc-tiep-bong-da-chau-au-hom-nay-tam-diem-arsenal-20200620045211014.htm">
+                <img alt="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu hôm nay: Tâm đi&#7875;m Arsenal" src="https://cdn.tuoitre.vn/zoom/480_300/2020/6/20/103750377189651352429428964107202856804795n-1592603288476853784284-crop-15926034348541704031985.jpg" /></a>
+            <h3><a href="/lich-truc-tiep-bong-da-chau-au-hom-nay-tam-diem-arsenal-20200620045211014.htm"  data-objecttype="1" title="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu hôm nay: Tâm đi&#7875;m Arsenal" data-type="0" data-linktype="newsdetail" data-id="20200620045211014" data-comment="20200620045211014">Lịch trực tiếp bóng đá châu Âu hôm nay: Tâm điểm Arsenal</a></h3>
+            <p>TTO - Đêm 20-6 và rạng sáng 21-6, bóng đá châu Âu sẽ tiếp tục sôi động với nhiều trận đấu hay. Tuổi Trẻ Online gửi đến bạn đọc lịch trực tiếp những trận cầu đáng chú ý, trong đó có trận đấu giữa Brighton và Arsenal.</p>
+        </div>
+
+        <div class="top2_2" data-boxtype="homenewsposition">
+            <a data-displayinslide="0"  class="img pos-rlt" href="/tottenham-man-united-dai-chien-nhat-pheo-20200620043946565.htm" title="Tottenham - Man United: &#39;đ&#7841;i chi&#7871;n&#39; nh&#7841;t phèo" data-objecttype="1">
+                <img alt="Tottenham - Man United: &#39;đ&#7841;i chi&#7871;n&#39; nh&#7841;t phèo" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/20/2020-06-19t210604z1335916052up1eg6j1mm4m7rtrmadp3soccer-england-tot-mun-report-1592602655608289222914-crop-1592602774735811092577.jpg" /></a>
+            <h3><a  href="/tottenham-man-united-dai-chien-nhat-pheo-20200620043946565.htm" title="Tottenham - Man United: &#39;đ&#7841;i chi&#7871;n&#39; nh&#7841;t phèo" data-type="0" data-linktype="newsdetail" data-objecttype="1" data-id="20200620043946565" data-comment="20200620043946565">Tottenham - Man United: 'đại chiến' nhạt phèo</a></h3>
+            <p class="fixline">TTO - Rạng sáng 20-6, Tottenham và Man United đã hòa nhau 1-1 ở vòng 30 Giải ngoại hạng Anh (Premier League) - vòng đấu chính thức đầu tiên sau dịch COVID-19. Đây là trận đấu có chất lượng chuyên môn thấp nếu được gán mác "đại chiến".</p>
+        </div>
+    </div>
+    <ul class="top4">
+        
+                <li data-boxtype="homenewsposition">
+                    <a data-displayinslide="0"  data-objecttype="1" class="img pos-rlt" href="/thang-tran-thu-3-lien-tiep-khanh-hoa-vuon-len-dau-bang-20200619193203903.htm" title="Th&#7855;ng tr&#7853;n th&#7913; 3 liên ti&#7871;p, Khánh Hòa vươn lên đ&#7847;u b&#7843;ng">
+                        <img alt="Th&#7855;ng tr&#7853;n th&#7913; 3 liên ti&#7871;p, Khánh Hòa vươn lên đ&#7847;u b&#7843;ng" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/khanh-hoa-1592570933163144827698-crop-15925716336851319678426.jpg" /></a>
+                    <h3><a href="/thang-tran-thu-3-lien-tiep-khanh-hoa-vuon-len-dau-bang-20200619193203903.htm"  title="Th&#7855;ng tr&#7853;n th&#7913; 3 liên ti&#7871;p, Khánh Hòa vươn lên đ&#7847;u b&#7843;ng" data-type="0"  data-objecttype="1" data-linktype="newsdetail" data-id="20200619193203903" data-comment="20200619193203903">Thắng trận thứ 3 liên tiếp, Khánh Hòa vươn lên đầu bảng</a></h3>
+                </li>
+            
+                <li data-boxtype="homenewsposition">
+                    <a data-displayinslide="2"  data-objecttype="1" class="img pos-rlt" href="/video-trong-tai-thoi-phat-den-hlv-huu-dang-tuc-gian-bat-vay-thoi-chet-roi-20200619184713023.htm" title="Video: Tr&#7885;ng tài th&#7893;i ph&#7841;t đ&#7873;n, HLV H&#7919;u Đang t&#7913;c gi&#7853;n: &#39;B&#7855;t v&#7853;y thôi ch&#7871;t r&#7891;i&#39;">
+                        <img alt="Video: Tr&#7885;ng tài th&#7893;i ph&#7841;t đ&#7873;n, HLV H&#7919;u Đang t&#7913;c gi&#7853;n: &#39;B&#7855;t v&#7853;y thôi ch&#7871;t r&#7891;i&#39;" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/45ns0z-15925673559861927993602-crop-15925674087971426567548.gif" /></a>
+                    <h3><a href="/video-trong-tai-thoi-phat-den-hlv-huu-dang-tuc-gian-bat-vay-thoi-chet-roi-20200619184713023.htm"  title="Video: Tr&#7885;ng tài th&#7893;i ph&#7841;t đ&#7873;n, HLV H&#7919;u Đang t&#7913;c gi&#7853;n: &#39;B&#7855;t v&#7853;y thôi ch&#7871;t r&#7891;i&#39;" data-type="2"  data-objecttype="1" data-linktype="newsdetail" data-id="20200619184713023" data-comment="20200619184713023">Video: Trọng tài thổi phạt đền, HLV Hữu Đang tức giận: 'Bắt vậy thôi chết rồi'</a></h3>
+                </li>
+            
+                <li data-boxtype="homenewsposition">
+                    <a data-displayinslide="2"  data-objecttype="1" class="img pos-rlt" href="/video-vo-si-philippines-voi-2-cu-dam-duoc-vi-nhu-chiec-bua-cua-thor-lam-doi-thu-bat-ngua-20200619151015625.htm" title="Video: Võ sĩ Philippines v&#7899;i 2 cú đ&#7845;m đư&#7907;c ví như &#39;chi&#7871;c búa c&#7911;a Thor&#39; làm đ&#7889;i th&#7911; b&#7853;t ng&#7917;a">
+                        <img alt="Video: Võ sĩ Philippines v&#7899;i 2 cú đ&#7845;m đư&#7907;c ví như &#39;chi&#7871;c búa c&#7911;a Thor&#39; làm đ&#7889;i th&#7911; b&#7853;t ng&#7917;a" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/45nbip-159255569549874033282-crop-1592556291923518689193.gif" /></a>
+                    <h3><a href="/video-vo-si-philippines-voi-2-cu-dam-duoc-vi-nhu-chiec-bua-cua-thor-lam-doi-thu-bat-ngua-20200619151015625.htm"  title="Video: Võ sĩ Philippines v&#7899;i 2 cú đ&#7845;m đư&#7907;c ví như &#39;chi&#7871;c búa c&#7911;a Thor&#39; làm đ&#7889;i th&#7911; b&#7853;t ng&#7917;a" data-type="2"  data-objecttype="1" data-linktype="newsdetail" data-id="20200619151015625" data-comment="20200619151015625">Video: Võ sĩ Philippines với 2 cú đấm được ví như 'chiếc búa của Thor' làm đối thủ bật ngửa</a></h3>
+                </li>
+            
+                <li data-boxtype="homenewsposition">
+                    <a data-displayinslide="4"  data-objecttype="1" class="img pos-rlt" href="/thanh-tich-doi-dau-giua-tottenham-va-man-utd-tai-premier-league-20200619144952786.htm" title="Thành tích đ&#7889;i đ&#7847;u gi&#7919;a Tottenham và Man Utd t&#7841;i Premier League">
+                        <img alt="Thành tích đ&#7889;i đ&#7847;u gi&#7919;a Tottenham và Man Utd t&#7841;i Premier League" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/0manchester-united-v-tottenham-hotspur-premier-league-15925529381851559019403-crop-1592552941553293531936.jpg" /></a>
+                    <h3><a href="/thanh-tich-doi-dau-giua-tottenham-va-man-utd-tai-premier-league-20200619144952786.htm"  title="Thành tích đ&#7889;i đ&#7847;u gi&#7919;a Tottenham và Man Utd t&#7841;i Premier League" data-type="4"  data-objecttype="1" data-linktype="newsdetail" data-id="20200619144952786" data-comment="20200619144952786">Thành tích đối đầu giữa Tottenham và Man Utd tại Premier League</a></h3>
+                </li>
+            
+    </ul>
+</div>
+
+                <hr class="line_seper" />
+                <div class="clearfix">
+                    
+<div class="cat_type1 fl">
+    <div class="tit"><a href="/cong-dong.htm" title="Cộng đồng">Cộng đồng</a></div>
+    <ul>
+        
+                <li>
+                    <a title="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu hôm nay: Tâm đi&#7875;m Arsenal" href="/lich-truc-tiep-bong-da-chau-au-hom-nay-tam-diem-arsenal-20200620045211014.htm">
+                        <img alt="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu hôm nay: Tâm đi&#7875;m Arsenal" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/20/103750377189651352429428964107202856804795n-1592603288476853784284-crop-15926034348541704031985.jpg" /></a>
+                    <h3>
+                        <a title="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu hôm nay: Tâm đi&#7875;m Arsenal" href="/lich-truc-tiep-bong-da-chau-au-hom-nay-tam-diem-arsenal-20200620045211014.htm">Lịch trực tiếp bóng đá châu Âu hôm nay: Tâm điểm Arsenal</a>
+                        
+                    </h3>
+                </li>
+            
+                <li>
+                    <a title="Thành tích đ&#7889;i đ&#7847;u gi&#7919;a Tottenham và Man Utd t&#7841;i Premier League" href="/thanh-tich-doi-dau-giua-tottenham-va-man-utd-tai-premier-league-20200619144952786.htm">
+                        <img alt="Thành tích đ&#7889;i đ&#7847;u gi&#7919;a Tottenham và Man Utd t&#7841;i Premier League" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/0manchester-united-v-tottenham-hotspur-premier-league-15925529381851559019403-crop-1592552941553293531936.jpg" /></a>
+                    <h3>
+                        <a title="Thành tích đ&#7889;i đ&#7847;u gi&#7919;a Tottenham và Man Utd t&#7841;i Premier League" href="/thanh-tich-doi-dau-giua-tottenham-va-man-utd-tai-premier-league-20200619144952786.htm">Thành tích đối đầu giữa Tottenham và Man Utd tại Premier League</a>
+                        
+                    </h3>
+                </li>
+            
+    </ul>
+</div>
+
+                    
+<div class="cat_type1 fr">
+    <div class="tit"><a href="/binh-luan.htm" title="Bình luận">Bình luận</a></div>
+    <ul>
+        
+                <li>
+                    <a title="&#39;Ông tr&#7901;i con&#39; trên sân Tam K&#7923;" href="/ong-troi-con-tren-san-tam-ky-20200619102858157.htm">
+                        <img alt="&#39;Ông tr&#7901;i con&#39; trên sân Tam K&#7923;" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/cau-thu-quang-nam-phan-ung-trong-tai-nguyen-dinh-thai-ngay-18-6-4read-only-1592537227409286333069-crop-15925373435811446898379.jpg" /></a>
+                    <h3>
+                        <a title="&#39;Ông tr&#7901;i con&#39; trên sân Tam K&#7923;" href="/ong-troi-con-tren-san-tam-ky-20200619102858157.htm">'Ông trời con' trên sân Tam Kỳ</a>
+                        
+                    </h3>
+                </li>
+            
+                <li>
+                    <a title="Vòng 30 Giải ngoại hạng Anh (Premier League): &#39;Gà trống&#39; đại chiến &#39;quỷ đỏ&#39;" href="/vong-30-giai-ngoai-hang-anh-premier-league-ga-trong-dai-chien-quy-do-20200619102424314.htm">
+                        <img alt="Vòng 30 Giải ngoại hạng Anh (Premier League): &#39;Gà trống&#39; đại chiến &#39;quỷ đỏ&#39;" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/harrykane-ngay-18-6-4read-only-15925369769351728412858-crop-1592537065360436265203.jpg" /></a>
+                    <h3>
+                        <a title="Vòng 30 Giải ngoại hạng Anh (Premier League): &#39;Gà trống&#39; đại chiến &#39;quỷ đỏ&#39;" href="/vong-30-giai-ngoai-hang-anh-premier-league-ga-trong-dai-chien-quy-do-20200619102424314.htm">Vòng 30 Giải ngoại hạng Anh (Premier League): 'Gà trống' đại chiến 'quỷ đỏ'</a>
+                        
+                    </h3>
+                </li>
+            
+    </ul>
+</div>
+
+                </div>
+                <hr class="line_seper" />
+                
+
+<div class="cat_type2">
+    <a class="tit" title="Bóng đá" href="/bong-da.html">Bóng đá</a>
+    <div class="ct clearfix">
+        <div class="left">
+            <a class="img" href="/tottenham-man-united-dai-chien-nhat-pheo-20200620043946565.htm" title="Tottenham - Man United: &#39;đ&#7841;i chi&#7871;n&#39; nh&#7841;t phèo">
+                <img src="https://cdn.tuoitre.vn/zoom/386_241/2020/6/20/2020-06-19t210604z1335916052up1eg6j1mm4m7rtrmadp3soccer-england-tot-mun-report-1592602655608289222914-crop-1592602774735811092577.jpg" alt="Tottenham - Man United: &#39;đ&#7841;i chi&#7871;n&#39; nh&#7841;t phèo" /></a>
+            <div class="txt">
+                <h3>
+                    <a href="/tottenham-man-united-dai-chien-nhat-pheo-20200620043946565.htm" title="Tottenham - Man United: &#39;đ&#7841;i chi&#7871;n&#39; nh&#7841;t phèo">Tottenham - Man United: 'đại chiến' nhạt phèo</a>
+                    <span class="comment_count" data-comment="20200620043946565">0</span>
+                </h3>
+                <p class="fixline">TTO - Rạng sáng 20-6, Tottenham và Man United đã hòa nhau 1-1 ở vòng 30 Giải ngoại hạng Anh (Premier League) - vòng đấu chính thức đầu tiên sau dịch COVID-19. Đây là trận đấu có chất lượng chuyên môn thấp nếu được gán mác "đại chiến".</p>
+                
+                        <ul>
+                    
+                        <li>
+                            <a class="img" title="Thành tích đối đầu giữa Tottenham và Man Utd tại Premier League" data-objecttype="1"
+                                href="/thanh-tich-doi-dau-giua-tottenham-va-man-utd-tai-premier-league-20200619144952786.htm"
+                                >
+                                <img src="https://cdn.tuoitre.vn/zoom/64_40/2020/6/19/0manchester-united-v-tottenham-hotspur-premier-league-15925529381851559019403-crop-1592552941553293531936.jpg" alt="/thanh-tich-doi-dau-giua-tottenham-va-man-utd-tai-premier-league-20200619144952786.htm" /></a>
+                            <h3><a title="Thành tích đ&#7889;i đ&#7847;u gi&#7919;a Tottenham và Man Utd t&#7841;i Premier League"
+                                href="/thanh-tich-doi-dau-giua-tottenham-va-man-utd-tai-premier-league-20200619144952786.htm"
+                                >Thành tích đối đầu giữa Tottenham và Man Utd tại Premier League</a></h3>
+                        </li>
+                    
+                        <li>
+                            <a class="img" title="Lịch trực tiếp bóng đá châu Âu 20-6: 'Đại chiến' Tottenham - Manchester United" data-objecttype="1"
+                                href="/lich-truc-tiep-bong-da-chau-au-20-6-dai-chien-tottenham-manchester-united-202006182330087.htm"
+                                >
+                                <img src="https://cdn.tuoitre.vn/zoom/64_40/2020/6/18/1039993746822957526170389035403641884964003n-15924976255371037619394-crop-1592497776330926898837.jpg" alt="/lich-truc-tiep-bong-da-chau-au-20-6-dai-chien-tottenham-manchester-united-202006182330087.htm" /></a>
+                            <h3><a title="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu 20-6: &#39;Đ&#7841;i chi&#7871;n&#39; Tottenham - Manchester United"
+                                href="/lich-truc-tiep-bong-da-chau-au-20-6-dai-chien-tottenham-manchester-united-202006182330087.htm"
+                                >Lịch trực tiếp bóng đá châu Âu 20-6: 'Đại chiến' Tottenham - Manchester United</a></h3>
+                        </li>
+                    
+                        </ul>
+                    
+            </div>
+        </div>
+        <div class="right">
+            <a class="img" href="/danh-bai-ha-noi-song-lam-nghe-an-vuon-len-dan-dau-bang-20200618184657509.htm" title="Đánh b&#7841;i Hà N&#7897;i, Sông Lam Ngh&#7879; An vươn lên d&#7851;n đ&#7847;u b&#7843;ng">
+                <img alt="Đánh b&#7841;i Hà N&#7897;i, Sông Lam Ngh&#7879; An vươn lên d&#7851;n đ&#7847;u b&#7843;ng" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/18/1050433556697475736050912869639209238583330n-15924873521311665420877-crop-1592487358189627646020.jpg" /></a>
+            <h3>
+                <a href="/danh-bai-ha-noi-song-lam-nghe-an-vuon-len-dan-dau-bang-20200618184657509.htm" title="Đánh b&#7841;i Hà N&#7897;i, Sông Lam Ngh&#7879; An vươn lên d&#7851;n đ&#7847;u b&#7843;ng">Đánh bại Hà Nội, Sông Lam Nghệ An vươn lên dẫn đầu bảng</a>
+                <span class="comment_count" data-comment="20200618184657509">0</span>
+            </h3>
+            <p class="fixline">TTO - Tối 18-6, Sông Lam Nghệ An tiếp tục gây bất ngờ khi quật ngã chủ nhà CLB Hà Nội 1-0 trên sân Hàng Đẫy ở vòng 5 V-League. Với chiến thắng này, Sông Lam Nghệ An vươn lên dẫn đầu bảng xếp hạng với 11 điểm.</p>
+        </div>
+    </div>
+</div>
+
+                <hr class="line_seper" />
+                <div class="clearfix">
+                    
+<div class="submenu">
+    <h2 class="tit">Thể thao</h2>
+    <ul>
+        <li>
+            <h2><a href="/tin-tuc.htm">Tin tức</a></h2>
+        </li>
+        <li>
+            <h2><a href="/cong-dong.htm">Cộng đồng</a></h2>
+        </li>
+        <li>
+            <h2><a href="/binh-luan.htm">Bình luận</a></h2>
+        </li>
+        <li>
+            <h2><a href="/the-thao-vui.htm">Thể thao vui</a></h2>
+        </li>
+        <li>
+            <div class="seper"></div>
+        </li>
+        <li>
+            <h2><a href="/video.htm">Videos</a></h2>
+        </li>
+    </ul>
+    <div class="frm_search frm-search">
+        <a href="javascript:void(0)" class="btn_search btn-search" rel="nofollow"><span>&nbsp;</span></a>
+        <input type="text" id="txtSearch" placeholder="Tìm kiếm ..." class="txt-search" />
+    </div>
+
+    
+            <div class="trending">
+                <div class="tit">Cộng đồng</div>
+                <ul>
+        
+            <li><a href="/manchester-united.html" title="Manchester United">Manchester United</a></li>
+        
+            <li><a href="/real-madrid.html" title="Real madrid">Real madrid</a></li>
+        
+            <li><a href="/barcelona.html" title="barcelona">barcelona</a></li>
+        
+            <li><a href="/arsenal.html" title="Arsenal">Arsenal</a></li>
+        
+            </ul>
+    </div>
+        
+</div>
+
+                    <div class="list get-time-home-sport">
+                        
+<ul class="listnews ">
+    
+            <li class="news-item" data-newsid="20200620102411705">
+                <a class="img" title="HLV Shin Tae Yong căng th&#7859;ng v&#7899;i PSSI" href="/hlv-shin-tae-yong-cang-thang-voi-pssi-20200620102411705.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/20/hlv-shin-15926234114901540097109-crop-1592623455281473357278.jpg" alt="HLV Shin Tae Yong căng th&#7859;ng v&#7899;i PSSI" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/hlv-shin-tae-yong-cang-thang-voi-pssi-20200620102411705.htm" title="HLV Shin Tae Yong căng th&#7859;ng v&#7899;i PSSI">HLV Shin Tae Yong căng thẳng với PSSI</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - LĐBĐ Indonesia (PSSI) và HLV trưởng tuyển U19, U23 và đội tuyển quốc gia Indonesia Shin Tae Yong đang vướng vào một vụ lùm xùm khá căng thẳng.</p>
+                    <ul><li>
+                                <h3><a href='/ve-han-quoc-hlv-shin-tae-yong-noi-indonesia-chong-dich-kem-20200417004906929.htm' title='V&#7873; Hàn Qu&#7889;c, HLV Shin Tae Yong nói Indonesia ch&#7889;ng d&#7883;ch kém'>Về Hàn Quốc, HLV Shin Tae Yong nói Indonesia chống dịch kém</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200620101949312">
+                <a class="img" title="Chuyển nhượng  thảm họa như Arsenal" href="/chuyen-nhuong-tham-hoa-nhu-arsenal-20200620101949312.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/20/asenal-15926230760561382668856-crop-159262317680141991559.jpg" alt="Chuyển nhượng  thảm họa như Arsenal" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/chuyen-nhuong-tham-hoa-nhu-arsenal-20200620101949312.htm" title="Chuyển nhượng  thảm họa như Arsenal">Chuyển nhượng  thảm họa như Arsenal</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - Trận đấu bù vòng 29 Giải ngoại hạng Anh (Premier League) không những không mang về điểm số cho Arsenal, mà còn khiến “pháo thủ” trở thành đội bóng chịu nhiều sức ép nhất trong chiến dịch tái khởi động của giải đấu.</p>
+                    <ul><li>
+                                <h3><a href='/man-city-dai-thang-arsenal-trong-ngay-giai-ngoai-hang-anh-tro-lai-20200618044613148.htm' title='Man City đ&#7841;i th&#7855;ng Arsenal trong ngày Gi&#7843;i ngo&#7841;i h&#7841;ng Anh tr&#7903; l&#7841;i'>Man City đại thắng Arsenal trong ngày Giải ngoại hạng Anh trở lại</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619222948271">
+                <a class="img" title="Đưa c&#7847;u th&#7911; Vi&#7879;t Nam xu&#7845;t ngo&#7841;i: Đ&#7915;ng vì ý chí c&#7911;a các ông b&#7847;u" href="/dua-cau-thu-viet-nam-xuat-ngoai-dung-vi-y-chi-cua-cac-ong-bau-20200619222948271.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/19/td-1906-cau-thu-vn-xuat-ngoai-tto-1592580328799416491132-crop-15925804810641243874533.jpg" alt="Đưa c&#7847;u th&#7911; Vi&#7879;t Nam xu&#7845;t ngo&#7841;i: Đ&#7915;ng vì ý chí c&#7911;a các ông b&#7847;u" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/dua-cau-thu-viet-nam-xuat-ngoai-dung-vi-y-chi-cua-cac-ong-bau-20200619222948271.htm" title="Đưa c&#7847;u th&#7911; Vi&#7879;t Nam xu&#7845;t ngo&#7841;i: Đ&#7915;ng vì ý chí c&#7911;a các ông b&#7847;u">Đưa cầu thủ Việt Nam xuất ngoại: Đừng vì ý chí của các ông bầu</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - Văn Hậu (Hà Lan), Tuấn Anh (Nhật Bản), Công Phượng (Nhật Bản, Hàn Quốc, Bỉ), Xuân Trường (Hàn Quốc, Thái Lan)... xuất ngoại để rồi miệt mài ngồi trên băng ghế dự bị hay chỉ chơi cho đội hình dự bị.</p>
+                    <ul><li>
+                                <h3><a href='/giac-mo-xuat-ngoai-cua-cong-phuong-va-hi-vong-cua-bong-da-vn-20190124235250627.htm' title='Gi&#7845;c mơ xu&#7845;t ngo&#7841;i c&#7911;a Công Phư&#7907;ng và hi v&#7885;ng c&#7911;a bóng đá VN'>Giấc mơ xuất ngoại của Công Phượng và hi vọng của bóng đá VN</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+</ul>
+
+                        <hr class="line_seper" />
+                        
+<div class="imgnews">
+    <div class="tit">Thể thao qua ảnh</div>
+    <a href="/cham-dut-341-ngay-khong-thang-o-v-league-hlv-thanh-hoa-nhay-cang-an-mung-20200618212932299.htm" title="Ch&#7845;m d&#7913;t 341 ngày không th&#7855;ng &#7903; V-League, HLV Thanh Hóa nh&#7843;y c&#7851;ng ăn m&#7915;ng" class="img">
+        <img src="https://cdn.tuoitre.vn/zoom/728_455/2020/6/18/2020-6-18-thanh-hoa-nam-dinh-63-15924895792211857745385-crop-15924899110001031127240.jpg" alt="Ch&#7845;m d&#7913;t 341 ngày không th&#7855;ng &#7903; V-League, HLV Thanh Hóa nh&#7843;y c&#7851;ng ăn m&#7915;ng" /></a>
+    <h3><a href="/cham-dut-341-ngay-khong-thang-o-v-league-hlv-thanh-hoa-nhay-cang-an-mung-20200618212932299.htm" title="Ch&#7845;m d&#7913;t 341 ngày không th&#7855;ng &#7903; V-League, HLV Thanh Hóa nh&#7843;y c&#7851;ng ăn m&#7915;ng">Chấm dứt 341 ngày không thắng ở V-League, HLV Thanh Hóa nhảy cẫng ăn mừng</a></h3>
+</div>
+
+                        <hr class="line_seper" />
+                        
+
+<div class="videonews">
+    <div class="tit">Videos</div>
+    <ul>
+        
+                <li>
+                    <a class="img" title="Video nh&#7919;ng tình hu&#7889;ng &#39;x&#7845;u chơi&#39; tr&#7853;n CLB TP.HCM thua Sài Gòn" href="/video-nhung-tinh-huong-xau-choi-tran-clb-tp-hcm-thua-sai-gon-20200612220150206.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/230_130/2020/6/12/khoi0951-1591973555799436130838-crop-1591973562820567159683.jpg" alt="Video nh&#7919;ng tình hu&#7889;ng &#39;x&#7845;u chơi&#39; tr&#7853;n CLB TP.HCM thua Sài Gòn" />
+                        
+                        <span class="icon-play"></span>
+                    </a>
+                    <h3>
+                        <a href="/video-nhung-tinh-huong-xau-choi-tran-clb-tp-hcm-thua-sai-gon-20200612220150206.htm" title="">Video những tình huống 'xấu chơi' trận CLB TP.HCM thua Sài Gòn</a>
+                        
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img" title="Video cú sút xa ghi bàn &#39;ngo&#7841;i h&#7841;ng&#39; c&#7911;a ngo&#7841;i binh Nam Đ&#7883;nh" href="/video-cu-sut-xa-ghi-ban-ngoai-hang-cua-ngoai-binh-nam-dinh-20200605204854097.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/230_130/2020/6/5/443bq8-15913648439311870205711-crop-15913649037171938279725.gif" alt="Video cú sút xa ghi bàn &#39;ngo&#7841;i h&#7841;ng&#39; c&#7911;a ngo&#7841;i binh Nam Đ&#7883;nh" />
+                        
+                        <span class="icon-play"></span>
+                    </a>
+                    <h3>
+                        <a href="/video-cu-sut-xa-ghi-ban-ngoai-hang-cua-ngoai-binh-nam-dinh-20200605204854097.htm" title="">Video cú sút xa ghi bàn 'ngoại hạng' của ngoại binh Nam Định</a>
+                        
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img" title="Cú hat-trick đ&#7847;u tiên c&#7911;a bóng đá Vi&#7879;t Nam sau khi tr&#7903; l&#7841;i t&#7915; d&#7883;ch COVID-19" href="/cu-hat-trick-dau-tien-cua-bong-da-viet-nam-sau-khi-tro-lai-tu-dich-covid-19-20200605204331035.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/230_130/2020/6/5/screen-shot-2020-06-05-at-84201-pm-15913645381091561785249-crop-15913645463011671769546.png" alt="Cú hat-trick đ&#7847;u tiên c&#7911;a bóng đá Vi&#7879;t Nam sau khi tr&#7903; l&#7841;i t&#7915; d&#7883;ch COVID-19" />
+                        
+                        <span class="icon-play"></span>
+                    </a>
+                    <h3>
+                        <a href="/cu-hat-trick-dau-tien-cua-bong-da-viet-nam-sau-khi-tro-lai-tu-dich-covid-19-20200605204331035.htm" title="">Cú hat-trick đầu tiên của bóng đá Việt Nam sau khi trở lại từ dịch COVID-19</a>
+                        
+                    </h3>
+                </li>
+            
+    </ul>
+</div>
+
+                        <hr class="line_seper" />
+                        
+<ul class="listnews ">
+    
+            <li class="news-item" data-newsid="20200620060256702">
+                <a class="img" title="Barca b&#7883; Sevilla c&#7847;m hòa, Messi suýt đánh nhau trên sân" href="/barca-bi-sevilla-cam-hoa-messi-suyt-danh-nhau-tren-san-20200620060256702.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/20/sevilla-barcelona-190620zg-15926078428512084547156-crop-1592608030186159075353.jpg" alt="Barca b&#7883; Sevilla c&#7847;m hòa, Messi suýt đánh nhau trên sân" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/barca-bi-sevilla-cam-hoa-messi-suyt-danh-nhau-tren-san-20200620060256702.htm" title="Barca b&#7883; Sevilla c&#7847;m hòa, Messi suýt đánh nhau trên sân">Barca bị Sevilla cầm hòa, Messi suýt đánh nhau trên sân</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - Chuỗi trận thắng của Barcelona sau khi Giải VĐQG Tây Ban Nha (La Liga) trở lại đã bị đứt mạch, khi họ có trận hòa 0-0 trên sân của Sevilla rạng sáng 20-6.</p>
+                    <ul><li>
+                                <h3><a href='/la-liga-them-hap-dan-vi-nhung-ngua-o-20200612092109341.htm' title='La Liga thêm h&#7845;p d&#7851;n vì nh&#7919;ng ng&#7921;a ô'>La Liga thêm hấp dẫn vì những ngựa ô</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619102858157">
+                <a class="img" title="&#39;Ông tr&#7901;i con&#39; trên sân Tam K&#7923;" href="/ong-troi-con-tren-san-tam-ky-20200619102858157.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/19/cau-thu-quang-nam-phan-ung-trong-tai-nguyen-dinh-thai-ngay-18-6-4read-only-1592537227409286333069-crop-15925373435811446898379.jpg" alt="&#39;Ông tr&#7901;i con&#39; trên sân Tam K&#7923;" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/ong-troi-con-tren-san-tam-ky-20200619102858157.htm" title="&#39;Ông tr&#7901;i con&#39; trên sân Tam K&#7923;">'Ông trời con' trên sân Tam Kỳ</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - Chủ tịch CLB Quảng Nam, trưởng ban tổ chức trận đấu sân Tam Kỳ, cũng là ủy viên Ban chấp hành Liên đoàn Bóng đá Việt Nam, xông vào phòng riêng của tổ trọng tài, thóa mạ các ông "vua sân cỏ".</p>
+                    <ul><li>
+                                <h3><a href='/lich-truc-tiep-vong-5-v-league-ngay-18-6-tam-diem-pleiku-va-hang-day-20200618043747593.htm' title='L&#7883;ch tr&#7921;c ti&#7871;p vòng 5 V-LEAGUE ngày 18-6: Tâm đi&#7875;m Pleiku và Hàng Đ&#7851;y'>Lịch trực tiếp vòng 5 V-LEAGUE ngày 18-6: Tâm điểm Pleiku và Hàng Đẫy</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619102424314">
+                <a class="img" title="Vòng 30 Giải ngoại hạng Anh (Premier League): &#39;Gà trống&#39; đại chiến &#39;quỷ đỏ&#39;" href="/vong-30-giai-ngoai-hang-anh-premier-league-ga-trong-dai-chien-quy-do-20200619102424314.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/19/harrykane-ngay-18-6-4read-only-15925369769351728412858-crop-1592537065360436265203.jpg" alt="Vòng 30 Giải ngoại hạng Anh (Premier League): &#39;Gà trống&#39; đại chiến &#39;quỷ đỏ&#39;" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/vong-30-giai-ngoai-hang-anh-premier-league-ga-trong-dai-chien-quy-do-20200619102424314.htm" title="Vòng 30 Giải ngoại hạng Anh (Premier League): &#39;Gà trống&#39; đại chiến &#39;quỷ đỏ&#39;">Vòng 30 Giải ngoại hạng Anh (Premier League): 'Gà trống' đại chiến 'quỷ đỏ'</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - Vòng 30 sẽ được mở màn bằng một cuộc đấu trong mơ: Tottenham - M.U (2h15 ngày 20-6 giờ VN). Đây cũng là trận chiến sống còn vì chiếc vé dự Champions League mùa tới.</p>
+                    <ul><li>
+                                <h3><a href='/neu-giai-ngoai-hang-anh-tiep-dien-cau-thu-co-the-tu-choi-ra-san-2020040309551062.htm' title='Nếu Giải ngoại hạng Anh tiếp diễn: cầu thủ có thể từ chối ra sân'>Nếu Giải ngoại hạng Anh tiếp diễn: cầu thủ có thể từ chối ra sân</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+</ul>
+
+                        <hr class="line_seper" />
+                        
+<div class="tagnews">
+    <a class="tit" href="/premier-league.html" title="Premier League">Premier League</a>
+    <ul>
+        
+                <li>
+                    <a href="/chuyen-nhuong-tham-hoa-nhu-arsenal-20200620101949312.htm" title="Chuyển nhượng  thảm họa như Arsenal" class="img">
+                        <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/20/asenal-15926230760561382668856-crop-159262317680141991559.jpg" data-src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/20/asenal-15926230760561382668856-crop-159262317680141991559.jpg" alt="Chuyển nhượng  thảm họa như Arsenal" /></a>
+                    <h3>
+                        <a href="/chuyen-nhuong-tham-hoa-nhu-arsenal-20200620101949312.htm" title="Chuyển nhượng  thảm họa như Arsenal">Chuyển nhượng  thảm họa như Arsenal</a>
+                        
+                    </h3>
+                </li>
+            
+                <li>
+                    <a href="/thanh-tich-doi-dau-giua-tottenham-va-man-utd-tai-premier-league-20200619144952786.htm" title="Thành tích đ&#7889;i đ&#7847;u gi&#7919;a Tottenham và Man Utd t&#7841;i Premier League" class="img">
+                        <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/19/0manchester-united-v-tottenham-hotspur-premier-league-15925529381851559019403-crop-1592552941553293531936.jpg" data-src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/19/0manchester-united-v-tottenham-hotspur-premier-league-15925529381851559019403-crop-1592552941553293531936.jpg" alt="Thành tích đ&#7889;i đ&#7847;u gi&#7919;a Tottenham và Man Utd t&#7841;i Premier League" /></a>
+                    <h3>
+                        <a href="/thanh-tich-doi-dau-giua-tottenham-va-man-utd-tai-premier-league-20200619144952786.htm" title="Thành tích đ&#7889;i đ&#7847;u gi&#7919;a Tottenham và Man Utd t&#7841;i Premier League">Thành tích đối đầu giữa Tottenham và Man Utd tại Premier League</a>
+                        
+                    </h3>
+                </li>
+            
+                <li>
+                    <a href="/vong-30-giai-ngoai-hang-anh-premier-league-ga-trong-dai-chien-quy-do-20200619102424314.htm" title="Vòng 30 Giải ngoại hạng Anh (Premier League): &#39;Gà trống&#39; đại chiến &#39;quỷ đỏ&#39;" class="img">
+                        <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/19/harrykane-ngay-18-6-4read-only-15925369769351728412858-crop-1592537065360436265203.jpg" data-src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/19/harrykane-ngay-18-6-4read-only-15925369769351728412858-crop-1592537065360436265203.jpg" alt="Vòng 30 Giải ngoại hạng Anh (Premier League): &#39;Gà trống&#39; đại chiến &#39;quỷ đỏ&#39;" /></a>
+                    <h3>
+                        <a href="/vong-30-giai-ngoai-hang-anh-premier-league-ga-trong-dai-chien-quy-do-20200619102424314.htm" title="Vòng 30 Giải ngoại hạng Anh (Premier League): &#39;Gà trống&#39; đại chiến &#39;quỷ đỏ&#39;">Vòng 30 Giải ngoại hạng Anh (Premier League): 'Gà trống' đại chiến 'quỷ đỏ'</a>
+                        
+                    </h3>
+                </li>
+            
+
+    </ul>
+</div>
+
+                        <hr class="line_seper" />
+                        
+<ul class="listnews ">
+    
+            <li class="news-item" data-newsid="20200619055108389">
+                <a class="img" title="Vào sân chưa đ&#7847;y m&#7897;t phút đã ghi bàn, Asensio giúp Real Madrid th&#7855;ng" href="/vao-san-chua-day-mot-phut-da-ghi-ban-asensio-giup-real-madrid-thang-20200619055108389.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/19/ea01mmvwaaeabi2-15925204041261834754379-crop-1592520671075619705662.jpeg" alt="Vào sân chưa đ&#7847;y m&#7897;t phút đã ghi bàn, Asensio giúp Real Madrid th&#7855;ng" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/vao-san-chua-day-mot-phut-da-ghi-ban-asensio-giup-real-madrid-thang-20200619055108389.htm" title="Vào sân chưa đ&#7847;y m&#7897;t phút đã ghi bàn, Asensio giúp Real Madrid th&#7855;ng">Vào sân chưa đầy một phút đã ghi bàn, Asensio giúp Real Madrid thắng</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - Rạng sáng 19-6, CLB Real Madrid đã có thắng lợi 3-0 trước Valencia tại vòng 29 Giải vô địch quốc gia Tây Ban Nha (La Liga) để tiếp tục bám đuổi Barcelona trên cuộc đua vô địch.</p>
+                    <ul><li>
+                                <h3><a href='/messi-ghi-ban-tu-cham-11m-giup-barca-hon-real-madrid-5-diem-20200617040149202.htm' title='Messi ghi bàn t&#7915; ch&#7845;m 11m giúp Barca hơn Real Madrid 5 đi&#7875;m'>Messi ghi bàn từ chấm 11m giúp Barca hơn Real Madrid 5 điểm</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="202006182330087">
+                <a class="img" title="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu 20-6: &#39;Đ&#7841;i chi&#7871;n&#39; Tottenham - Manchester United" href="/lich-truc-tiep-bong-da-chau-au-20-6-dai-chien-tottenham-manchester-united-202006182330087.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/18/1039993746822957526170389035403641884964003n-15924976255371037619394-crop-1592497776330926898837.jpg" alt="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu 20-6: &#39;Đ&#7841;i chi&#7871;n&#39; Tottenham - Manchester United" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/lich-truc-tiep-bong-da-chau-au-20-6-dai-chien-tottenham-manchester-united-202006182330087.htm" title="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu 20-6: &#39;Đ&#7841;i chi&#7871;n&#39; Tottenham - Manchester United">Lịch trực tiếp bóng đá châu Âu 20-6: 'Đại chiến' Tottenham - Manchester United</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - Rạng sáng 20-6 sẽ diễn ra 2 trận đấu sớm vòng 30 Giải ngoại hạng Anh, trong đó có trận cầu tâm điểm Tottenham - Manchester United. Ngoài trận đấu này, Tuổi Trẻ Online giới thiệu đến bạn đọc lịch thi đấu nhiều trận cầu đáng xem khác.</p>
+                    <ul><li>
+                                <h3><a href='/lich-truc-tiep-bong-da-chau-au-bong-da-anh-tro-lai-2020061623181497.htm' title='L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu: Bóng đá Anh tr&#7903; l&#7841;i'>Lịch trực tiếp bóng đá châu Âu: Bóng đá Anh trở lại</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="2020061821570598">
+                <a class="img" title="HLV Hà N&#7897;i xin l&#7895;i vì đ&#7875; thua trong l&#7847;n sinh nh&#7853;t th&#7913; 14 c&#7911;a đ&#7897;i bóng" href="/hlv-ha-noi-xin-loi-vi-de-thua-trong-lan-sinh-nhat-thu-14-cua-doi-bong-2020061821570598.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/18/dang-van-lam-1592490559846218935375-crop-15924905941311761526279.jpg" alt="HLV Hà N&#7897;i xin l&#7895;i vì đ&#7875; thua trong l&#7847;n sinh nh&#7853;t th&#7913; 14 c&#7911;a đ&#7897;i bóng" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/hlv-ha-noi-xin-loi-vi-de-thua-trong-lan-sinh-nhat-thu-14-cua-doi-bong-2020061821570598.htm" title="HLV Hà N&#7897;i xin l&#7895;i vì đ&#7875; thua trong l&#7847;n sinh nh&#7853;t th&#7913; 14 c&#7911;a đ&#7897;i bóng">HLV Hà Nội xin lỗi vì để thua trong lần sinh nhật thứ 14 của đội bóng</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO- Trợ lý HLV Nguyễn Công Tuấn (CLB Hà Nội) đã gửi lời xin lỗi đến người hâm mộ thủ đô sau khi đội chủ nhà sân Hàng Đẫy để đội khách Sông Lam Nghệ An đánh bại 0-1 trong ngày sinh nhật lần thứ 14 của đội bóng.</p>
+                    <ul><li>
+                                <h3><a href='/ket-qua-va-bang-xep-hang-v-league-ngay-18-6-song-lam-nghe-an-sai-gon-tiep-tuc-bat-bai-20200618165358608.htm' title='K&#7871;t qu&#7843; và b&#7843;ng x&#7871;p h&#7841;ng V-League ngày 18-6: Sông Lam Ngh&#7879; An, Sài Gòn ti&#7871;p t&#7909;c b&#7845;t b&#7841;i'>Kết quả và bảng xếp hạng V-League ngày 18-6: Sông Lam Nghệ An, Sài Gòn tiếp tục bất bại</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200618212932299">
+                <a class="img" title="Ch&#7845;m d&#7913;t 341 ngày không th&#7855;ng &#7903; V-League, HLV Thanh Hóa nh&#7843;y c&#7851;ng ăn m&#7915;ng" href="/cham-dut-341-ngay-khong-thang-o-v-league-hlv-thanh-hoa-nhay-cang-an-mung-20200618212932299.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/18/2020-6-18-thanh-hoa-nam-dinh-63-15924895792211857745385-crop-15924899110001031127240.jpg" alt="Ch&#7845;m d&#7913;t 341 ngày không th&#7855;ng &#7903; V-League, HLV Thanh Hóa nh&#7843;y c&#7851;ng ăn m&#7915;ng" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/cham-dut-341-ngay-khong-thang-o-v-league-hlv-thanh-hoa-nhay-cang-an-mung-20200618212932299.htm" title="Ch&#7845;m d&#7913;t 341 ngày không th&#7855;ng &#7903; V-League, HLV Thanh Hóa nh&#7843;y c&#7851;ng ăn m&#7915;ng">Chấm dứt 341 ngày không thắng ở V-League, HLV Thanh Hóa nhảy cẫng ăn mừng</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - Trận đấu gần nhất Thanh Hóa giành chiến thắng tại V-League đã diễn ra từ ngày 12-7-2019 và phải đến ngày hôm nay (18-6-2020), họ mới tiếp tục được nở nụ cười thắng trận.</p>
+                    <ul><li>
+                                <h3><a href='/khach-lan-chu-cung-hai-long-voi-1-diem-20200618203234614.htm' title='Khách l&#7851;n ch&#7911; cùng hài lòng v&#7899;i 1 đi&#7875;m'>Khách lẫn chủ cùng hài lòng với 1 điểm</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200618213121765">
+                <a class="img" title="Cú d&#7913;t đi&#7875;m &#39;th&#7843;m h&#7885;a&#39; c&#7911;a c&#7847;u th&#7911; giành 4 Qu&#7843; bóng vàng Vi&#7879;t Nam" href="/cu-dut-diem-tham-hoa-cua-cau-thu-gianh-4-qua-bong-vang-viet-nam-20200618213121765.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/18/thanh-luong-15924905983711560145028-crop-15924906335781371131873.jpg" alt="Cú d&#7913;t đi&#7875;m &#39;th&#7843;m h&#7885;a&#39; c&#7911;a c&#7847;u th&#7911; giành 4 Qu&#7843; bóng vàng Vi&#7879;t Nam" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/cu-dut-diem-tham-hoa-cua-cau-thu-gianh-4-qua-bong-vang-viet-nam-20200618213121765.htm" title="Cú d&#7913;t đi&#7875;m &#39;th&#7843;m h&#7885;a&#39; c&#7911;a c&#7847;u th&#7911; giành 4 Qu&#7843; bóng vàng Vi&#7879;t Nam">Cú dứt điểm 'thảm họa' của cầu thủ giành 4 Quả bóng vàng Việt Nam</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - Tiền vệ Phạm Thành Lương (CLB Hà Nội) đã có một trận đấu đáng quên trước Sông Lam Nghệ An (SLNA) chiều 18-6 tại V-League 2020. Trong hiệp 1, anh có một tình huống bỏ lỡ cơ hội đáng tiếc với cú dứt điểm không tốt.</p>
+                    <ul><li>
+                                <h3><a href='/danh-bai-ha-noi-song-lam-nghe-an-vuon-len-dan-dau-bang-20200618184657509.htm' title='Đánh b&#7841;i Hà N&#7897;i, Sông Lam Ngh&#7879; An vươn lên d&#7851;n đ&#7847;u b&#7843;ng'>Đánh bại Hà Nội, Sông Lam Nghệ An vươn lên dẫn đầu bảng</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200618212501514">
+                <a class="img" title="Sân Hàng Đ&#7851;y: V&#7883; đ&#7855;ng cho đương kim vô đ&#7883;ch V-League" href="/san-hang-day-vi-dang-cho-duong-kim-vo-dich-v-league-20200618212501514.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/18/duc-huy-phai-va-cau-thu-ha-noi-bat-luc-15924902985991745076614-crop-1592490404235842178222.jpg" alt="Sân Hàng Đ&#7851;y: V&#7883; đ&#7855;ng cho đương kim vô đ&#7883;ch V-League" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/san-hang-day-vi-dang-cho-duong-kim-vo-dich-v-league-20200618212501514.htm" title="Sân Hàng Đ&#7851;y: V&#7883; đ&#7855;ng cho đương kim vô đ&#7883;ch V-League">Sân Hàng Đẫy: Vị đắng cho đương kim vô địch V-League</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - Cú sút đẹp mắt của Đặng Văn Lắm mang về chiến thắng sát nút 1-0 cho SLNA vào tối 18-6 ở vòng 5 V-League 2020, đồng thời xô ngã kỷ lục bất bại 35 tháng liên tiếp trên sân nhà của Hà Nội.</p>
+                    <ul><li>
+                                <h3><a href='/tien-ve-tuan-anh-khong-de-gianh-chien-thang-tren-san-hang-day-20200605171043214.htm' title='Ti&#7873;n v&#7879; Tu&#7845;n Anh: &#8220;Không d&#7877; giành chi&#7871;n th&#7855;ng trên sân Hàng Đ&#7851;y&#8221;'>Tiền vệ Tuấn Anh: “Không dễ giành chiến thắng trên sân Hàng Đẫy”</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200618203234614">
+                <a class="img" title="Khách l&#7851;n ch&#7911; cùng hài lòng v&#7899;i 1 đi&#7875;m" href="/khach-lan-chu-cung-hai-long-voi-1-diem-20200618203234614.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/18/tuan-anh-trai-15924871887091258474921-crop-15924872694921627893006.jpg" alt="Khách l&#7851;n ch&#7911; cùng hài lòng v&#7899;i 1 đi&#7875;m" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/khach-lan-chu-cung-hai-long-voi-1-diem-20200618203234614.htm" title="Khách l&#7851;n ch&#7911; cùng hài lòng v&#7899;i 1 đi&#7875;m">Khách lẫn chủ cùng hài lòng với 1 điểm</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - CLB Sài Gòn hài lòng về chuyên môn cũng như có được 1 điểm trước Hoàng Anh Gia Lai ở vòng 5 V-League 2020 chiều 18-6. Đó là kết quả không tệ trong chuyến làm khách này.</p>
+                    <ul><li>
+                                <h3><a href='/ket-qua-va-bang-xep-hang-v-league-ngay-18-6-song-lam-nghe-an-sai-gon-tiep-tuc-bat-bai-20200618165358608.htm' title='K&#7871;t qu&#7843; và b&#7843;ng x&#7871;p h&#7841;ng V-League ngày 18-6: Sông Lam Ngh&#7879; An, Sài Gòn ti&#7871;p t&#7909;c b&#7845;t b&#7841;i'>Kết quả và bảng xếp hạng V-League ngày 18-6: Sông Lam Nghệ An, Sài Gòn tiếp tục bất bại</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200618194502695">
+                <a class="img" title="4 bàn th&#7855;ng sau 14 phút &#39;cao trào&#39; &#7903; sân Long Xuyên" href="/4-ban-thang-sau-14-phut-cao-trao-o-san-long-xuyen-20200618194502695.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/18/45jnvt-15924865770511903082692-crop-15924866565731035574803.gif" alt="4 bàn th&#7855;ng sau 14 phút &#39;cao trào&#39; &#7903; sân Long Xuyên" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/4-ban-thang-sau-14-phut-cao-trao-o-san-long-xuyen-20200618194502695.htm" title="4 bàn th&#7855;ng sau 14 phút &#39;cao trào&#39; &#7903; sân Long Xuyên">4 bàn thắng sau 14 phút 'cao trào' ở sân Long Xuyên</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - Trận đấu đáng chú ý giữa An Giang với Bà Rịa - Vũng Tàu trên sân Long Xuyên đã kết thúc với tỉ số hòa 2-2 ở vòng 3 Giải hạng nhất quốc gia 2020. Cả 4 bàn thắng này đều được ghi trong hiệp một, trong khoảng thời gian 14 phút (7 đến 21).</p>
+                    <ul><li>
+                                <h3><a href='/thu-mon-cua-tay-ninh-tang-an-giang-3-diem-20200607173149299.htm' title='Th&#7911; môn c&#7911;a Tây Ninh &#39;t&#7863;ng&#39; An Giang 3 đi&#7875;m'>Thủ môn của Tây Ninh 'tặng' An Giang 3 điểm</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200618193908013">
+                <a class="img" title="&#39;Thanh Hóa không có ý đ&#7891; câu gi&#7901; đ&#7875; th&#7855;ng Nam Đ&#7883;nh&#39;" href="/thanh-hoa-khong-co-y-do-cau-gio-de-thang-nam-dinh-20200618193908013.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_143/2020/6/18/2020-6-18-thanh-hoa-nam-dinh-3-1592483919986399548641-crop-1592483929754115217315.jpg" alt="&#39;Thanh Hóa không có ý đ&#7891; câu gi&#7901; đ&#7875; th&#7855;ng Nam Đ&#7883;nh&#39;" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/thanh-hoa-khong-co-y-do-cau-gio-de-thang-nam-dinh-20200618193908013.htm" title="&#39;Thanh Hóa không có ý đ&#7891; câu gi&#7901; đ&#7875; th&#7855;ng Nam Đ&#7883;nh&#39;">'Thanh Hóa không có ý đồ câu giờ để thắng Nam Định'</a>
+                        
+                    </h3>
+                    <p class="fixline">TTO - CLB Thanh Hóa đánh bại Nam Định với tỉ số tối thiểu vào chiều 18-6. Đây cũng là chiến thắng đầu tiên của đội bóng xứ Thanh tại V-League mùa này.</p>
+                    <ul><li>
+                                <h3><a href='/van-thang-sut-xa-sam-set-thanh-hoa-co-chien-thang-dau-tien-20200618183007563.htm' title='Văn Th&#7855;ng sút xa &#39;s&#7845;m sét&#39;, Thanh Hóa có chi&#7871;n th&#7855;ng đ&#7847;u tiên'>Văn Thắng sút xa 'sấm sét', Thanh Hóa có chiến thắng đầu tiên</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+</ul>
+
+                        <div class="viewmore readmore list-news-bottom">
+                            <a class="fl btn-readmore" id="loadmore" href="javascript:void(0)">Xem thêm</a>
+                            <input type="hidden" id="datepicker_value" value="" />
+                            <a class="fr btn-calendar" id="datepicker_cate" href="javascript:void(0)" title="Xem theo ngày">Xem theo thời gian</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="page_col_right">
+                <div class="clearfix">
+                    
+
+
+<zone id="jmwy21g3"></zone>
+<script>
+        if (is_iPadScreen == null)
+
+          arfAsync.push("jmwy21g3");
+</script>
+                </div>
+                
+                
+                
+<div class="cat_type3">
+    <div class="tit"><a href="/the-thao-vui.htm" title="Thể thao vui">Thể thao vui</a></div>
+    <ul>
+        
+                <li>
+                    <a class="img" title="Video: Tay v&#7907;t s&#7889; 1 th&#7871; gi&#7899;i Djokovic ki&#7871;n t&#7841;o đ&#7865;p m&#7855;t và nh&#7853;n th&#7867; vàng khi...đá bóng" href="/video-tay-vot-so-1-the-gioi-djokovic-kien-tao-dep-mat-va-nhan-the-vang-khi-da-bong-20200613095149682.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/276_172/2020/6/13/44yzco-159201809527666494283-crop-15920181061431388280380.gif" alt="Video: Tay v&#7907;t s&#7889; 1 th&#7871; gi&#7899;i Djokovic ki&#7871;n t&#7841;o đ&#7865;p m&#7855;t và nh&#7853;n th&#7867; vàng khi...đá bóng" /></a>
+                    <h3>
+                        <a title="Video: Tay v&#7907;t s&#7889; 1 th&#7871; gi&#7899;i Djokovic ki&#7871;n t&#7841;o đ&#7865;p m&#7855;t và nh&#7853;n th&#7867; vàng khi...đá bóng" href="/video-tay-vot-so-1-the-gioi-djokovic-kien-tao-dep-mat-va-nhan-the-vang-khi-da-bong-20200613095149682.htm">Video: Tay vợt số 1 thế giới Djokovic kiến tạo đẹp mắt và nhận thẻ vàng khi...đá bóng</a>
+                        <span class="comment_count" data-comment="20200613095149682">0</span>
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img" title="Xem cú đá ph&#7841;t sáng t&#7841;o, ghi bàn nh&#7901;... gi&#7843; v&#7901; ngã đ&#7875; đánh l&#7915;a đ&#7897;i b&#7841;n" href="/xem-cu-da-phat-sang-tao-ghi-ban-nho-gia-vo-nga-de-danh-lua-doi-ban-2020061112201404.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/276_172/2020/6/11/44qlg8-15918526954831112409922-crop-1591852720542491981151.gif" alt="Xem cú đá ph&#7841;t sáng t&#7841;o, ghi bàn nh&#7901;... gi&#7843; v&#7901; ngã đ&#7875; đánh l&#7915;a đ&#7897;i b&#7841;n" /></a>
+                    <h3>
+                        <a title="Xem cú đá ph&#7841;t sáng t&#7841;o, ghi bàn nh&#7901;... gi&#7843; v&#7901; ngã đ&#7875; đánh l&#7915;a đ&#7897;i b&#7841;n" href="/xem-cu-da-phat-sang-tao-ghi-ban-nho-gia-vo-nga-de-danh-lua-doi-ban-2020061112201404.htm">Xem cú đá phạt sáng tạo, ghi bàn nhờ... giả vờ ngã để đánh lừa đội bạn</a>
+                        <span class="comment_count" data-comment="2020061112201404">0</span>
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img" title="Chùm &#7843;nh: &#39;Bóng đá trên đ&#7881;nh th&#7871; gi&#7899;i: M&#7897;t gi&#7843;i đ&#7845;u ch&#7859;ng gi&#7889;ng ai&#39;" href="/chum-anh-bong-da-tren-dinh-the-gioi-mot-giai-dau-chang-giong-ai-20200610114817749.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/276_172/2020/6/10/8-1591765031830344234205-crop-159176510035611835062.jpg" alt="Chùm &#7843;nh: &#39;Bóng đá trên đ&#7881;nh th&#7871; gi&#7899;i: M&#7897;t gi&#7843;i đ&#7845;u ch&#7859;ng gi&#7889;ng ai&#39;" /></a>
+                    <h3>
+                        <a title="Chùm &#7843;nh: &#39;Bóng đá trên đ&#7881;nh th&#7871; gi&#7899;i: M&#7897;t gi&#7843;i đ&#7845;u ch&#7859;ng gi&#7889;ng ai&#39;" href="/chum-anh-bong-da-tren-dinh-the-gioi-mot-giai-dau-chang-giong-ai-20200610114817749.htm">Chùm ảnh: 'Bóng đá trên đỉnh thế giới: Một giải đấu chẳng giống ai'</a>
+                        <span class="comment_count" data-comment="20200610114817749">0</span>
+                    </h3>
+                </li>
+            
+    </ul>
+</div>
+
+                <div class="clearfix" style="margin-top: 12px">
+                    
+
+
+<zone id="jmwy2mc6"></zone>
+
+<script>
+        if (is_iPadScreen == null)
+
+    arfAsync.push("jmwy2mc6");
+</script>
+
+                </div>
+
+                
+
+<div class="cat_type4">
+    <div class="tit"><a href="/tin-tuc.htm" title="Tin tức">Tin tức</a></div>
+    <ul>
+        
+                
+                <li>
+                    <a class="img" title="Barca b&#7883; Sevilla c&#7847;m hòa, Messi suýt đánh nhau trên sân" href="/barca-bi-sevilla-cam-hoa-messi-suyt-danh-nhau-tren-san-20200620060256702.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/276_172/2020/6/20/sevilla-barcelona-190620zg-15926078428512084547156-crop-1592608030186159075353.jpg" alt="Barca b&#7883; Sevilla c&#7847;m hòa, Messi suýt đánh nhau trên sân" /></a>
+                    <h3>
+                        <a title="Barca b&#7883; Sevilla c&#7847;m hòa, Messi suýt đánh nhau trên sân" href="/barca-bi-sevilla-cam-hoa-messi-suyt-danh-nhau-tren-san-20200620060256702.htm">Barca bị Sevilla cầm hòa, Messi suýt đánh nhau trên sân</a>
+                        <span class="comment_count" data-comment="20200620060256702">0</span>
+                    </h3>
+                    
+                </li>
+            
+                
+                <li>
+                    <a class="img" title="Tottenham - Man United: &#39;đ&#7841;i chi&#7871;n&#39; nh&#7841;t phèo" href="/tottenham-man-united-dai-chien-nhat-pheo-20200620043946565.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/120_75/2020/6/20/2020-06-19t210604z1335916052up1eg6j1mm4m7rtrmadp3soccer-england-tot-mun-report-1592602655608289222914-crop-1592602774735811092577.jpg" alt="Tottenham - Man United: &#39;đ&#7841;i chi&#7871;n&#39; nh&#7841;t phèo" /></a>
+                    <h3>
+                        <a title="Tottenham - Man United: &#39;đ&#7841;i chi&#7871;n&#39; nh&#7841;t phèo" href="/tottenham-man-united-dai-chien-nhat-pheo-20200620043946565.htm">Tottenham - Man United: 'đại chiến' nhạt phèo</a>
+                        
+                    </h3>
+                    <div class="timeago time" title="2020-06-20T05:28:25"></div>
+                </li>
+            
+                
+                <li>
+                    <a class="img" title="Vào sân chưa đ&#7847;y m&#7897;t phút đã ghi bàn, Asensio giúp Real Madrid th&#7855;ng" href="/vao-san-chua-day-mot-phut-da-ghi-ban-asensio-giup-real-madrid-thang-20200619055108389.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/120_75/2020/6/19/ea01mmvwaaeabi2-15925204041261834754379-crop-1592520671075619705662.jpeg" alt="Vào sân chưa đ&#7847;y m&#7897;t phút đã ghi bàn, Asensio giúp Real Madrid th&#7855;ng" /></a>
+                    <h3>
+                        <a title="Vào sân chưa đ&#7847;y m&#7897;t phút đã ghi bàn, Asensio giúp Real Madrid th&#7855;ng" href="/vao-san-chua-day-mot-phut-da-ghi-ban-asensio-giup-real-madrid-thang-20200619055108389.htm">Vào sân chưa đầy một phút đã ghi bàn, Asensio giúp Real Madrid thắng</a>
+                        
+                    </h3>
+                    <div class="timeago time" title="2020-06-19T05:54:46"></div>
+                </li>
+            
+    </ul>
+</div>
+
+                
+                <div class="clearfix" style="margin-top: 12px">
+                    
+
+
+<zone id="jmwy37re"></zone>
+
+<script>
+        if (is_iPadScreen == null)
+
+          arfAsync.push("jmwy37re");
+</script>
+                </div>
+                
+                
+
+<div class="cat_type4">
+    <div class="tit">Xem nhiều</div>
+    <ul>
+        
+                <li>
+                    <a class="img" title="&#39;Ông tr&#7901;i con&#39; trên sân Tam K&#7923;" href="/ong-troi-con-tren-san-tam-ky-20200619102858157.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/276_172/2020/6/19/cau-thu-quang-nam-phan-ung-trong-tai-nguyen-dinh-thai-ngay-18-6-4read-only-1592537227409286333069-crop-15925373435811446898379.jpg" alt="&#39;Ông tr&#7901;i con&#39; trên sân Tam K&#7923;" /></a>
+                    <h3>
+                        <a title="&#39;Ông tr&#7901;i con&#39; trên sân Tam K&#7923;" href="/ong-troi-con-tren-san-tam-ky-20200619102858157.htm">'Ông trời con' trên sân Tam Kỳ</a>                        
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img" title="Video: Võ sĩ Philippines v&#7899;i 2 cú đ&#7845;m đư&#7907;c ví như &#39;chi&#7871;c búa c&#7911;a Thor&#39; làm đ&#7889;i th&#7911; b&#7853;t ng&#7917;a" href="/video-vo-si-philippines-voi-2-cu-dam-duoc-vi-nhu-chiec-bua-cua-thor-lam-doi-thu-bat-ngua-20200619151015625.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/120_75/2020/6/19/45nbip-159255569549874033282-crop-1592556291923518689193.gif" alt="Video: Võ sĩ Philippines v&#7899;i 2 cú đ&#7845;m đư&#7907;c ví như &#39;chi&#7871;c búa c&#7911;a Thor&#39; làm đ&#7889;i th&#7911; b&#7853;t ng&#7917;a" /></a>
+                    <h3>
+                        <a title="Video: Võ sĩ Philippines v&#7899;i 2 cú đ&#7845;m đư&#7907;c ví như &#39;chi&#7871;c búa c&#7911;a Thor&#39; làm đ&#7889;i th&#7911; b&#7853;t ng&#7917;a" href="/video-vo-si-philippines-voi-2-cu-dam-duoc-vi-nhu-chiec-bua-cua-thor-lam-doi-thu-bat-ngua-20200619151015625.htm">Video: Võ sĩ Philippines với 2 cú đấm được ví như 'chiếc búa của Thor' làm đối thủ bật ngửa</a>                        
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img" title="Tottenham - Man United: &#39;đ&#7841;i chi&#7871;n&#39; nh&#7841;t phèo" href="/tottenham-man-united-dai-chien-nhat-pheo-20200620043946565.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/120_75/2020/6/20/2020-06-19t210604z1335916052up1eg6j1mm4m7rtrmadp3soccer-england-tot-mun-report-1592602655608289222914-crop-1592602774735811092577.jpg" alt="Tottenham - Man United: &#39;đ&#7841;i chi&#7871;n&#39; nh&#7841;t phèo" /></a>
+                    <h3>
+                        <a title="Tottenham - Man United: &#39;đ&#7841;i chi&#7871;n&#39; nh&#7841;t phèo" href="/tottenham-man-united-dai-chien-nhat-pheo-20200620043946565.htm">Tottenham - Man United: 'đại chiến' nhạt phèo</a>                        
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img" title="Th&#7855;ng tr&#7853;n th&#7913; 3 liên ti&#7871;p, Khánh Hòa vươn lên đ&#7847;u b&#7843;ng" href="/thang-tran-thu-3-lien-tiep-khanh-hoa-vuon-len-dau-bang-20200619193203903.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/120_75/2020/6/19/khanh-hoa-1592570933163144827698-crop-15925716336851319678426.jpg" alt="Th&#7855;ng tr&#7853;n th&#7913; 3 liên ti&#7871;p, Khánh Hòa vươn lên đ&#7847;u b&#7843;ng" /></a>
+                    <h3>
+                        <a title="Th&#7855;ng tr&#7853;n th&#7913; 3 liên ti&#7871;p, Khánh Hòa vươn lên đ&#7847;u b&#7843;ng" href="/thang-tran-thu-3-lien-tiep-khanh-hoa-vuon-len-dau-bang-20200619193203903.htm">Thắng trận thứ 3 liên tiếp, Khánh Hòa vươn lên đầu bảng</a>                        
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img" title="Video: Tr&#7885;ng tài th&#7893;i ph&#7841;t đ&#7873;n, HLV H&#7919;u Đang t&#7913;c gi&#7853;n: &#39;B&#7855;t v&#7853;y thôi ch&#7871;t r&#7891;i&#39;" href="/video-trong-tai-thoi-phat-den-hlv-huu-dang-tuc-gian-bat-vay-thoi-chet-roi-20200619184713023.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/120_75/2020/6/19/45ns0z-15925673559861927993602-crop-15925674087971426567548.gif" alt="Video: Tr&#7885;ng tài th&#7893;i ph&#7841;t đ&#7873;n, HLV H&#7919;u Đang t&#7913;c gi&#7853;n: &#39;B&#7855;t v&#7853;y thôi ch&#7871;t r&#7891;i&#39;" /></a>
+                    <h3>
+                        <a title="Video: Tr&#7885;ng tài th&#7893;i ph&#7841;t đ&#7873;n, HLV H&#7919;u Đang t&#7913;c gi&#7853;n: &#39;B&#7855;t v&#7853;y thôi ch&#7871;t r&#7891;i&#39;" href="/video-trong-tai-thoi-phat-den-hlv-huu-dang-tuc-gian-bat-vay-thoi-chet-roi-20200619184713023.htm">Video: Trọng tài thổi phạt đền, HLV Hữu Đang tức giận: 'Bắt vậy thôi chết rồi'</a>                        
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img" title="Barca b&#7883; Sevilla c&#7847;m hòa, Messi suýt đánh nhau trên sân" href="/barca-bi-sevilla-cam-hoa-messi-suyt-danh-nhau-tren-san-20200620060256702.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/120_75/2020/6/20/sevilla-barcelona-190620zg-15926078428512084547156-crop-1592608030186159075353.jpg" alt="Barca b&#7883; Sevilla c&#7847;m hòa, Messi suýt đánh nhau trên sân" /></a>
+                    <h3>
+                        <a title="Barca b&#7883; Sevilla c&#7847;m hòa, Messi suýt đánh nhau trên sân" href="/barca-bi-sevilla-cam-hoa-messi-suyt-danh-nhau-tren-san-20200620060256702.htm">Barca bị Sevilla cầm hòa, Messi suýt đánh nhau trên sân</a>                        
+                    </h3>
+                </li>
+            
+    </ul>
+</div>
+
+                <div class="clearfix" style="margin-top: 12px">
+                    
+
+
+<zone id="jmwy3rfr"></zone>
+
+<script>
+        if (is_iPadScreen == null)
+
+          arfAsync.push("jmwy3rfr");
+</script>
+                </div>
+                
+
+<div class="cat_type4">
+    <div class="tit"><a href="/cong-dong.htm" title="Cộng đồng">Cộng đồng</a></div>
+    <ul>
+        
+                
+                <li>
+                    <a class="img" title="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu hôm nay: Tâm đi&#7875;m Arsenal" href="/lich-truc-tiep-bong-da-chau-au-hom-nay-tam-diem-arsenal-20200620045211014.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/276_172/2020/6/20/103750377189651352429428964107202856804795n-1592603288476853784284-crop-15926034348541704031985.jpg" alt="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu hôm nay: Tâm đi&#7875;m Arsenal" /></a>
+                    <h3>
+                        <a title="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu hôm nay: Tâm đi&#7875;m Arsenal" href="/lich-truc-tiep-bong-da-chau-au-hom-nay-tam-diem-arsenal-20200620045211014.htm">Lịch trực tiếp bóng đá châu Âu hôm nay: Tâm điểm Arsenal</a>
+                        <span class="comment_count" data-comment="20200620045211014">0</span>
+                    </h3>
+                    
+                </li>
+            
+                
+                <li>
+                    <a class="img" title="Thành tích đ&#7889;i đ&#7847;u gi&#7919;a Tottenham và Man Utd t&#7841;i Premier League" href="/thanh-tich-doi-dau-giua-tottenham-va-man-utd-tai-premier-league-20200619144952786.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/120_75/2020/6/19/0manchester-united-v-tottenham-hotspur-premier-league-15925529381851559019403-crop-1592552941553293531936.jpg" alt="Thành tích đ&#7889;i đ&#7847;u gi&#7919;a Tottenham và Man Utd t&#7841;i Premier League" /></a>
+                    <h3>
+                        <a title="Thành tích đ&#7889;i đ&#7847;u gi&#7919;a Tottenham và Man Utd t&#7841;i Premier League" href="/thanh-tich-doi-dau-giua-tottenham-va-man-utd-tai-premier-league-20200619144952786.htm">Thành tích đối đầu giữa Tottenham và Man Utd tại Premier League</a>
+                        
+                    </h3>
+                    <div class="timeago time" title="2020-06-19T14:54:00"></div>
+                </li>
+            
+                
+                <li>
+                    <a class="img" title="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu 20-6: &#39;Đ&#7841;i chi&#7871;n&#39; Tottenham - Manchester United" href="/lich-truc-tiep-bong-da-chau-au-20-6-dai-chien-tottenham-manchester-united-202006182330087.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/120_75/2020/6/18/1039993746822957526170389035403641884964003n-15924976255371037619394-crop-1592497776330926898837.jpg" alt="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu 20-6: &#39;Đ&#7841;i chi&#7871;n&#39; Tottenham - Manchester United" /></a>
+                    <h3>
+                        <a title="L&#7883;ch tr&#7921;c ti&#7871;p bóng đá châu Âu 20-6: &#39;Đ&#7841;i chi&#7871;n&#39; Tottenham - Manchester United" href="/lich-truc-tiep-bong-da-chau-au-20-6-dai-chien-tottenham-manchester-united-202006182330087.htm">Lịch trực tiếp bóng đá châu Âu 20-6: 'Đại chiến' Tottenham - Manchester United</a>
+                        
+                    </h3>
+                    <div class="timeago time" title="2020-06-19T05:28:49"></div>
+                </li>
+            
+    </ul>
+</div>
+
+                <span class="line mgt15"></span>
+                
+
+<div class="cat_type4">
+    <div class="tit"><a href="/binh-luan.htm" title="Bình luận">Bình luận</a></div>
+    <ul>
+        
+                
+                <li>
+                    <a class="img" title="&#39;Ông tr&#7901;i con&#39; trên sân Tam K&#7923;" href="/ong-troi-con-tren-san-tam-ky-20200619102858157.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/276_172/2020/6/19/cau-thu-quang-nam-phan-ung-trong-tai-nguyen-dinh-thai-ngay-18-6-4read-only-1592537227409286333069-crop-15925373435811446898379.jpg" alt="&#39;Ông tr&#7901;i con&#39; trên sân Tam K&#7923;" /></a>
+                    <h3>
+                        <a title="&#39;Ông tr&#7901;i con&#39; trên sân Tam K&#7923;" href="/ong-troi-con-tren-san-tam-ky-20200619102858157.htm">'Ông trời con' trên sân Tam Kỳ</a>
+                        <span class="comment_count" data-comment="20200619102858157">0</span>
+                    </h3>
+                    
+                </li>
+            
+                
+                <li>
+                    <a class="img" title="Vòng 30 Giải ngoại hạng Anh (Premier League): &#39;Gà trống&#39; đại chiến &#39;quỷ đỏ&#39;" href="/vong-30-giai-ngoai-hang-anh-premier-league-ga-trong-dai-chien-quy-do-20200619102424314.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/120_75/2020/6/19/harrykane-ngay-18-6-4read-only-15925369769351728412858-crop-1592537065360436265203.jpg" alt="Vòng 30 Giải ngoại hạng Anh (Premier League): &#39;Gà trống&#39; đại chiến &#39;quỷ đỏ&#39;" /></a>
+                    <h3>
+                        <a title="Vòng 30 Giải ngoại hạng Anh (Premier League): &#39;Gà trống&#39; đại chiến &#39;quỷ đỏ&#39;" href="/vong-30-giai-ngoai-hang-anh-premier-league-ga-trong-dai-chien-quy-do-20200619102424314.htm">Vòng 30 Giải ngoại hạng Anh (Premier League): 'Gà trống' đại chiến 'quỷ đỏ'</a>
+                        
+                    </h3>
+                    <div class="timeago time" title="2020-06-19T10:52:00"></div>
+                </li>
+            
+                
+                <li>
+                    <a class="img" title="Real Madrid bước vào &quot;chặng leo núi&quot;" href="/real-madrid-buoc-vao-chang-leo-nui-20200618090218177.htm">
+                        <img src="https://cdn.tuoitre.vn/zoom/120_75/2020/6/18/th17benz-1read-only-159244560350194077936-crop-1592445699895508565018.jpg" alt="Real Madrid bước vào &quot;chặng leo núi&quot;" /></a>
+                    <h3>
+                        <a title="Real Madrid bước vào &quot;chặng leo núi&quot;" href="/real-madrid-buoc-vao-chang-leo-nui-20200618090218177.htm">Real Madrid bước vào "chặng leo núi"</a>
+                        
+                    </h3>
+                    <div class="timeago time" title="2020-06-18T10:02:00"></div>
+                </li>
+            
+    </ul>
+</div>
+
+            </div>
+        </div>
+    </div>
+    <input type="hidden" name="hdZoneId" id="hdZoneId" value="1209" />
+    <input type="hidden" name="hdZoneUrl" id="hdZoneUrl" value="the-thao" />
+    <input type="hidden" name="hdZoneParentUrl" id="hdZoneParentUrl" value="" />
+    <input type="hidden" name="hdFullZoneUrl" id="hdFullZoneUrl" value="/the-thao" />
+    <input type="hidden" name="hdPageIndex" id="hdPageIndex" value="1" />
+    <script type="text/javascript">
+        (runinit = window.runinit || []).push(function () {
+            //thethao.initHomePage();
+            timeline.placeholder = '.get-time-home-sport';
+            timeline.init();
+            $(".cat_type2 .left .fixline").trimLine(2);
+            setTimeout(function () {
+                $(".submenu").stickyBox({
+                    stopper: 'footer',
+                    spaceTop: 35
+                });
+            }, 1000); 
+        });
+    </script>
+
+                </section>
+                
+
+
+<div class="clearfix"></div>
+<div class="w980">
+    <zone id="jphs5rwl"></zone>
+
+    <script>
+        if (is_iPadScreen == null)
+            arfAsync.push("jphs5rwl");
+    </script>
+    <div class="bannerfooter1top">
+        
+
+
+<zone id="jmwxck2b"></zone>
+<script>
+        if (is_iPadScreen == null)
+
+          arfAsync.push("jmwxck2b");
+</script>
+    </div>
+    <div class="bannerfooter1">
+        
+
+<div class="clearfix">
+    <iframe width="100%" height="460px" src="https://quangcao.tuoitre.vn/customer/banner/2019/P/PhanQuang/20190707/PC/index.html" scrolling="no" frameborder="0">Browser not supported</iframe>
+</div>
+
+    </div>
+</div>
+
+
+<footer>
+    <div class="footer-icon">
+        <div class="w980">
+            <div class="top-footer">
+                <ul>
+                    <li><a title="Tuổi trẻ TV" href="https://tv.tuoitre.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTTV.png" alt="logo tuổi trẻ TV" style="width: 80px; height: 26px;" /></a></li>
+                    <li><a title="Tuổi Trẻ cuối tuần" href="https://cuoituan.tuoitre.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTCT.png" alt="logo tuổi trẻ cuối tuần" style="width: 80px; height: 26px;" /></a></li>
+                    <li><a title="Tuổi Trẻ News" href="https://tuoitrenews.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTNews.png" alt="logo tuổi trẻ news" style="width: 80px; height: 26px;" /></a></li>
+                    <li class="logo-ttc"><a title="Tuổi Trẻ Cười" href="https://cuoi.tuoitre.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/thumb_w/75/tuoitre/web_images/logo_tuoitrecuoi-01.png" alt="Tuổi Trẻ Cười" /></a></li>
+                </ul>
+            </div>
+            <ul class="list-icon-footer fr">
+                <li><a href="https://www.facebook.com/baotuoitre" title="Quan tâm Tuổi Trẻ trên Facebook" target="_blank" rel="nofollow" class="icon-facebook-footer sprite16"></a></li>
+                <li><a href="https://www.instagram.com/baotuoitre" title="Quan tâm Tuổi Trẻ trên Instagram" target="_blank" rel="nofollow" class="icon-camera-footer sprite16"></a></li>
+                <li><a href="https://plus.google.com/107706664902384479582" title="Quan tâm Tuổi Trẻ trên Google Plus" target="_blank" rel="nofollow" class="icon-google-footer sprite16"></a></li>
+                <li><a href="https://www.youtube.com/channel/UCrwJa6KRHWnJpJPZNeKKcvA" title="Quan tâm Tuổi Trẻ trên Youtube" target="_blank" rel="nofollow" class="icon-youtube-footer sprite16"></a></li>
+            </ul>
+            <p class="textfollow fr">Theo dõi Tuổi Trẻ Online: </p>
+
+        </div>
+    </div>
+    <div class="bottom-footer">
+        <div class="w980">
+            <div class="wrapper-footer">
+                <ul>
+                    <li>
+                        <a href="https://tuoitre.vn/media.htm" title="MEDIA" rel="nofollow" target="_blank">MEDIA</a>
+                        <a href="https://tuoitre.vn/thoi-su.htm" title="THỜI SỰ" rel="nofollow" target="_blank">THỜI SỰ</a>
+                        <a href="https://tuoitre.vn/the-gioi.htm" title="THẾ GIỚI" rel="nofollow" target="_blank">THẾ GIỚI</a>
+                        <a href="https://tuoitre.vn/phap-luat.htm" title="PHÁP LUẬT" rel="nofollow" target="_blank">PHÁP LUẬT</a>
+                    </li>
+                    <li>
+                        <a href="https://tuoitre.vn/kinh-doanh.htm" title="KINH DOANH" rel="nofollow" target="_blank">KINH DOANH</a>
+                        <a href="https://congnghe.tuoitre.vn" title="CÔNG NGHỆ" rel="nofollow" target="_blank">CÔNG NGHỆ</a>
+                        <a href="https://tuoitre.vn/xe.htm" title="XE" rel="nofollow" target="_blank">XE</a>
+                        <a href="https://dulich.tuoitre.vn" title="DU LỊCH" rel="nofollow" target="_blank">DU LỊCH</a>
+                    </li>
+                    <li>
+                        <a href="https://tuoitre.vn/nhip-song-tre.htm" title="NHỊP SỐNG TRẺ" rel="nofollow" target="_blank">NHỊP SỐNG TRẺ</a>
+                        <a href="https://tuoitre.vn/van-hoa.htm" title="VĂN HÓA" rel="nofollow" target="_blank">VĂN HÓA</a>
+                        <a href="https://tuoitre.vn/giai-tri.htm" title="GIẢI TRÍ" rel="nofollow" target="_blank">GIẢI TRÍ</a>
+                    </li>
+                    <li>
+                        <a href="https://thethao.tuoitre.vn" title="THỂ THAO">THỂ THAO</a>
+                        <a href="https://tuoitre.vn/khoa-hoc.htm" title="KHOA HỌC" rel="nofollow" target="_blank">KHOA HỌC</a>
+                        <a href="https://tuoitre.vn/suc-khoe.htm" title="SỨC KHỎE" rel="nofollow" target="_blank">SỨC KHỎE</a>
+                    </li>
+                    <li>
+                        <a href="https://tuoitre.vn/giao-duc.htm" title="GIÁO DỤC" rel="nofollow" target="_blank">GIÁO DỤC</a>
+                        <a href="https://tuoitre.vn/ban-doc-lam-bao.htm" title="BẠN ĐỌC" rel="nofollow" target="_blank">BẠN ĐỌC</a>
+                        <a href="https://tuoitre.vn/gia-that.htm" title="THẬT GIẢ" rel="nofollow" target="_blank">THẬT GIẢ</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+    </div>
+    <div class="footer-end clearfix">
+        <div class="w980">
+            <a class="logo-footer" href="https://tuoitre.vn/" rel="nofollow" target="_blank" title="Tuổi Trẻ Online"></a>
+            <p class="float-l">
+                © Copyright 2020 TuoiTre Online, All rights reserved
+                            <br>
+                ® Tuổi Trẻ Online giữ bản quyền nội dung trên website này
+            </p>
+            <a href="http://www.thanhdoan.hochiminhcity.gov.vn" title="Thành Đoàn TP.HCM" rel="nofollow" target="_blank" class="fr thongtin">&nbsp;Thành Đoàn TP.HCM</a>
+            <a href="https://tuoitre.vn/thong-tin-toa-soan.htm" title="Thông tin Tòa soạn" class="thongtin fr" target="_blank">Thông tin Tòa soạn - </a>
+            <ul class="float-r">
+                <li>
+                    <a rel="nofollow" target="_blank" href=" https://quangcao.tuoitre.vn" title="Liên hệ Quảng cáo">Liên hệ Quảng cáo</a>
+                </li>
+                <li>
+                    <a href="javascript:;" title="Điều khoản bảo mật">Điều khoản bảo mật</a>
+                </li>
+                <li>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScSRj-Bxm1t6roko_ocQlUSZCnei3a03IdoOpPQ9-lp2McaKw/viewform" title="Liên hệ góp ý" rel="nofollow" target="_blank">Liên hệ góp ý</a>
+                </li>
+                <li>
+                    <a title="Hotline" href="tel:0918033133" rel="nofollow" class="textunset">Hotline: 0918.033.133</a>
+                </li>
+            </ul>
+        </div>
+        <div class="bannerballoon">
+            
+
+
+
+<zone id="jmwy1g4x"></zone>
+<script>
+    if (is_iPadScreen == null)
+
+        arfAsync.push("jmwy1g4x");
+</script>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</footer>
+
+<div class="wrapPopup" id="infoForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Thông tin của bạn</p>
+                    <a href="javascript:void(0);" title="Đóng" class="closepp" onclick="comment.closePopup('infoForm')"></a>
+                </header>
+                <div class="content">
+                    <div class="frm-1" id="frm-comment">
+                        <div class="form-group">
+                            <span>Email</span>
+                            <input id="cm-email" name="cm-email" type="email" class="form-control" placeholder="E-mail (*)">
+                            <p class="warning email-warning1">Vui lòng nhập Email</p>
+                            <p class="warning email-warning2">Email Không đúng định dạng</p>
+                        </div>
+                        <div class="form-group">
+                            <span>Họ và tên</span>
+                            <input id="cm-name" type="text" name="cm-name" class="form-control" placeholder="Họ &amp; tên (*)">
+                            <p class="warning name-warning">Vui lòng nhập Họ &amp; Tên.</p>
+                        </div>
+                        
+
+                        <div class="form-group clboth">
+                            <button type="button" id="btn-info" name="btn-info" class="btn btn-danger">Gửi bình luận</button>
+                            <input type="hidden" id="cm-content" name="cm-content" value="" />
+                            
+                            <input type="hidden" id="cm-pid" name="cm-pid" value="0" />
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<div class="wrapPopup" id="errorForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Thông báo</p>
+                    <a href="javascript:;" title="Đóng" class="closepp" onclick="closePopup('errorForm')"></a>
+                </header>
+                <div class="content">
+                    Bạn vui lòng đợi <span class="timeout">0</span>s để tiếp tục comment
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<div class="wrapPopup" id="successForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Thông báo</p>
+                    <a href="javascript:;" title="Đóng" class="closepp" onclick="comment.closePopup('successForm')"></a>
+                </header>
+                <div class="content">
+                    Bình luận được gửi thành công
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<div class="wrapPopup" id="loginForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <div class="content">
+                    <div class="frm-1" id="frm-login">
+                        <ul class="nav nav-tabs">
+                            <li class="nav-item section-guest">
+                                <a class="nav-link" data-item="tab-guest" href="javascript:;" rel="nofollow">Bình luận</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" data-item="tab-login" href="javascript:;" rel="nofollow"><i class="icon-reg-user"></i>Đăng nhập</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-item="tab-register" href="javascript:;" rel="nofollow"><i class="icon-reg-user"></i>Đăng ký</a>
+                            </li>
+                            <li class="nav-close">
+                                <a href="javascript:void(0);" title="Đóng" class="closepp" onclick="comment.closePopup('loginForm')">Đóng lại x</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content tab-guest" id="tabGuest">
+                            <div class="form-group guest-desc">
+                                <div class="guest-icon"><i class="icon-guest"></i></div>
+                                <span class="guest-desc-header">Thông tin bạn đọc</span>
+                                <span class="guest-desc-content">Thông tin của bạn đọc sẽ được bảo mật an toàn và chỉ sử dụng trong trường hợp toà soạn cần thiết để liên lạc với bạn.</span>
+                            </div>
+                            <div class="form-group">
+                                <input id="cm-guestname" type="text" name="rg-name" class="form-control" data-elementtype="name" data-input="cm-guestname" placeholder="Tên hiển thị">
+                                <p class="warning name-warning">Vui lòng nhập Tên hiển thị</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="cm-guestemail" name="rg-email" type="email" class="form-control" data-elementtype="email" data-input="cm-guestemail" placeholder="Email">
+                                <p class="warning email-warning1">Vui lòng nhập Email</p>
+                                <p class="warning email-warning2">Email Không đúng định dạng</p>
+                            </div>
+                            <div class="form-group">
+                                
+                                <div id="cm-recaptcha" class="g-recaptcha" data-sitekey="6Lc4B5cUAAAAABTaoFOfZRnC2aPkXYAWoVuP1NIS" data-size="invisible"></div>
+                                <input id="cm-guesstcaptcha" type="hidden" data-input="cm-guestcaptcha" />
+                            </div>
+                            <div class="form-group mgt8 clearfix">
+                                <button type="button" id="btn-send-comment" name="btn-send-comment" class="btn btn-secondary" data-elementtype="send-comment" data-act="guestsend">Gửi bình luận</button>
+                                <button type="button" id="btn-close-comment" name="btn-close-comment" class="btn btn-secondary" onclick="comment.closePopup('loginForm')">Đóng</button>
+                            </div>
+                            <div class="form-group guest-bottom">
+                                <button type="button" id="btn-focus-login" onclick="tuoitreId.activeTabLogin()" class="btn btn-link">Bạn đã có tài khoản? <b>Đăng nhập</b> ngay</button>
+                            </div>
+                        </div>
+                        <div class="tab-content tab-login active" id="tabLogin">
+                            <div class="form-group">
+                                <input id="lg-email" name="lg-email" type="email" class="form-control" placeholder="Email đăng nhập" data-elementtype="email">
+                                <p class="warning email-warning1">Vui lòng nhập Email</p>
+                                <p class="warning email-warning2">Email Không đúng định dạng</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="lg-password" type="password" name="lg-password" class="form-control" data-elementtype="password" placeholder="Mật khẩu">
+                                <p class="warning password-warning">Mật khẩu không đúng.</p>
+                                <p class="warning invalid_info">Thông tin đăng nhập không đúng.</p>
+                                <p class="warning blocked-warning">Tài khoản bị khóa, vui lòng liên hệ quản trị viên.</p>
+                                <p class="warning common-warning">Có lỗi phát sinh. Vui lòng thử lại sau.</p>
+                            </div>
+                            <div class="form-group">
+                                <a href="http://id.tuoitre.vn/quen-mat-khau.htm" target="_blank" rel="nofollow" id="btn-lost-password" class="btn btn-link">Quên mật khẩu?</a>
+                                <button type="button" id="btn-login" name="btn-login" class="btn btn-secondary" data-elementtype="login">Đăng nhập</button>
+                            </div>
+                            <div class="form-group mgt8 content-social">
+                                <span>Hoặc đăng nhập bằng:</span>
+                                <button type="button" class="btn btn-danger btn-google-plus" data-elementtype="logingoogle"></button>
+                                <button type="button" class="btn btn-primary btn-facebook" data-elementtype="loginfb"></button>
+                            </div>
+                            
+                        </div>
+                        <div class="tab-content tab-register" id="tabRegister">
+                            <div class="form-group">
+                                <input id="rg-name" type="text" name="rg-name" class="form-control" data-elementtype="name" placeholder="Tên của bạn">
+                                <p class="warning name-warning">Vui lòng nhập Tên của bạn.</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="rg-email" name="rg-email" type="email" class="form-control" data-elementtype="email" placeholder="Email">
+                                <p class="warning email-warning1">Vui lòng nhập Email</p>
+                                <p class="warning email-warning2">Email Không đúng định dạng</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="rg-password" type="password" name="rg-password" class="form-control" data-elementtype="password" placeholder="Mật khẩu">
+                                <p class="warning password-warning">Mật khẩu phải có ít nhất 6 kí tự.</p>
+                            </div>
+                            <div class="form-group">
+                                
+                                <input id="rg-re-password" type="password" name="rg-re-password" class="form-control" data-elementtype="repassword" placeholder="Xác nhận mật khẩu">
+                                <p class="warning repassword-warning">Xác nhận mật khẩu không khớp.</p>
+                            </div>
+                            <div class="form-group">
+                                
+                                <input id="rg-re-captcha" class="form-control" data-elementtype="captcha" placeholder="Mã xác nhận">
+                                <img id="img-captcha" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="captcha" />
+                                <a id="refresh-captcha">Lấy mã mới</a>
+                                <p class="warning captcha-warning">Mã xác nhận không đúng.</p>
+                                <p class="warning common-warning">Có lỗi phát sinh. Vui lòng thử lại sau.</p>
+                            </div>
+                            <div class="form-group">
+                                <button type="button" id="btn-notify-register" class="btn btn-link">Khi bấm "Đăng ký" đồng thời bạn đã đồng ý với <b>điều khoản</b> của toà soạn</button>
+                            </div>
+                            <div class="form-group clearfix">
+                                <button type="button" id="btn-register" name="btn-login" class="btn btn-secondary" data-elementtype="register">Đăng ký</button>
+                            </div>
+                            <div class="form-group mgt8 content-social">
+                                <span>Hoặc đăng ký bằng:</span>
+                                <button type="button" class="btn btn-danger btn-google-plus" data-elementtype="logingoogle"></button>
+                                <button type="button" class="btn btn-primary btn-facebook" data-elementtype="loginfb"></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<style>
+    #vote-re-captcha {
+        float: left;
+        width: 100px;
+        margin-right: 10px;
+    }
+
+    #vote-img-captcha {
+        width: 100px;
+        height: 34px;
+        cursor: pointer;
+        float: left;
+        margin-right: 10px;
+    }
+
+    #vote-refresh-captcha {
+        float: left;
+        font-size: 12px;
+        line-height: 34px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    #btn-send-vote {
+        width: 125px;
+        font-family: Roboto;
+        font-size: 14px;
+        float: right;
+    }
+
+    #voteCatpchaForm .popup {
+        width: 375px;
+    }
+
+    .nav-link {
+        padding: 12px 24px;
+    }
+
+    /*.grecaptcha-badge {
+        display: none !important;
+    }*/
+
+    #voteCatpchaForm header {
+        position: relative;
+    }
+
+    #voteCatpchaForm .closepp {
+        font-size: 16px;
+        font-family: Roboto;
+        color: #220;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }
+</style>
+<script>
+    (runinit = window.runinit || []).push(function () {
+        $("#vote-img-captcha").click(function () {
+            $("#vote-img-captcha").attr("src", appSettings.apiDomain + "/captcha.htm?time=" + new Date().getTime());
+        });
+        $("#vote-refresh-captcha").click(function () {
+            $("#vote-img-captcha").attr("src", appSettings.apiDomain + "/captcha.htm?time=" + new Date().getTime());
+        });
+    });
+
+    function openPopupCaptcha(id, element, callback) {
+        $('#voteCatpchaForm .captcha-warning').hide();
+        $("#" + id).fadeIn(100);
+
+        $("#vote-img-captcha").attr("src", appSettings.apiDomain + "/captcha.htm?time=" + new Date().getTime());
+        $('#btn-send-vote').off("click").click(function (e) {
+            if ($('#vote-re-captcha').val() == '') {
+                $('#voteCatpchaForm .captcha-warning').show();
+                return;
+            }
+
+            if (typeof callback == "function") {
+                callback(element);
+            }
+        });
+    }
+</script>
+<div class="wrapPopup" id="voteCatpchaForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Nhập mã xác nhận</p>
+                    <a href="javascript:;" title="Đóng" class="closepp" onclick="comment.closePopup('voteCatpchaForm')">Đóng lại</a>
+                </header>
+                <div class="content">
+                    <div class="form-group">
+                        <input id="vote-re-captcha" class="form-control" data-elementtype="captcha">
+                        <img id="vote-img-captcha" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="captcha" />
+                        <a id="vote-refresh-captcha">Lấy mã mới</a>
+                        <p class="warning captcha-warning">Mã xác nhận không đúng.</p>
+                        <p class="warning common-warning">Có lỗi phát sinh. Vui lòng thử lại sau.</p>
+                    </div>
+                    <div class="form-group clearfix">
+                        <button type="button" id="btn-send-vote" class="btn btn-secondary">Hoàn tất</button>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+
+<style>
+    .footer-end .float-r {
+        width: auto;
+        margin-left: 0;
+    }
+
+    .float-r li:last-child {
+        padding-right: 0;
+    }
+</style>
+
+            </div>
+        </div>
+        
+    
+    
+<a class="btn-backtotop" id="scrollToTop" title="Trở về đầu trang"><i class="arrow-up"></i></a>
+    <script>
+        (runinit = window.runinit || []).push(function () {
+            comment.init();
+        });
+    </script>
+</body>
+</html>
+<!--/--><!--u: 6/20/2020 1:39:35 PM-->

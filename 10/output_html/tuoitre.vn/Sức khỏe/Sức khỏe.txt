@@ -1,0 +1,1966 @@
+
+    <!DOCTYPE html>
+    <html id="mainHtml" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+    <head prefix="og:&#32;http://ogp.me/ns#&#32;fb:&#32;http://ogp.me/ns/fb#&#32;website:&#32;http://ogp.me/ns/website#"><link rel="dns-prefetch" href="https://cdn.tuoitre.vn" /><link rel="dns-prefetch" href="https://cdn1.tuoitre.vn" /><link rel="dns-prefetch" href="https://statictuoitre.mediacdn.vn" /><title>Tin tức, video mới, nóng, nhanh trong 24h - Sức khỏe - Tuổi Trẻ Online</title><meta name="keywords" content="sức khỏe, sống khỏe, mẹ và bé, giới tính, phòng mạch, bác sĩ, sức khỏe, bệnh viện" />
+<meta name="news_keywords" content="sức khỏe, sống khỏe, mẹ và bé, giới tính, phòng mạch, bác sĩ, sức khỏe, bệnh viện" />
+<meta name="description" content="Cập nhật tin tức, video clip nhanh nhất về y tế, sức khỏe, sống khỏe, mẹ và bé, giới tính, phòng mạch, bác sĩ, tư vấn hiếm muộn" />
+<meta id="metaRobots" name="robots" content="index,follow,all" /><meta name="viewport" content="width=device-width,&#32;initial-scale=1.0,&#32;maximum-scale=1.0,&#32;user-scalable=1" />
+
+<meta name="author" content="TUOI TRE ONLINE" />
+<meta name="copyright" content="Copyright © 2020 by TUOITRE.VN" />
+<meta name="RATING" content="GENERAL" />
+<meta name="GENERATOR" content="TUOI TRE ONLINE" />
+
+<meta name="google-site-verification" content="y8PMKPH-UzpVdjHXzQjJ4oUEPfqLSWZl_EyOz5P02vc" />
+        <!-- Open Graph data -->
+        <meta property="og:type" content="website" />
+<meta property="og:site_name" content="TUOI TRE ONLINE" />
+<meta property="og:title" content="Tin tức, video mới, nóng, nhanh trong 24h - Sức khỏe - Tuổi Trẻ Online" />
+<meta property="og:url" content="https://tuoitre.vn/suc-khoe.htm" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="Cập nhật tin tức, video clip nhanh nhất về y tế, sức khỏe, sống khỏe, mẹ và bé, giới tính, phòng mạch, bác sĩ, tư vấn hiếm muộn" />
+<meta property="article:tag" content="sức khỏe, sống khỏe, mẹ và bé, giới tính, phòng mạch, bác sĩ, sức khỏe, bệnh viện" />
+<meta content="sức khỏe, sống khỏe, mẹ và bé, giới tính, phòng mạch, bác sĩ, sức khỏe, bệnh viện" />
+<meta property="article:author" content="baotuoitre" />
+
+        <!--end Open Graph data -->
+        <meta property="fb:app_id" content="787960244659509" /><meta name="distribution" content="Global" /><meta property="fb:pages" content="214610578564918" /><meta property="fb:pages" content="131539760743" /><meta name="msvalidate.01" content="E52E0AECFFC89B1959FC75D368D4B11E" /><link rel="shortcut&#32;icon" href="https://statictuoitre.mediacdn.vn/web_images/favicon.ico" type="image/x-icon" /><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><meta http-equiv="Content-Language" content="vi" /><meta name="Language" content="vi" /><meta http-equiv="REFRESH" content="1800" /><meta name="REVISIT-AFTER" content="1&#32;DAYS" /><link rel="alternate" type="application/rss+xml" href="https://tuoitre.vn/rss/suc-khoe.rss" title="Tin&#32;t&#7913;c,&#32;video&#32;m&#7899;i,&#32;nóng,&#32;nhanh&#32;trong&#32;24h&#32;-&#32;S&#7913;c&#32;kh&#7887;e&#32;-&#32;Tuổi&#32;Trẻ&#32;Online" />
+<script type="text/javascript">var _ADM_Channel = '%2Fsuc-khoe%2F';</script><script>dataLayer=[{'pageCategory':'/suc-khoe/'}];</script>
+<link rel="stylesheet" type="text/css" href="https://statictuoitre.mediacdn.vn/web_css/font.2017.11.28.1.min.css" />
+
+<script type="text/javascript">
+    var appSettings = {
+        domain: "https://tuoitre.vn",        
+        apiDomain: "https://s5.tuoitre.vn",
+        ajaxDomain: "https://s5.tuoitre.vn",
+        idDomain: "https://id.tuoitre.vn",
+        urlJsId:"https://statictuoitre.mediacdn.vn/web_js/kcb.plugin.min.20190520.1.js",
+        
+        sharefbApiDomain:"https://sharefb.cnnd.vn",
+        videoplayer:"https://vcplayer.mediacdn.vn",
+        imageStorage:"https://cdn.tuoitre.vn",
+        videoImageDomain: "https://video-thumbs.tuoitre.vn",
+        domain_TVO: "https://tv.tuoitre.vn",
+        playerSecureToken: "L3NlY3VyZS92ZXJpZnkveHZxcmNhZGhlYmZpMHY1dm5zM2Ywd3d3a3Y2MDdkMDgvMTAwMjI1L2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUp5WldZaU9pSWlMQ0poY0hCclpYa2lPaUo0ZG5GeVkyRmthR1ZpWm1rd2RqVjJibk16WmpCM2QzZHJkall3TjJRd09DSXNJbkJzWVhsbGNpSTZJakV3TURJeU5TSXNJbWxuYm05eVpVVjRjR2x5WVhScGIyNGlPblJ5ZFdVc0ltbGhkQ0k2TVRVek9UVTNNVEE1TVN3aVpYaHdJam94TlRNNU5UY3hNakV4ZlEuVVZUWUxLNkROcjF1TG9vMDYzNVJ2TXNpeU1wUFJvYVJCa0tva3VhWC03OA=="
+        
+        
+    };
+</script>
+
+<!-- adm tracking -->
+<script async type="text/javascript" src="//media1.admicro.vn/core/adm_tracking.js"></script>
+
+<!-- Google Analytics -->
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-KFJP3N');</script>
+
+
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+
+   
+
+
+        <!--AdAsia-->
+        
+        <!--End AdAsia-->
+        
+    
+
+
+
+
+
+<link href="https://static.mediacdn.vn/tuoitre/web_css/tuoitre.list.25022020v1.min.css" rel="stylesheet" />
+<style>
+.bread-crumbs ul li {
+    margin-right: 14px;
+    margin-top: 8px;
+}
+</style>
+
+
+
+
+<script src="https://static.mediacdn.vn/tuoitre/web_js/tuoitre.list.31102019v1.min.js"></script>
+
+    
+<link rel="stylesheet" type="text/css" href="https://quangcao.tuoitre.vn/static/js/cms_ads.css" />
+<script async type="text/javascript" src="//quangcao.tuoitre.vn/static/js/cms_ads.js"></script>
+
+<script>
+    var arfAsync = arfAsync || [];
+</script>
+
+<script async src="https://static.amcdn.vn/tka/cdn.js" type="text/javascript"></script>
+<script id="arf-core-js" onerror="window.arferrorload=true;" src="//media1.admicro.vn/cms/Arf.min.js" async></script>
+
+<script>
+    var is_iPadScreen = navigator.userAgent.match(/iPad/i);
+    var widthScreen;
+    (runinit = window.runinit || []).push(function () {
+        widthScreen = $(window).width();
+    });
+
+</script><link rel="canonical" href="https://tuoitre.vn/suc-khoe.htm" /></head>
+    <body class="">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFJP3N" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        
+            <div id="admWrapsite">
+                <div class="wapper">
+                    
+
+
+
+<header>
+    <div class="header-top">
+        <div class="w980">
+            <ul>
+                <li class="fl"><a title="Tuổi trẻ TV" href="https://tv.tuoitre.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTTV.png" alt="logo tuổi trẻ TV" style="width: 80px; height: 26px;" /></a></li>
+                <li class="fl"><a title="Tuổi Trẻ cuối tuần" href="https://cuoituan.tuoitre.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTCT.png" alt="logo tuổi trẻ cuối tuần" style="width: 80px; height: 26px;" /></a></li>
+                <li class="fl"><a title="Tuổi Trẻ News" href="https://tuoitrenews.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTNews.png" alt="logo tuổi trẻ news" style="width: 80px; height: 26px;" /></a></li>
+                <li class="fl logo-ttc"><a title="Tuổi Trẻ Cười" href="https://cuoi.tuoitre.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/thumb_w/75/tuoitre/web_images/logo_tuoitrecuoi-01.png" alt="Tuổi Trẻ Cười" /></a></li>
+                <li class="fr pos-rlt iconhumman hidden tto-id-info">
+                    <a title="Tên đăng nhập" href="javascript:;" rel="nofollow" class="textunset donelogin tto-id-username-a">
+                        <img src="https://static.mediacdn.vn/zoom/15_15/tuoitre/web_images/tto_default_avatar.png" class="img14x14 fl tto-id-useravatar" />
+                        <span class="tto-id-username"></span></a>
+
+                    <div class="expandMenu" style="display: none">
+                        <ul class="information-humman">
+                            <li><a class="news-save active showandhide" target="_blank" href="javascript:void(0)" title="" rel="nofollow">Tin đã lưu</a></li>
+                            <li><a class="comment-setup showandhide comment" target="_blank" href="javascript:void(0)" title="" rel="nofollow">Bình luận của bạn</a></li>
+                            
+                            <li><a class="comment-setup showandhide setup" href="javascript:void(0)" target="_blank" title="" rel="nofollow">Cài đặt tài khoản</a></li>
+                            <li><a href="javascript:void(0)" title="Đăng xuất" class="logout" rel="nofollow">Đăng xuất</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="fr tto-id-login">
+                    <a title="Đăng nhập" href="javascript:;" onclick="openPopup('loginForm','tab-login')" rel="nofollow" class="textunset loginlogout fl">Đăng nhập&nbsp;|</a>
+                    <a title="Đăng ký" href="javascript:;" onclick="openPopup('loginForm','tab-register')" rel="nofollow" class="textunset fl">&nbsp;Đăng ký</a>
+                </li>
+                
+                <li class="fr"><a title="Liên hệ Quảng cáo" href="https://quangcao.tuoitre.vn/" rel="nofollow" target="_blank" class="textunset adver">Quảng cáo</a></li>
+                <li class="fr"><a href="http://pay.tuoitre.vn/dat-bao" target="_blank" rel="nofollow" class="textunset setnewspaper" title="Đặt báo Tuổi Trẻ">Đặt báo</a></li>
+                <li class="fr"><a title="Hotline" href="tel:0918033133" rel="nofollow" class="textunset hotline">Hotline: 0918.033.133</a></li>
+            </ul>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="header-middle">
+        <div class="menu-category" style="display: none;">
+            <ul class="menu-ul">
+                <li class="menu-li1"><a class="hidearrow" title="Media" href="/media.htm" rel="nofollow" target="_blank">Media</a></li>
+                <li class="menu-li1"><a title="Thời sự" href="/thoi-su.htm" data-id="3">Thời sự</a></li>
+                <li class="menu-li1"><a title="Thế giới" href="/the-gioi.htm" data-id="2">Thế giới</a></li>
+                <li class="menu-li1"><a title="Pháp luật" href="/phap-luat.htm" data-id="6">Pháp luật</a></li>
+                <li class="menu-li1"><a title="Kinh doanh" href="/kinh-doanh.htm" data-id="11">Kinh doanh</a></li>
+                <li class="menu-li1"><a title="Công nghệ" rel="nofollow" target="_blank" href="https://congnghe.tuoitre.vn" data-id="200029">Công nghệ</a></li>
+                <li class="menu-li1"><a title="Xe" href="/xe.htm" data-id="659">Xe</a></li>
+                <li class="menu-li1"><a title="Du lịch" rel="nofollow" target="_blank" href="https://dulich.tuoitre.vn" data-id="100">Du lịch</a></li>
+                <li class="menu-li1"><a title="Nhịp sống trẻ" href="/nhip-song-tre.htm" data-id="7">Nhịp sống trẻ</a></li>
+                <li class="menu-li1"><a title="Văn hóa" href="/van-hoa.htm" data-id="200017">Văn hóa</a></li>
+                <li class="menu-li1"><a title="Giải trí" href="/giai-tri.htm" data-id="10">Giải trí</a></li>
+                <li class="menu-li1"><a title="Thể thao" rel="nofollow" target="_blank" href="https://thethao.tuoitre.vn" data-id="1209">Thể thao</a></li>
+                <li class="menu-li1"><a title="Giáo dục" href="/giao-duc.htm" data-id="13">Giáo dục</a></li>
+                <li class="menu-li1"><a title="Khoa học" href="/khoa-hoc.htm" data-id="661">Khoa học</a></li>
+                <li class="menu-li1"><a title="Sức khỏe" href="/suc-khoe.htm" data-id="12">Sức khỏe</a></li>
+                <li class="menu-li1"><a title="Giả-thật" href="/gia-that.htm" data-id="200015">Giả-thật</a></li>
+                <li class="menu-li1"><a href="/ban-doc-lam-bao.htm" title="Bạn đọc" data-id="118">Bạn đọc</a></li>
+            </ul>
+        </div>
+        <div class="w980">
+            
+            <a href='/' title='Tin tức, tin nóng, đọc báo điện tử - Tuổi Trẻ Online' class='logo-header fl'></a>
+            
+            <div title="Menu Ipad" rel="nofollow" class="menu-ipad">
+                <div style="float: right;">
+                    <span class="line1 linemn"></span>
+                    <span class="line2 linemn"></span>
+                    <span class="line3 linemn"></span>
+                </div>
+            </div>
+            <a href="tel:0918.033.133" title="Phone" class="callbyphone"></a>
+            <div class="frm-search fr" id="search-frm">
+                <input class="txt-search" type="text" readonly onfocus="this.removeAttribute('readonly');" placeholder="Tìm kiếm tin tức">
+                <a class="icon icon-search btn-search sprite16" href="javascript:void" title="Tìm kiếm" rel="nofollow">&nbsp;</a>
+            </div>
+            <ul class="list-cate fr">
+                <li>
+                    <a href="https://www.youtube.com/channel/UC47WI-kZXFf0H_f7pvaNCEQ" target="_blank" rel="nofollow" title="YOUTUBE BÁO TUỔI TRẺ">YOUTUBE BÁO TUỔI TRẺ</a>
+                </li>
+                <li>
+                    <a href="/giao-duc/tuyen-sinh.htm" title="TUYỂN SINH">TUYỂN SINH</a>
+                </li>
+                <li>
+                    <a href="https://nhadat.tuoitre.vn" target="_blank" rel="nofollow" title="NHÀ ĐẤT">NHÀ ĐẤT</a>
+                </li>
+                <li>
+                    <a href="https://tuoitre.vn/can-biet.htm" title="CẦN BIẾT">CẦN BIẾT</a>
+                </li>
+                
+            </ul>
+
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="banner-top w980">
+        
+
+
+<zone id="jmg15j90"></zone>
+<script>
+          arfAsync.push("jmg15j90");
+</script>
+    </div>
+    <div class="header-bottom">
+        <div class="w980">
+            <ul class="menu-ul">
+                <li class="menu-li"><a class="iconhome hidearrow" title="Trang chủ" href="/"></a></li>
+                <li class="menu-li"><a class="hidearrow" title="Media" href="/media.htm">Media</a></li>
+                <li class="menu-li"><a title="Thời sự" href="/thoi-su.htm" data-id="3">Thời sự</a></li>
+                <li class="menu-li"><a title="Thế giới" href="/the-gioi.htm" data-id="2">Thế giới</a></li>
+                <li class="menu-li"><a title="Pháp luật" href="/phap-luat.htm" data-id="6">Pháp luật</a></li>
+                <li class="menu-li"><a title="Kinh doanh" href="/kinh-doanh.htm" data-id="11">Kinh doanh</a></li>
+                <li class="menu-li"><a title="Công nghệ" rel="nofollow" target="_blank" href="https://congnghe.tuoitre.vn" data-id="200029">Công nghệ</a></li>
+                <li class="menu-li"><a title="Xe" href="/xe.htm" data-id="659">Xe</a></li>
+                <li class="menu-li"><a title="Du lịch" rel="nofollow" target="_blank" href="https://dulich.tuoitre.vn" data-id="100">Du lịch</a></li>
+                <li class="menu-li"><a title="Nhịp sống trẻ" href="/nhip-song-tre.htm" data-id="7">Nhịp sống trẻ</a></li>
+                <li class="menu-li"><a title="Văn hóa" href="/van-hoa.htm" data-id="200017">Văn hóa</a></li>
+                <li class="menu-li"><a title="Giải trí" href="/giai-tri.htm" data-id="10">Giải trí</a></li>
+                <li class="menu-li"><a title="Thể thao" rel="nofollow" target="_blank" href="https://thethao.tuoitre.vn" data-id="1209">Thể thao</a></li>
+                <li class="menu-li"><a title="Giáo dục" href="/giao-duc.htm" data-id="13">Giáo dục</a></li>
+                <li class="menu-li"><a title="Khoa học" href="/khoa-hoc.htm" data-id="661">Khoa học</a></li>
+                <li class="menu-li"><a title="Sức khỏe" href="/suc-khoe.htm" data-id="12">Sức khỏe</a></li>
+                <li class="menu-li"><a title="Giả-thật" href="/gia-that.htm" data-id="200015">Giả-thật</a></li>
+                <li class="menu-li"><a href="/ban-doc-lam-bao.htm" title="Bạn đọc" data-id="118">Bạn đọc</a></li>
+            </ul>
+        </div>
+        <div class="menu-expand">
+            <div class="menu-expand-wrapper clearfix">
+                <div class="w980 mgt15">
+                    <div class="menu-expand-left fl">
+                        <a class="menu-expand-title" href="javascript:;" title="Vào chuyên mục">Vào chuyên mục</a>
+                        <ul class="menu-expand-ul clearfix">
+                            <li class="menu-expand-li active" data-item="lastest">
+                                <a href="javascript:;" rel="nofollow" class="menu-expand-li-title" title="Mới nhất">Mới nhất</a>
+                            </li>
+                            <li class="menu-expand-li" data-item="focus">
+                                <a href="javascript:;" rel="nofollow" class="menu-expand-li-title" title="Tiêu điểm">Tiêu điểm</a>
+                            </li>
+                            <li class="menu-expand-li" data-item="mostview">
+                                <a href="javascript:;" rel="nofollow" class="menu-expand-li-title" title="Xem nhiều">Xem nhiều</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="menu-expand-right fr">
+                        <ul class="list-news lastest active">
+                        </ul>
+                        <ul class="list-news focus">
+                        </ul>
+                        <ul class="list-news mostview">
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="arrow"></div>
+    </div>
+
+    <script>
+        (runinit = window.runinit || []).push(function () {
+            hoverMenuDoneLogin();
+            $('.menu-ipad').click(function () {
+                $(this).toggleClass('active');
+                $(this).closest(".header-middle").find(".menu-category").toggleClass('active');
+            });
+        });
+    </script>
+</header>
+
+                    <section id="content">
+                        
+    <div class="content w980 list suc-khoe ">
+        <div class="title-content clearfix">
+            <div class="content-left fl">
+                
+<div class="bread-crumbs fl">
+    <ul>
+        <li class="fl">
+            <h1>
+            <a href="/suc-khoe.htm" title="S&#7913;c kh&#7887;e">Sức khỏe</a>
+            </h1>
+        </li>
+        
+                <li class="fl" data-zoneid="200008">
+                    
+                    
+                    <a href="/suc-khoe/dinh-duong.htm"  title="Dinh dưỡng">Dinh dưỡng</a>
+                    
+                </li>
+            
+                <li class="fl" data-zoneid="197">
+                    
+                    
+                    <a href="/suc-khoe/me-va-be.htm"  title="Mẹ & Bé">Mẹ & Bé</a>
+                    
+                </li>
+            
+                <li class="fl" data-zoneid="241">
+                    
+                    
+                    <a href="/suc-khoe/gioi-tinh.htm"  title="Giới tính">Giới tính</a>
+                    
+                </li>
+            
+                <li class="fl" data-zoneid="231">
+                    
+                    
+                    <a href="/suc-khoe/phong-mach.htm"  title="Phòng mạch">Phòng mạch</a>
+                    
+                </li>
+            
+                <li class="fl" data-zoneid="1465">
+                    
+                    
+                    <a href="/suc-khoe/biet-de-khoe.htm"  title="Biết để khỏe">Biết để khỏe</a>
+                    
+                </li>
+            
+    </ul>
+</div>
+            </div>
+            <p class="title-time-home fr">
+                Thứ 7, ngày 20 tháng 6 năm 2020
+            </p>
+        </div>
+        <div class="title-content clearfix">
+            <div class="content-left fl">
+                
+<ul class="trending"  box-type="trendingboxhome" data-value="videoposition-12-4" data-count="3">
+    
+            <li><a href="/dich-covid-19-e576.htm" title="Dịch COVID-19">Dịch COVID-19</a></li>            
+        
+            <li><a href="/o-nhiem-khong-khi-e527.htm" title="Ô nhiễm không khí">Ô nhiễm không khí</a></li>            
+        
+            <li><a href="/phong-chong-covid-19-e583.htm" title="Phòng chống COVID-19">Phòng chống COVID-19</a></li>            
+        
+    
+</ul>
+
+            </div>
+        </div>
+        
+
+
+
+
+<div class="list-top clearfix mgt8">
+    <div class="w664 fl">
+        
+                <div class="focus-top clearfix" data-boxtype="zonenewsposition" data-order="1" box-type="newspositionboxhome" data-value="homenewsposition-12-3" data-count="1">
+                    <div class="fl focus-top-box-left">
+                        <a   class="img324x202 pos-rlt" href="/benh-vien-cho-ray-de-xuat-phuong-an-dua-benh-nhan-91-ve-nuoc-20200620101926474.htm" title="B&#7879;nh vi&#7879;n Ch&#7907; R&#7851;y đ&#7873; xu&#7845;t phương án đưa b&#7879;nh nhân 91 v&#7873; nư&#7899;c" data-objecttype="1 " >
+                            <img class="img324x202" src="https://cdn.tuoitre.vn/zoom/392_245/2020/6/20/1042874627996478405670126349615117583530570n-15926221719331012964328-crop-159262333292665288935.jpg" data-src="https://cdn.tuoitre.vn/zoom/392_245/2020/6/20/1042874627996478405670126349615117583530570n-15926221719331012964328-crop-159262333292665288935.jpg" alt="B&#7879;nh vi&#7879;n Ch&#7907; R&#7851;y đ&#7873; xu&#7845;t phương án đưa b&#7879;nh nhân 91 v&#7873; nư&#7899;c" />
+                        </a>
+                    </div>
+                    <div class="fr focus-top-box-right">
+                        <a class='focus-category' href='/suc-khoe.htm' title='S&#7913;c kh&#7887;e'>Sức khỏe</a>
+                        <h2>
+                            <a data-displayinslide="0" class="focus-top-title" href="/benh-vien-cho-ray-de-xuat-phuong-an-dua-benh-nhan-91-ve-nuoc-20200620101926474.htm" title="B&#7879;nh vi&#7879;n Ch&#7907; R&#7851;y đ&#7873; xu&#7845;t phương án đưa b&#7879;nh nhân 91 v&#7873; nư&#7899;c" data-linktype="newsdetail" data-newsid="20200620101926474"  data-id="20200620101926474" data-comment="20200620101926474"  data-objecttype="1">Bệnh viện Chợ Rẫy đề xuất phương án đưa bệnh nhân 91 về nước</a>
+                        </h2>
+                        <p class="sapo need-trimline" rel="3">TTO - Với nguyện vọng của bệnh nhân 91 sớm được về quê hương Scotland, Bệnh viện Chợ Rẫy TP.HCM tính toán, đề xuất bệnh nhân có thể mua vé ngồi hạng thương gia kèm theo nhân viên y tế hộ tống, chi phí không nhiều.</p>
+                        <div class="focus-top-box-relation"><h3><a class='focus-top-box-relation-title fl ' href='https://tv.tuoitre.vn/benh-nhan-phi-cong-nguoi-anh-se-som-duoc-ra-vien-ve-nuoc-20200619064329439.htm' title='B&#7879;nh nhân phi công ngư&#7901;i Anh s&#7869; s&#7899;m đư&#7907;c ra vi&#7879;n, v&#7873; nư&#7899;c' class='name-title' target='_blank' rel='nofollow'>Bệnh nhân phi công người Anh sẽ sớm được ra viện, về nước</a></h3><h3><a class='focus-top-box-relation-title fl ' href='https://tv.tuoitre.vn/benh-nhan-phi-cong-nguoi-anh-tu-tho-binh-thuong-nong-long-duoc-ve-que-nha-20200620065428877.htm' title='B&#7879;nh nhân phi công ngư&#7901;i Anh t&#7921; th&#7903; bình thư&#7901;ng, &#39;nóng lòng đư&#7907;c v&#7873; quê nhà&#39;' class='name-title' target='_blank' rel='nofollow'>Bệnh nhân phi công người Anh tự thở bình thường, 'nóng lòng được về quê nhà'</a></h3></div>
+                    </div>
+                </div>
+            
+        
+        
+                <span class="line mgt8"></span>
+                <div class="focus-bottom mgt10 clearfix"  box-type="newspositionboxhome" data-value="homenewsposition-12-3" data-count="5">
+                    <ul class="focus-bottom-ul">
+            
+                <li class="focus-bottom-li" data-boxtype="zonenewsposition" data-newsposition="zonenewspositionbottom" data-order="7">
+                    <a href="/nhung-dai-dich-da-qua-va-sap-den-20200618174353799.htm" title="Nh&#7919;ng đ&#7841;i d&#7883;ch đã qua và s&#7855;p đ&#7871;n" class="img124x77 pos-rlt" data-displayinslide="0" data-comment="20200618174353799"  data-objecttype="1">
+                        <img class="img124x77" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/18/15cover-superjumbo-read-only-15924769211211490128503-crop-1592477024371708281230.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/18/15cover-superjumbo-read-only-15924769211211490128503-crop-1592477024371708281230.jpg" alt="Nh&#7919;ng đ&#7841;i d&#7883;ch đã qua và s&#7855;p đ&#7871;n" />
+                    </a>
+                    <h2>
+                        <a class="focus-middle-title" href="/nhung-dai-dich-da-qua-va-sap-den-20200618174353799.htm" title="Nh&#7919;ng đ&#7841;i d&#7883;ch đã qua và s&#7855;p đ&#7871;n"  data-linktype="newsdetail" data-newsid="20200618174353799" data-id="20200618174353799" data-objecttype="1">Những đại dịch đã qua và sắp đến</a>
+                        
+                    </h2>
+                </li>
+            
+                <li class="focus-bottom-li" data-boxtype="zonenewsposition" data-newsposition="zonenewspositionbottom" data-order="8">
+                    <a href="/lam-gi-de-co-lan-da-dep-20200620100330863.htm" title="Làm gì đ&#7875; có làn da đ&#7865;p?" class="img124x77 pos-rlt" data-displayinslide="0" data-comment="20200620100330863"  data-objecttype="1">
+                        <img class="img124x77" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/20/rong-bien-4read-only-15926221083022092385891-crop-1592622217841297594289.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/20/rong-bien-4read-only-15926221083022092385891-crop-1592622217841297594289.jpg" alt="Làm gì đ&#7875; có làn da đ&#7865;p?" />
+                    </a>
+                    <h2>
+                        <a class="focus-middle-title" href="/lam-gi-de-co-lan-da-dep-20200620100330863.htm" title="Làm gì đ&#7875; có làn da đ&#7865;p?"  data-linktype="newsdetail" data-newsid="20200620100330863" data-id="20200620100330863" data-objecttype="1">Làm gì để có làn da đẹp?</a>
+                        
+                    </h2>
+                </li>
+            
+                <li class="focus-bottom-li" data-boxtype="zonenewsposition" data-newsposition="zonenewspositionbottom" data-order="9">
+                    <a href="/benh-nhan-phi-cong-nguoi-anh-tu-tho-binh-thuong-nong-long-duoc-ve-que-nha-20200620065428877.htm" title="B&#7879;nh nhân phi công ngư&#7901;i Anh t&#7921; th&#7903; bình thư&#7901;ng, &#39;nóng lòng đư&#7907;c v&#7873; quê nhà&#39;" class="img124x77 pos-rlt" data-displayinslide="0" data-comment="20200620065428877"  data-objecttype="1">
+                        <img class="img124x77" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/16/img3504-15922637659601013831649-crop-1592263925288983312826-crop-1592611215761967002340.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/16/img3504-15922637659601013831649-crop-1592263925288983312826-crop-1592611215761967002340.jpg" alt="B&#7879;nh nhân phi công ngư&#7901;i Anh t&#7921; th&#7903; bình thư&#7901;ng, &#39;nóng lòng đư&#7907;c v&#7873; quê nhà&#39;" />
+                    </a>
+                    <h2>
+                        <a class="focus-middle-title" href="/benh-nhan-phi-cong-nguoi-anh-tu-tho-binh-thuong-nong-long-duoc-ve-que-nha-20200620065428877.htm" title="B&#7879;nh nhân phi công ngư&#7901;i Anh t&#7921; th&#7903; bình thư&#7901;ng, &#39;nóng lòng đư&#7907;c v&#7873; quê nhà&#39;"  data-linktype="newsdetail" data-newsid="20200620065428877" data-id="20200620065428877" data-objecttype="1">Bệnh nhân phi công người Anh tự thở bình thường, 'nóng lòng được về quê nhà'</a>
+                        
+                    </h2>
+                </li>
+            
+                <li class="focus-bottom-li" data-boxtype="zonenewsposition" data-newsposition="zonenewspositionbottom" data-order="10">
+                    <a href="/who-noi-the-gioi-dang-trong-giai-doan-moi-va-nguy-hiem-cua-covid-19-20200620054213504.htm" title="WHO nói th&#7871; gi&#7899;i đang trong &#39;giai đo&#7841;n m&#7899;i và nguy hi&#7875;m&#39; c&#7911;a COVID-19" class="img124x77 pos-rlt" data-displayinslide="0" data-comment="20200620054213504"  data-objecttype="1">
+                        <img class="img124x77" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/13/merlin1729197306bcaa49f-f768-404c-9d38-16f4071daff1-superjumbo-15920034918481592385035-crop-1592606536461732738664.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/13/merlin1729197306bcaa49f-f768-404c-9d38-16f4071daff1-superjumbo-15920034918481592385035-crop-1592606536461732738664.jpg" alt="WHO nói th&#7871; gi&#7899;i đang trong &#39;giai đo&#7841;n m&#7899;i và nguy hi&#7875;m&#39; c&#7911;a COVID-19" />
+                    </a>
+                    <h2>
+                        <a class="focus-middle-title" href="/who-noi-the-gioi-dang-trong-giai-doan-moi-va-nguy-hiem-cua-covid-19-20200620054213504.htm" title="WHO nói th&#7871; gi&#7899;i đang trong &#39;giai đo&#7841;n m&#7899;i và nguy hi&#7875;m&#39; c&#7911;a COVID-19"  data-linktype="newsdetail" data-newsid="20200620054213504" data-id="20200620054213504" data-objecttype="1">WHO nói thế giới đang trong 'giai đoạn mới và nguy hiểm' của COVID-19</a>
+                        
+                    </h2>
+                </li>
+            
+                <li class="focus-bottom-li" data-boxtype="zonenewsposition" data-newsposition="zonenewspositionbottom" data-order="11">
+                    <a href="/bo-truong-y-te-thai-lan-tinh-nguyen-thu-vacxin-ngua-covid-19-20200619213934672.htm" title="B&#7897; trư&#7903;ng y t&#7871; Thái Lan tình nguy&#7879;n th&#7917; v&#7855;cxin ng&#7915;a COVID-19" class="img124x77 pos-rlt" data-displayinslide="0" data-comment="20200619213934672"  data-objecttype="1">
+                        <img class="img124x77" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/19/bo-truong-thai-lan-vacxin-covid-19-15925780332742140124903-crop-1592578294926273804530.png" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/19/bo-truong-thai-lan-vacxin-covid-19-15925780332742140124903-crop-1592578294926273804530.png" alt="B&#7897; trư&#7903;ng y t&#7871; Thái Lan tình nguy&#7879;n th&#7917; v&#7855;cxin ng&#7915;a COVID-19" />
+                    </a>
+                    <h2>
+                        <a class="focus-middle-title" href="/bo-truong-y-te-thai-lan-tinh-nguyen-thu-vacxin-ngua-covid-19-20200619213934672.htm" title="B&#7897; trư&#7903;ng y t&#7871; Thái Lan tình nguy&#7879;n th&#7917; v&#7855;cxin ng&#7915;a COVID-19"  data-linktype="newsdetail" data-newsid="20200619213934672" data-id="20200619213934672" data-objecttype="1">Bộ trưởng y tế Thái Lan tình nguyện thử vắcxin ngừa COVID-19</a>
+                        
+                    </h2>
+                </li>
+            
+                </ul>
+        </div>
+            
+        
+<div class="box-block-2 fl boxtag-list mgt12" box-type="videopositionbox" data-value="videoposition-12-5" data-count="3">
+    <h2><a class="title-box mgt16" href="/dich-covid-19-e576.htm" title="Dịch COVID-19">Dịch COVID-19</a></h2>
+    <a href="/dich-covid-19-e576.htm" title="Xem thêm" class="fr mgr12 mgt12 box-view-more">Xem thêm</a>
+    <ul class="box-block-2-list-news">
+        
+                <li class="w206">
+                    <a href="/them-7-ca-covid-19-tu-chau-au-ve-viet-nam-349-ca-2020061918000193.htm" title="Thêm 7 ca COVID-19 t&#7915; châu Âu v&#7873;, Vi&#7879;t Nam 349 ca" class="img206x128 pos-rlt">
+                        <img class="img206x128" src="https://cdn.tuoitre.vn/zoom/206_128/2020/5/15/c-xet-nghiem-sang-loc-covid-nam-tran12-15895313342021522436166-crop-1592564660858960473133.jpg" data-src="https://cdn.tuoitre.vn/zoom/206_128/2020/5/15/c-xet-nghiem-sang-loc-covid-nam-tran12-15895313342021522436166-crop-1592564660858960473133.jpg" alt="Thêm 7 ca COVID-19 t&#7915; châu Âu v&#7873;, Vi&#7879;t Nam 349 ca">
+                    </a>
+                    <h3 class="title-name">
+                        <a href="/them-7-ca-covid-19-tu-chau-au-ve-viet-nam-349-ca-2020061918000193.htm" title="Thêm 7 ca COVID-19 t&#7915; châu Âu v&#7873;, Vi&#7879;t Nam 349 ca" data-comment="2020061918000193">Thêm 7 ca COVID-19 từ châu Âu về, Việt Nam 349 ca</a>
+                    </h3>
+                </li>
+            
+                <li class="w206">
+                    <a href="/xem-xet-noi-lai-mot-so-tuyen-bay-quoc-te-20200618141901522.htm" title="Xem xét n&#7889;i l&#7841;i m&#7897;t s&#7889; tuy&#7871;n bay qu&#7889;c t&#7871;" class="img206x128 pos-rlt">
+                        <img class="img206x128" src="https://cdn.tuoitre.vn/zoom/206_128/2020/6/18/photo-1-1592464083212482055396-crop-1592467540657222284377.jpg" data-src="https://cdn.tuoitre.vn/zoom/206_128/2020/6/18/photo-1-1592464083212482055396-crop-1592467540657222284377.jpg" alt="Xem xét n&#7889;i l&#7841;i m&#7897;t s&#7889; tuy&#7871;n bay qu&#7889;c t&#7871;">
+                    </a>
+                    <h3 class="title-name">
+                        <a href="/xem-xet-noi-lai-mot-so-tuyen-bay-quoc-te-20200618141901522.htm" title="Xem xét n&#7889;i l&#7841;i m&#7897;t s&#7889; tuy&#7871;n bay qu&#7889;c t&#7871;" data-comment="20200618141901522">Xem xét nối lại một số tuyến bay quốc tế</a>
+                    </h3>
+                </li>
+            
+                <li class="w206">
+                    <a href="/90-ngay-hoi-phuc-ky-dieu-cua-benh-nhan-91-phi-cong-anh-20200617184104186.htm" title="90 ngày n&#7857;m vi&#7879;n và h&#7891;i ph&#7909;c k&#7923; di&#7879;u c&#7911;a b&#7879;nh nhân phi công ngư&#7901;i Anh" class="img206x128 pos-rlt">
+                        <img class="img206x128" src="https://cdn.tuoitre.vn/zoom/206_128/2020/6/17/benh-nhan-91-1592393694107133233194-crop-1592395737897837977842.jpg" data-src="https://cdn.tuoitre.vn/zoom/206_128/2020/6/17/benh-nhan-91-1592393694107133233194-crop-1592395737897837977842.jpg" alt="90 ngày n&#7857;m vi&#7879;n và h&#7891;i ph&#7909;c k&#7923; di&#7879;u c&#7911;a b&#7879;nh nhân phi công ngư&#7901;i Anh">
+                    </a>
+                    <h3 class="title-name">
+                        <a href="/90-ngay-hoi-phuc-ky-dieu-cua-benh-nhan-91-phi-cong-anh-20200617184104186.htm" title="90 ngày n&#7857;m vi&#7879;n và h&#7891;i ph&#7909;c k&#7923; di&#7879;u c&#7911;a b&#7879;nh nhân phi công ngư&#7901;i Anh" data-comment="20200617184104186">90 ngày nằm viện và hồi phục kỳ diệu của bệnh nhân phi công người Anh</a>
+                    </h3>
+                </li>
+            
+    </ul>
+</div>
+
+        <div class="clearfix"></div>
+    </div>
+    <div class="w300 fr">
+        
+<zone id="jmgdxnkl"></zone>
+<script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+          arfAsync.push("jmgdxnkl");
+</script>
+    </div>
+</div>
+
+        <div class="clearfix"></div>
+
+        <span class="line mgt20"></span>
+        <div class="list-middle">
+            
+            <div class="list-middle-block">
+                <div class="w479 fl stream-home list-middle-content">
+                    
+<div class="box-news-latest isstream">
+    
+    <p class="title-box">Tin mới</p>
+    
+   
+    <ul class="list-news-content">
+        
+
+
+            <li class="news-item" data-newsid="20200619191442882" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Th&#7913; trư&#7903;ng B&#7897; Y t&#7871;: Báo chí làm cho tin gi&#7843;, tin th&#7845;t thi&#7879;t không còn đ&#7845;t s&#7889;ng" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/thu-truong-bo-y-te-bao-chi-lam-cho-tin-gia-tin-that-thiet-khong-con-dat-song-20200619191442882.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/anh-1592568706912529089316-crop-15925687189261626255269.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/anh-1592568706912529089316-crop-15925687189261626255269.jpg" alt="Th&#7913; trư&#7903;ng B&#7897; Y t&#7871;: Báo chí làm cho tin gi&#7843;, tin th&#7845;t thi&#7879;t không còn đ&#7845;t s&#7889;ng" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Th&#7913; trư&#7903;ng B&#7897; Y t&#7871;: Báo chí làm cho tin gi&#7843;, tin th&#7845;t thi&#7879;t không còn đ&#7845;t s&#7889;ng" data-objecttype="" data-id="20200619191442882" data-linktype="newsdetail" data-comment="20200619191442882"
+                        href="/thu-truong-bo-y-te-bao-chi-lam-cho-tin-gia-tin-that-thiet-khong-con-dat-song-20200619191442882.htm"
+                        >Thứ trưởng Bộ Y tế: Báo chí làm cho tin giả, tin thất thiệt không còn đất sống</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Trong cuộc gặp gỡ hôm nay 19-6, Thứ trưởng thường trực Bộ Y tế Nguyễn Thanh Long cảm ơn báo chí đã "làm cho thông tin thất thiệt không còn đất sống". Ông Long cũng cho rằng trong cuộc chiến chống COVID-19, Việt Nam đã làm đúng, trúng.</p>
+                    <div class="news-extra-one no-thumb"><a href='/tuoi-tre-to-chuc-chuong-trinh-tri-an-tuyen-dau-phong-chong-dich-covid-19-20200619111605381.htm' title='Tu&#7893;i Tr&#7867; t&#7893; ch&#7913;c chương trình &#39;Tri ân tuy&#7871;n đ&#7847;u phòng ch&#7889;ng d&#7883;ch COVID-19&#39;' class='name-title'>Tuổi Trẻ tổ chức chương trình 'Tri ân tuyến đầu phòng chống dịch COVID-19'</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="2020061918000193" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Thêm 7 ca COVID-19 t&#7915; châu Âu v&#7873;, Vi&#7879;t Nam 349 ca" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/them-7-ca-covid-19-tu-chau-au-ve-viet-nam-349-ca-2020061918000193.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/5/15/c-xet-nghiem-sang-loc-covid-nam-tran12-15895313342021522436166-crop-1592564660858960473133.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/5/15/c-xet-nghiem-sang-loc-covid-nam-tran12-15895313342021522436166-crop-1592564660858960473133.jpg" alt="Thêm 7 ca COVID-19 t&#7915; châu Âu v&#7873;, Vi&#7879;t Nam 349 ca" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Thêm 7 ca COVID-19 t&#7915; châu Âu v&#7873;, Vi&#7879;t Nam 349 ca" data-objecttype="" data-id="2020061918000193" data-linktype="newsdetail" data-comment="2020061918000193"
+                        href="/them-7-ca-covid-19-tu-chau-au-ve-viet-nam-349-ca-2020061918000193.htm"
+                        >Thêm 7 ca COVID-19 từ châu Âu về, Việt Nam 349 ca</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Bộ Y tế chiều 19-6 thông báo ghi nhận thêm 7 ca mắc mới COVID-19, đều từ châu Âu về Nội Bài (Hà Nội) trên chuyến bay VN2.</p>
+                    <div class="news-extra-one no-thumb"><a href='/khach-du-lich-den-campuchia-phai-nop-coc-3-000-usd-du-phong-chua-tri-covid-19-20200619095519748.htm' title='Khách du l&#7883;ch đ&#7871;n Campuchia ph&#7843;i n&#7897;p c&#7885;c 3.000 USD d&#7921; phòng ch&#7919;a tr&#7883; COVID-19' class='name-title'>Khách du lịch đến Campuchia phải nộp cọc 3.000 USD dự phòng chữa trị COVID-19</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619164422633" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Bác sĩ &#8216;d&#7887;m&#8217; xài b&#7857;ng đ&#7841;i h&#7885;c gi&#7843; h&#7885;c lên chuyên khoa 1" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/bac-si-dom-xai-bang-dai-hoc-gia-hoc-len-chuyen-khoa-1-20200619164422633.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/tranuanngoc-15925593626412000537643-crop-15925595919221914738713.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/tranuanngoc-15925593626412000537643-crop-15925595919221914738713.jpg" alt="Bác sĩ &#8216;d&#7887;m&#8217; xài b&#7857;ng đ&#7841;i h&#7885;c gi&#7843; h&#7885;c lên chuyên khoa 1" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Bác sĩ &#8216;d&#7887;m&#8217; xài b&#7857;ng đ&#7841;i h&#7885;c gi&#7843; h&#7885;c lên chuyên khoa 1" data-objecttype="" data-id="20200619164422633" data-linktype="newsdetail" data-comment="20200619164422633"
+                        href="/bac-si-dom-xai-bang-dai-hoc-gia-hoc-len-chuyen-khoa-1-20200619164422633.htm"
+                        >Bác sĩ ‘dỏm’ xài bằng đại học giả học lên chuyên khoa 1</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Ngày 19-6, tin từ Sở Y tế Đồng Nai cho hay trong quá trình thẩm định nhân sự để cấp phép hoạt động cho một phòng khám đa khoa tại huyện Nhơn Trạch, cơ quan này phát hiện một bác sĩ xài bằng giả.</p>
+                    <div class="news-extra-one no-thumb"><a href='/hang-loat-giao-vien-day-lai-xe-o-tp-hcm-mua-bang-gia-qua-mang-20200306181350768.htm' title='Hàng lo&#7841;t giáo viên d&#7841;y lái xe &#7903; TP.HCM mua b&#7857;ng gi&#7843; qua m&#7841;ng' class='name-title'>Hàng loạt giáo viên dạy lái xe ở TP.HCM mua bằng giả qua mạng</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619154748269" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Có th&#7875; virus &#7903; &#7893; d&#7883;ch B&#7855;c Kinh đã đi t&#7915; Vũ Hán sang châu Âu r&#7891;i quay l&#7841;i Trung Qu&#7889;c" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/co-the-virus-o-o-dich-bac-kinh-da-di-tu-vu-han-sang-chau-au-roi-quay-lai-trung-quoc-20200619154748269.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/corona-tq-bac-kinh-test-afp-15925563307821615762998-crop-1592556461613933911437.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/corona-tq-bac-kinh-test-afp-15925563307821615762998-crop-1592556461613933911437.jpg" alt="Có th&#7875; virus &#7903; &#7893; d&#7883;ch B&#7855;c Kinh đã đi t&#7915; Vũ Hán sang châu Âu r&#7891;i quay l&#7841;i Trung Qu&#7889;c" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Có th&#7875; virus &#7903; &#7893; d&#7883;ch B&#7855;c Kinh đã đi t&#7915; Vũ Hán sang châu Âu r&#7891;i quay l&#7841;i Trung Qu&#7889;c" data-objecttype="" data-id="20200619154748269" data-linktype="newsdetail" data-comment="20200619154748269"
+                        href="/co-the-virus-o-o-dich-bac-kinh-da-di-tu-vu-han-sang-chau-au-roi-quay-lai-trung-quoc-20200619154748269.htm"
+                        >Có thể virus ở ổ dịch Bắc Kinh đã đi từ Vũ Hán sang châu Âu rồi quay lại Trung Quốc</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Trung Quốc vừa công bố chuỗi gen của virus corona liên quan ổ dịch bùng phát gần đây ở Bắc Kinh, qua đó cho rằng virus này 'có nhiều nét tương đồng với virus corona ở châu Âu'.</p>
+                    <div class="news-extra-one no-thumb"><a href='/tuoi-tre-to-chuc-chuong-trinh-tri-an-tuyen-dau-phong-chong-dich-covid-19-20200619111605381.htm' title='Tu&#7893;i Tr&#7867; t&#7893; ch&#7913;c chương trình &#39;Tri ân tuy&#7871;n đ&#7847;u phòng ch&#7889;ng d&#7883;ch COVID-19&#39;' class='name-title'>Tuổi Trẻ tổ chức chương trình 'Tri ân tuyến đầu phòng chống dịch COVID-19'</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619103303327" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Nghiên c&#7913;u m&#7899;i: Ng&#7891;i nhi&#7873;u tăng nguy cơ ung thư" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/nghien-cuu-moi-ngoi-nhieu-tang-nguy-co-ung-thu-20200619103303327.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/photo-1-1592535811147367250862-crop-1592535828896636122020.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/photo-1-1592535811147367250862-crop-1592535828896636122020.jpg" alt="Nghiên c&#7913;u m&#7899;i: Ng&#7891;i nhi&#7873;u tăng nguy cơ ung thư" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Nghiên c&#7913;u m&#7899;i: Ng&#7891;i nhi&#7873;u tăng nguy cơ ung thư" data-objecttype="" data-id="20200619103303327" data-linktype="newsdetail" data-comment="20200619103303327"
+                        href="/nghien-cuu-moi-ngoi-nhieu-tang-nguy-co-ung-thu-20200619103303327.htm"
+                        >Nghiên cứu mới: Ngồi nhiều tăng nguy cơ ung thư</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Nghiên cứu mới của Mỹ khuyến cáo chỉ cần thay thế 30 phút ngồi bằng vận động mỗi ngày, nguy cơ tử vong vì ung thư sẽ giảm đi đáng kể.</p>
+                    <div class="news-extra-one no-thumb"><a href='/di-bo-nhanh-va-chay-bo-cham-phuong-phap-nao-tot-hon-20181015174937992.htm' title='Đi b&#7897; nhanh và ch&#7841;y b&#7897; ch&#7853;m, phương pháp nào t&#7889;t hơn?' class='name-title'>Đi bộ nhanh và chạy bộ chậm, phương pháp nào tốt hơn?</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619110123449" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="S&#7889;ng ch&#7853;m đ&#7875; yêu thương" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/song-cham-de-yeu-thuong-20200619110123449.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/aodaibantre19resize-8read-only-15925392294471531633259-crop-15925392810771159061128.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/aodaibantre19resize-8read-only-15925392294471531633259-crop-15925392810771159061128.jpg" alt="S&#7889;ng ch&#7853;m đ&#7875; yêu thương" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="S&#7889;ng ch&#7853;m đ&#7875; yêu thương" data-objecttype="" data-id="20200619110123449" data-linktype="newsdetail" data-comment="20200619110123449"
+                        href="/song-cham-de-yeu-thuong-20200619110123449.htm"
+                        >Sống chậm để yêu thương</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Học thiền, tập yoga, tĩnh tâm trong hơi thở... là một số giải pháp "sống chậm" của nhiều người thời nay.</p>
+                    <div class="news-extra-one no-thumb"><a href='/song-cham-va-hit-tho-cung-doa-hong-20191019201315347.htm' title='S&#7889;ng ch&#7853;m và hít th&#7903; cùng đóa h&#7891;ng' class='name-title'>Sống chậm và hít thở cùng đóa hồng</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619085247411" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="WHO: Có th&#7875; s&#7843;n xu&#7845;t hàng trăm tri&#7879;u li&#7873;u v&#7855;cxin COVID-19 năm nay" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/who-co-the-san-xuat-hang-tram-trieu-lieu-vacxin-covid-19-nam-nay-20200619085247411.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/2020-06-18t184516z97747556rc2ubh9g811wrtrmadp3health-coronavirus-argentina-test-15925313304202001095837-crop-15925314529591007192485.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/2020-06-18t184516z97747556rc2ubh9g811wrtrmadp3health-coronavirus-argentina-test-15925313304202001095837-crop-15925314529591007192485.jpg" alt="WHO: Có th&#7875; s&#7843;n xu&#7845;t hàng trăm tri&#7879;u li&#7873;u v&#7855;cxin COVID-19 năm nay" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="WHO: Có th&#7875; s&#7843;n xu&#7845;t hàng trăm tri&#7879;u li&#7873;u v&#7855;cxin COVID-19 năm nay" data-objecttype="" data-id="20200619085247411" data-linktype="newsdetail" data-comment="20200619085247411"
+                        href="/who-co-the-san-xuat-hang-tram-trieu-lieu-vacxin-covid-19-nam-nay-20200619085247411.htm"
+                        >WHO: Có thể sản xuất hàng trăm triệu liều vắcxin COVID-19 năm nay</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Tổ chức Y tế Thế giới (WHO) hi vọng thế giới có thể sản xuất hàng trăm triệu liều vắcxin COVID-19 trong năm nay và sẽ ưu tiên những nhóm người dễ nhiễm bệnh.</p>
+                    <div class="news-extra-one no-thumb"><a href='/bac-kinh-noi-my-vu-cao-qua-nhieu-roi-thach-trung-bang-chung-pha-hoai-vacxin-20200608163734597.htm' title='B&#7855;c Kinh nói M&#7929; &#39;vu cáo quá nhi&#7873;u r&#7891;i&#39;, thách trưng b&#7857;ng ch&#7913;ng phá ho&#7841;i v&#7855;cxin' class='name-title'>Bắc Kinh nói Mỹ 'vu cáo quá nhiều rồi', thách trưng bằng chứng phá hoại vắcxin</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619094110451" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Bác sĩ Anthony Fauci: M&#7929; v&#7851;n đang trong làn sóng d&#7883;ch th&#7913; nh&#7845;t" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/bac-si-anthony-fauci-my-van-dang-trong-lan-song-dich-thu-nhat-20200619094110451.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/3/12/fauci-15839962826941454947357-crop-15925344259551552814243.jpeg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/3/12/fauci-15839962826941454947357-crop-15925344259551552814243.jpeg" alt="Bác sĩ Anthony Fauci: M&#7929; v&#7851;n đang trong làn sóng d&#7883;ch th&#7913; nh&#7845;t" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Bác sĩ Anthony Fauci: M&#7929; v&#7851;n đang trong làn sóng d&#7883;ch th&#7913; nh&#7845;t" data-objecttype="" data-id="20200619094110451" data-linktype="newsdetail" data-comment="20200619094110451"
+                        href="/bac-si-anthony-fauci-my-van-dang-trong-lan-song-dich-thu-nhat-20200619094110451.htm"
+                        >Bác sĩ Anthony Fauci: Mỹ vẫn đang trong làn sóng dịch thứ nhất</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Bác sĩ Anthony S. Fauci - Giám đốc Viện dị ứng và bệnh nhiễm quốc gia Mỹ, khẳng định nước Mỹ vẫn đang trong 'làn sóng thứ nhất' của dịch bệnh COVID-19 chứ chưa bước sang làn sóng thứ hai.</p>
+                    <div class="news-extra-one no-thumb"><a href='/bac-si-anthony-fauci-ac-mong-covid-19-con-lau-moi-cham-dut-20200610120523232.htm' title='Bác sĩ Anthony Fauci: &#39;Ác m&#7897;ng&#39; COVID-19 còn lâu m&#7899;i ch&#7845;m d&#7913;t' class='name-title'>Bác sĩ Anthony Fauci: 'Ác mộng' COVID-19 còn lâu mới chấm dứt</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619114921483" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="H&#7885;c sinh ti&#7875;u h&#7885;c rơi t&#7915; t&#7847;ng 2 xu&#7889;ng đ&#7845;t, ch&#7845;n thương s&#7885; não" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/hoc-sinh-tieu-hoc-roi-tu-tang-2-xuong-dat-chan-thuong-so-nao-20200619114921483.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2017/cap-cuu-1509541679866-crop-15925423829372126274840.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2017/cap-cuu-1509541679866-crop-15925423829372126274840.jpg" alt="H&#7885;c sinh ti&#7875;u h&#7885;c rơi t&#7915; t&#7847;ng 2 xu&#7889;ng đ&#7845;t, ch&#7845;n thương s&#7885; não" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="H&#7885;c sinh ti&#7875;u h&#7885;c rơi t&#7915; t&#7847;ng 2 xu&#7889;ng đ&#7845;t, ch&#7845;n thương s&#7885; não" data-objecttype="" data-id="20200619114921483" data-linktype="newsdetail" data-comment="20200619114921483"
+                        href="/hoc-sinh-tieu-hoc-roi-tu-tang-2-xuong-dat-chan-thuong-so-nao-20200619114921483.htm"
+                        >Học sinh tiểu học rơi từ tầng 2 xuống đất, chấn thương sọ não</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Ngày 19-6, Bệnh viện Đa khoa tỉnh Lâm Đồng tích cực chữa trị cho học sinh L.V.L. (điểm trường Đạ Mbô, xã Đạ Rsar, huyện Đam Rông) rơi từ tầng 2 xuống đất và bị chấn thương sọ não.</p>
+                    <div class="news-extra-one no-thumb"><a href='/hoc-sinh-lop-8-roi-tu-tang-cao-xuong-san-truong-bi-thuong-nang-20190417190937176.htm' title='H&#7885;c sinh l&#7899;p 8 rơi t&#7915; t&#7847;ng cao xu&#7889;ng sân trư&#7901;ng b&#7883; thương n&#7863;ng' class='name-title'>Học sinh lớp 8 rơi từ tầng cao xuống sân trường bị thương nặng</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619013529661" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="B&#7879;nh nhân phi công ngư&#7901;i Anh tr&#7843; l&#7901;i Tu&#7893;i Tr&#7867;: &#39;N&#7871;u &#7903; nơi nào khác trên Trái đ&#7845;t, tôi đã ch&#7871;t&#39;" class="img212x132 pos-rlt" data-displayinslide="6" data-objecttype=""
+                    href="/benh-nhan-phi-cong-nguoi-anh-tra-loi-tuoi-tre-neu-o-noi-nao-khac-tren-trai-dat-toi-da-chet-20200619013529661.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/thumb2-15925351600112088753106-crop-1592535197254195226748.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/thumb2-15925351600112088753106-crop-1592535197254195226748.jpg" alt="B&#7879;nh nhân phi công ngư&#7901;i Anh tr&#7843; l&#7901;i Tu&#7893;i Tr&#7867;: &#39;N&#7871;u &#7903; nơi nào khác trên Trái đ&#7845;t, tôi đã ch&#7871;t&#39;" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="B&#7879;nh nhân phi công ngư&#7901;i Anh tr&#7843; l&#7901;i Tu&#7893;i Tr&#7867;: &#39;N&#7871;u &#7903; nơi nào khác trên Trái đ&#7845;t, tôi đã ch&#7871;t&#39;" data-objecttype="" data-id="20200619013529661" data-linktype="newsdetail" data-comment="20200619013529661"
+                        href="/benh-nhan-phi-cong-nguoi-anh-tra-loi-tuoi-tre-neu-o-noi-nao-khac-tren-trai-dat-toi-da-chet-20200619013529661.htm"
+                        >Bệnh nhân phi công người Anh trả lời Tuổi Trẻ: 'Nếu ở nơi nào khác trên Trái đất, tôi đã chết'</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Trong phòng hồi sức đặc biệt của Bệnh viện Chợ Rẫy (TP.HCM), bệnh nhân nhiễm COVID-19 nặng nhất, có thời gian điều trị lâu nhất ở Việt Nam - phi công người Anh có những chia sẻ đặc biệt với phóng viên báo Tuổi Trẻ.</p>
+                    <div class="news-extra-one no-thumb"><a href='/benh-nhan-phi-cong-nguoi-anh-se-som-duoc-ra-vien-ve-nuoc-20200619064329439.htm' title='B&#7879;nh nhân phi công ngư&#7901;i Anh s&#7869; s&#7899;m đư&#7907;c ra vi&#7879;n, v&#7873; nư&#7899;c' class='name-title'>Bệnh nhân phi công người Anh sẽ sớm được ra viện, về nước</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619071308092" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Đi&#7873;u gì x&#7843;y xa n&#7871;u m&#7897;t ngày t&#7845;t c&#7843; virus bi&#7871;n m&#7845;t?" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/dieu-gi-xay-xa-neu-mot-ngay-tat-ca-virus-bien-mat-20200619071308092.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/virus-15925254024881034995189-crop-15925259577631059020217.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/virus-15925254024881034995189-crop-15925259577631059020217.jpg" alt="Đi&#7873;u gì x&#7843;y xa n&#7871;u m&#7897;t ngày t&#7845;t c&#7843; virus bi&#7871;n m&#7845;t?" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Đi&#7873;u gì x&#7843;y xa n&#7871;u m&#7897;t ngày t&#7845;t c&#7843; virus bi&#7871;n m&#7845;t?" data-objecttype="" data-id="20200619071308092" data-linktype="newsdetail" data-comment="20200619071308092"
+                        href="/dieu-gi-xay-xa-neu-mot-ngay-tat-ca-virus-bien-mat-20200619071308092.htm"
+                        >Điều gì xảy xa nếu một ngày tất cả virus biến mất?</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Sự biến mất của virus sẽ ảnh hưởng đến tiềm năng tiến hóa của mọi sự sống trên hành tinh, bao gồm cả con người. Không có virus, sự sống và hành tinh như chúng ta biết sẽ không còn tồn tại.</p>
+                    <div class="news-extra-one no-thumb"><a href='/dai-dich-keo-dai-con-nguoi-lieu-co-phat-trien-kha-nang-khang-virus-corona-khong-20200618115813858.htm' title='Đ&#7841;i d&#7883;ch kéo dài, con ngư&#7901;i li&#7879;u có phát tri&#7875;n kh&#7843; năng kháng virus corona?' class='name-title'>Đại dịch kéo dài, con người liệu có phát triển khả năng kháng virus corona?</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619064329439" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="B&#7879;nh nhân phi công ngư&#7901;i Anh s&#7869; s&#7899;m đư&#7907;c ra vi&#7879;n, v&#7873; nư&#7899;c" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/benh-nhan-phi-cong-nguoi-anh-se-som-duoc-ra-vien-ve-nuoc-20200619064329439.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/phi-cong-15925236176421750592118-crop-1592523769851792099765.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/phi-cong-15925236176421750592118-crop-1592523769851792099765.jpg" alt="B&#7879;nh nhân phi công ngư&#7901;i Anh s&#7869; s&#7899;m đư&#7907;c ra vi&#7879;n, v&#7873; nư&#7899;c" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="B&#7879;nh nhân phi công ngư&#7901;i Anh s&#7869; s&#7899;m đư&#7907;c ra vi&#7879;n, v&#7873; nư&#7899;c" data-objecttype="" data-id="20200619064329439" data-linktype="newsdetail" data-comment="20200619064329439"
+                        href="/benh-nhan-phi-cong-nguoi-anh-se-som-duoc-ra-vien-ve-nuoc-20200619064329439.htm"
+                        >Bệnh nhân phi công người Anh sẽ sớm được ra viện, về nước</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Báo cáo của Tiểu ban điều trị, Ban Chỉ đạo chống dịch quốc gia cho biết bệnh nhân người Anh sẽ sớm được ra viện và về nước khi phục hồi thêm về chức năng vận động.</p>
+                    <div class="news-extra-one no-thumb"><a href='/them-7-ca-covid-19-deu-tu-nuoc-ngoai-ve-tren-chuyen-bay-voi-benh-nhan-335-20200618185351549.htm' title='Thêm 7 ca COVID-19, đ&#7873;u t&#7915; nư&#7899;c ngoài v&#7873; trên chuy&#7871;n bay v&#7899;i b&#7879;nh nhân 335' class='name-title'>Thêm 7 ca COVID-19, đều từ nước ngoài về trên chuyến bay với bệnh nhân 335</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="2020061822425795" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="N&#7845;m th&#7913;c th&#7847;n xu&#7845;t hi&#7879;n &#7903; Hà N&#7897;i: đáng s&#7907; lo&#7841;i ma túy gây &#7843;o giác c&#7921;c m&#7841;nh" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/nam-thuc-than-xuat-hien-o-ha-noi-dang-so-loai-ma-tuy-gay-ao-giac-cuc-manh-2020061822425795.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/18/nam-2-3read-only-15924948332511683897890-crop-15924949812901703401279.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/18/nam-2-3read-only-15924948332511683897890-crop-15924949812901703401279.jpg" alt="N&#7845;m th&#7913;c th&#7847;n xu&#7845;t hi&#7879;n &#7903; Hà N&#7897;i: đáng s&#7907; lo&#7841;i ma túy gây &#7843;o giác c&#7921;c m&#7841;nh" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="N&#7845;m th&#7913;c th&#7847;n xu&#7845;t hi&#7879;n &#7903; Hà N&#7897;i: đáng s&#7907; lo&#7841;i ma túy gây &#7843;o giác c&#7921;c m&#7841;nh" data-objecttype="" data-id="2020061822425795" data-linktype="newsdetail" data-comment="2020061822425795"
+                        href="/nam-thuc-than-xuat-hien-o-ha-noi-dang-so-loai-ma-tuy-gay-ao-giac-cuc-manh-2020061822425795.htm"
+                        >Nấm thức thần xuất hiện ở Hà Nội: đáng sợ loại ma túy gây ảo giác cực mạnh</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - BS Nguyễn Trung Nguyên - giám đốc Trung tâm chống độc, Bệnh viện Bạch Mai (Hà Nội) - cho biết trung tâm tiếp nhận khá nhiều bệnh nhân ngộ độc ma túy đến cấp cứu.</p>
+                    <div class="news-extra-one no-thumb"><a href='/banh-keo-chua-ma-tuy-duoc-rao-ban-tren-mang-2020061611115974.htm' title='Bánh k&#7865;o ch&#7913;a ma túy đư&#7907;c rao bán trên m&#7841;ng' class='name-title'>Bánh kẹo chứa ma túy được rao bán trên mạng</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200618185351549" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Thêm 7 ca COVID-19, đ&#7873;u t&#7915; nư&#7899;c ngoài v&#7873; trên chuy&#7871;n bay v&#7899;i b&#7879;nh nhân 335" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/them-7-ca-covid-19-deu-tu-nuoc-ngoai-ve-tren-chuyen-bay-voi-benh-nhan-335-20200618185351549.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/17/xet-nghiem-covid-19-tai-san-baynam-tran-12-1592349262516786313685-crop-1592481187352363683661.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/17/xet-nghiem-covid-19-tai-san-baynam-tran-12-1592349262516786313685-crop-1592481187352363683661.jpg" alt="Thêm 7 ca COVID-19, đ&#7873;u t&#7915; nư&#7899;c ngoài v&#7873; trên chuy&#7871;n bay v&#7899;i b&#7879;nh nhân 335" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Thêm 7 ca COVID-19, đ&#7873;u t&#7915; nư&#7899;c ngoài v&#7873; trên chuy&#7871;n bay v&#7899;i b&#7879;nh nhân 335" data-objecttype="" data-id="20200618185351549" data-linktype="newsdetail" data-comment="20200618185351549"
+                        href="/them-7-ca-covid-19-deu-tu-nuoc-ngoai-ve-tren-chuyen-bay-voi-benh-nhan-335-20200618185351549.htm"
+                        >Thêm 7 ca COVID-19, đều từ nước ngoài về trên chuyến bay với bệnh nhân 335</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Chiều tối nay 18-6, Bộ Y tế xác nhận có thêm 7 ca mắc COVID-19 mới, tất cả đều từ nước ngoài về cùng chuyến bay với bệnh nhân 335.</p>
+                    <div class="news-extra-one no-thumb"><a href='/covid-19-quet-sach-tang-truong-kinh-te-chau-a-nam-2020-20200618112008189.htm' title='COVID-19 &#39;quét s&#7841;ch&#39; tăng trư&#7903;ng kinh t&#7871; châu Á năm 2020' class='name-title'>COVID-19 'quét sạch' tăng trưởng kinh tế châu Á năm 2020</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200618141901522" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Xem xét n&#7889;i l&#7841;i m&#7897;t s&#7889; tuy&#7871;n bay qu&#7889;c t&#7871;" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/xem-xet-noi-lai-mot-so-tuyen-bay-quoc-te-20200618141901522.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/18/photo-1-1592464083212482055396-crop-1592467540657222284377.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/18/photo-1-1592464083212482055396-crop-1592467540657222284377.jpg" alt="Xem xét n&#7889;i l&#7841;i m&#7897;t s&#7889; tuy&#7871;n bay qu&#7889;c t&#7871;" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Xem xét n&#7889;i l&#7841;i m&#7897;t s&#7889; tuy&#7871;n bay qu&#7889;c t&#7871;" data-objecttype="" data-id="20200618141901522" data-linktype="newsdetail" data-comment="20200618141901522"
+                        href="/xem-xet-noi-lai-mot-so-tuyen-bay-quoc-te-20200618141901522.htm"
+                        >Xem xét nối lại một số tuyến bay quốc tế</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Trong bình thường mới, thực hiện mục tiêu kép nhưng nguy cơ bùng phát dịch trở lại rất cao, bởi nguồn bệnh từ bên ngoài khi làn sóng thứ 2 của dịch COVID-19 đã bùng phát.</p>
+                    <div class="news-extra-one no-thumb"><a href='/dai-dich-keo-dai-con-nguoi-lieu-co-phat-trien-kha-nang-khang-virus-corona-khong-20200618115813858.htm' title='Đ&#7841;i d&#7883;ch kéo dài, con ngư&#7901;i li&#7879;u có phát tri&#7875;n kh&#7843; năng kháng virus corona?' class='name-title'>Đại dịch kéo dài, con người liệu có phát triển khả năng kháng virus corona?</a></div>
+                </div>
+            </li>
+        
+
+
+
+    </ul>
+    
+    <div class="list-news-bottom mgt10 clearfix">
+        <div class="readmore fl">
+            <a class="btn-readmore" href="javascript:void(0);" title="Xem thêm">Xem thêm</a>
+        </div>
+        <input type="hidden" id="datepicker_value" value="">
+        <a class="btn-calendar calendar fr" href="javascript:;" title="Xem theo ngày" id="datepicker_cate"><span class="icon icon-calendar"></span>Xem theo thời gian</a>
+    </div>
+    
+</div>
+
+
+                </div>
+                <div class="w500 fr list-middle-content">
+                    
+
+<div class="box-block-1 w490 fr" >
+    <h2><a class="title-box" href="/video.htm" title="Videos">Videos</a></h2>
+    
+    <div class="list-right fr">
+        
+<ul class="trending"  box-type="trendingboxhome" data-value="videoposition-1575-4" data-count="3">
+    
+            <li><a href="/phong-chong-virus-corona-e583.htm" title="Phòng chống virus corona">Phòng chống virus corona</a></li>            
+        
+            <li><a href="/tuyen-sinh-dai-hoc-2020-e558.htm" title="Tuyển sinh đại học 2020">Tuyển sinh đại học 2020</a></li>            
+        
+            <li><a href="/gia-vang-e592.htm" title="Giá vàng">Giá vàng</a></li>            
+        
+    
+</ul>
+
+    </div>
+    <ul class="box-block-1-list-news clearfix" box-type="videoembed" data-value="videoembed-12-1" data-count="3">
+        
+        
+                <li class="box-block-1-news w156">
+                    <a title="Ch&#7911; t&#7883;ch UBND TP.HCM thăm h&#7887;i b&#7879;nh nhân phi công ngư&#7901;i Anh" class="img156x97" data-objecttype=""
+                        href="/chu-tich-ubnd-tp-hcm-tham-hoi-benh-nhan-phi-cong-nguoi-anh-20200617193042715.htm"
+                            >
+                        
+                        <img class="img156x97" src="https://cdn.tuoitre.vn/zoom/156_97/2020/6/17/hinh-1-15923967694701076755497-crop-1592396853576246946453.jpg" alt="Ch&#7911; t&#7883;ch UBND TP.HCM thăm h&#7887;i b&#7879;nh nhân phi công ngư&#7901;i Anh" />
+                        <span class="icon-play"></span>
+                        
+                    </a>
+                    <h3 class="title-name-newsvideo w156">
+                        <a class="title-name" title="Ch&#7911; t&#7883;ch UBND TP.HCM thăm h&#7887;i b&#7879;nh nhân phi công ngư&#7901;i Anh" data-comment="20200617193042715" data-objecttype=""
+                            href="/chu-tich-ubnd-tp-hcm-tham-hoi-benh-nhan-phi-cong-nguoi-anh-20200617193042715.htm"
+                            >Chủ tịch UBND TP.HCM thăm hỏi bệnh nhân phi công người Anh</a>
+                        
+                    </h3>
+                </li>
+            
+                <li class="box-block-1-news w156">
+                    <a title="Video b&#7879;nh nhân phi công ngư&#7901;i Anh ng&#7891;i d&#7853;y, đung đưa c&#7843; hai chân" class="img156x97" data-objecttype=""
+                        href="/video-benh-nhan-phi-cong-nguoi-anh-ngoi-day-dung-dua-ca-hai-chan-20200609085557035.htm"
+                            >
+                        
+                        <img class="img156x97" src="https://cdn.tuoitre.vn/zoom/156_97/2020/6/9/hinh-cai-chan-159167117350527046535-crop-15916902128541206200057.png" alt="Video b&#7879;nh nhân phi công ngư&#7901;i Anh ng&#7891;i d&#7853;y, đung đưa c&#7843; hai chân" />
+                        <span class="icon-play"></span>
+                        
+                    </a>
+                    <h3 class="title-name-newsvideo w156">
+                        <a class="title-name" title="Video b&#7879;nh nhân phi công ngư&#7901;i Anh ng&#7891;i d&#7853;y, đung đưa c&#7843; hai chân" data-comment="20200609085557035" data-objecttype=""
+                            href="/video-benh-nhan-phi-cong-nguoi-anh-ngoi-day-dung-dua-ca-hai-chan-20200609085557035.htm"
+                            >Video bệnh nhân phi công người Anh ngồi dậy, đung đưa cả hai chân</a>
+                        
+                    </h3>
+                </li>
+            
+                <li class="box-block-1-news w156">
+                    <a title="B&#7879;nh nhân COVID-19 ph&#7893;i t&#7915;ng t&#7893;n thương hơn c&#7843; phi công ngư&#7901;i Anh xu&#7845;t vi&#7879;n" class="img156x97" data-objecttype=""
+                        href="/benh-nhan-covid-19-phoi-tung-ton-thuong-hon-ca-phi-cong-nguoi-anh-xuat-vien-20200601171932215.htm"
+                            >
+                        
+                        <img class="img156x97" src="https://cdn.tuoitre.vn/zoom/156_97/2020/6/1/1-1591004893859559163987-crop-1591004902257671458878.jpg" alt="B&#7879;nh nhân COVID-19 ph&#7893;i t&#7915;ng t&#7893;n thương hơn c&#7843; phi công ngư&#7901;i Anh xu&#7845;t vi&#7879;n" />
+                        <span class="icon-play"></span>
+                        
+                    </a>
+                    <h3 class="title-name-newsvideo w156">
+                        <a class="title-name" title="B&#7879;nh nhân COVID-19 ph&#7893;i t&#7915;ng t&#7893;n thương hơn c&#7843; phi công ngư&#7901;i Anh xu&#7845;t vi&#7879;n" data-comment="20200601171932215" data-objecttype=""
+                            href="/benh-nhan-covid-19-phoi-tung-ton-thuong-hon-ca-phi-cong-nguoi-anh-xuat-vien-20200601171932215.htm"
+                            >Bệnh nhân COVID-19 phổi từng tổn thương hơn cả phi công người Anh xuất viện</a>
+                        
+                    </h3>
+                </li>
+            
+    </ul>
+</div>
+
+
+                    <div class="clearfix"></div>
+                    <span class="line mgt15"></span>
+                    
+
+                    <div class="bgcd8 clearfix pdt15 pdb15">
+                        <div class="banner-right fr">
+                            
+
+
+<zone id="jmgdsrp8"></zone>
+
+<script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+          arfAsync.push("jmgdsrp8");
+</script>
+
+                        </div>
+                        
+<div class="box-category4  pdl9 fl" box-type="boxtag" data-value="tagnews-tai-nan" >
+    <h2><a class="title-box" href="/tai-nan.html" title="Tai nạn">Tai nạn</a></h2>
+    <ul class="clearfix">
+        
+                <li>
+                    <h3><a href="/xe-16-cho-bien-so-khanh-hoa-bi-xe-container-de-giam-doc-thu-ky-va-tai-xe-chet-20200618015100862.htm" title="Xe 16 ch&#7895; bi&#7875;n s&#7889; Khánh Hòa b&#7883; xe container đè, giám đ&#7889;c, thư ký và tài x&#7871; ch&#7871;t" class="box-category4-news-title">Xe 16 chỗ biển số Khánh Hòa bị xe container đè, giám đốc, thư ký và tài xế chết</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a href="/clip-no-xe-bon-cho-dau-o-trung-quoc-10-nguoi-chet-117-nguoi-bi-thuong-20200613195454047.htm" title="Clip n&#7893; xe b&#7891;n ch&#7903; d&#7847;u &#7903; Trung Qu&#7889;c, 10 ngư&#7901;i ch&#7871;t, 117 ngư&#7901;i b&#7883; thương" class="box-category4-news-title">Clip nổ xe bồn chở dầu ở Trung Quốc, 10 người chết, 117 người bị thương</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a href="/xe-tai-lao-vo-cho-tai-xe-muon-diu-xe-vao-container-giam-toc-do-nhung-bat-thanh-20200612154232867.htm" title="Xe t&#7843;i lao vô ch&#7907;: Tài x&#7871; mu&#7889;n dìu xe vào container gi&#7843;m t&#7889;c đ&#7897; nhưng b&#7845;t thành" class="box-category4-news-title">Xe tải lao vô chợ: Tài xế muốn dìu xe vào container giảm tốc độ nhưng bất thành</a></h3>
+                </li>
+            
+    </ul>
+</div>
+
+                    </div>
+
+
+                    <div class="clearfix"></div>
+                    <span class="line"></span>
+
+                    
+<div class="box-block-2 w490 fr" box-type="photoboxcate" data-value="photocatenews-12-1" data-count="2">
+    <h2><a href="/photo.htm" class="title-box mgt15 mgb8" title="Ảnh">Ảnh</a></h2>
+    <ul class="box-block-2-list-news">
+        
+                <li class="w240">
+                    <a href="/hang-loat-benh-vien-xay-bai-dap-chuan-bi-cap-cuu-bang-truc-thang-20200617080113725.htm" title="Hàng lo&#7841;t b&#7879;nh vi&#7879;n xây bãi đáp, chu&#7849;n b&#7883; c&#7845;p c&#7913;u b&#7857;ng tr&#7921;c thăng" class="img240x150 pos-rlt" data-displayinslide="1">
+                        <img class="img240x150" src="https://cdn.tuoitre.vn/zoom/240_150/2020/6/17/bn-2-1-2read-only-15923554471021911708479-crop-1592355574984421744585.jpg" data-src="https://cdn.tuoitre.vn/zoom/240_150/2020/6/17/bn-2-1-2read-only-15923554471021911708479-crop-1592355574984421744585.jpg" alt="Hàng lo&#7841;t b&#7879;nh vi&#7879;n xây bãi đáp, chu&#7849;n b&#7883; c&#7845;p c&#7913;u b&#7857;ng tr&#7921;c thăng" />
+                    </a>
+                    <h3 class="title-name">
+                        <a href="/hang-loat-benh-vien-xay-bai-dap-chuan-bi-cap-cuu-bang-truc-thang-20200617080113725.htm" title="Hàng lo&#7841;t b&#7879;nh vi&#7879;n xây bãi đáp, chu&#7849;n b&#7883; c&#7845;p c&#7913;u b&#7857;ng tr&#7921;c thăng" data-comment="20200617080113725">Hàng loạt bệnh viện xây bãi đáp, chuẩn bị cấp cứu bằng trực thăng</a>
+                    </h3>
+                </li>
+            
+                <li class="w240">
+                    <a href="/phong-toa-toan-bo-thi-tran-dong-van-20200422113729388.htm" title="Phong t&#7887;a toàn b&#7897; th&#7883; tr&#7845;n Đ&#7891;ng Văn" class="img240x150 pos-rlt" data-displayinslide="1">
+                        <img class="img240x150" src="https://cdn.tuoitre.vn/zoom/240_150/2020/4/22/phong-toa-dong-van-158754667246762659125-crop-1587546716941503850348.jpg" data-src="https://cdn.tuoitre.vn/zoom/240_150/2020/4/22/phong-toa-dong-van-158754667246762659125-crop-1587546716941503850348.jpg" alt="Phong t&#7887;a toàn b&#7897; th&#7883; tr&#7845;n Đ&#7891;ng Văn" />
+                    </a>
+                    <h3 class="title-name">
+                        <a href="/phong-toa-toan-bo-thi-tran-dong-van-20200422113729388.htm" title="Phong t&#7887;a toàn b&#7897; th&#7883; tr&#7845;n Đ&#7891;ng Văn" data-comment="20200422113729388">Phong tỏa toàn bộ thị trấn Đồng Văn</a>
+                    </h3>
+                </li>
+            
+    </ul>
+</div>
+
+
+                    <div class="clearfix"></div>
+                    <span class="line"></span>
+
+                    
+                    <div class="clearfix">
+                        <div class="coldrscate fl pdt15 bgcd8">
+                            
+<div class="box-category4 pdl9 fl">
+    <h2><a href="javascript:;" class="title-box" title="Xem nhiều">Xem nhiều</a></h2>
+    <ul class="clearfix" id="mostview-cate">
+        
+                <li>
+                    <h3><a class="box-category4-news-title" href="/benh-nhan-phi-cong-nguoi-anh-tra-loi-tuoi-tre-neu-o-noi-nao-khac-tren-trai-dat-toi-da-chet-20200619013529661.htm" title="B&#7879;nh nhân phi công ngư&#7901;i Anh tr&#7843; l&#7901;i Tu&#7893;i Tr&#7867;: &#39;N&#7871;u &#7903; nơi nào khác trên Trái đ&#7845;t, tôi đã ch&#7871;t&#39;">Bệnh nhân phi công người Anh trả lời Tuổi Trẻ: 'Nếu ở nơi nào khác trên Trái đất, tôi đã chết'</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/benh-nhan-phi-cong-nguoi-anh-se-som-duoc-ra-vien-ve-nuoc-20200619064329439.htm" title="B&#7879;nh nhân phi công ngư&#7901;i Anh s&#7869; s&#7899;m đư&#7907;c ra vi&#7879;n, v&#7873; nư&#7899;c">Bệnh nhân phi công người Anh sẽ sớm được ra viện, về nước</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/nam-thuc-than-xuat-hien-o-ha-noi-dang-so-loai-ma-tuy-gay-ao-giac-cuc-manh-2020061822425795.htm" title="N&#7845;m th&#7913;c th&#7847;n xu&#7845;t hi&#7879;n &#7903; Hà N&#7897;i: đáng s&#7907; lo&#7841;i ma túy gây &#7843;o giác c&#7921;c m&#7841;nh">Nấm thức thần xuất hiện ở Hà Nội: đáng sợ loại ma túy gây ảo giác cực mạnh</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/bac-si-dom-xai-bang-dai-hoc-gia-hoc-len-chuyen-khoa-1-20200619164422633.htm" title="Bác sĩ &#8216;d&#7887;m&#8217; xài b&#7857;ng đ&#7841;i h&#7885;c gi&#7843; h&#7885;c lên chuyên khoa 1">Bác sĩ ‘dỏm’ xài bằng đại học giả học lên chuyên khoa 1</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/who-noi-the-gioi-dang-trong-giai-doan-moi-va-nguy-hiem-cua-covid-19-20200620054213504.htm" title="WHO nói th&#7871; gi&#7899;i đang trong &#39;giai đo&#7841;n m&#7899;i và nguy hi&#7875;m&#39; c&#7911;a COVID-19">WHO nói thế giới đang trong 'giai đoạn mới và nguy hiểm' của COVID-19</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/hoc-sinh-tieu-hoc-roi-tu-tang-2-xuong-dat-chan-thuong-so-nao-20200619114921483.htm" title="H&#7885;c sinh ti&#7875;u h&#7885;c rơi t&#7915; t&#7847;ng 2 xu&#7889;ng đ&#7845;t, ch&#7845;n thương s&#7885; não">Học sinh tiểu học rơi từ tầng 2 xuống đất, chấn thương sọ não</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/co-the-virus-o-o-dich-bac-kinh-da-di-tu-vu-han-sang-chau-au-roi-quay-lai-trung-quoc-20200619154748269.htm" title="Có th&#7875; virus &#7903; &#7893; d&#7883;ch B&#7855;c Kinh đã đi t&#7915; Vũ Hán sang châu Âu r&#7891;i quay l&#7841;i Trung Qu&#7889;c">Có thể virus ở ổ dịch Bắc Kinh đã đi từ Vũ Hán sang châu Âu rồi quay lại Trung Quốc</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/them-7-ca-covid-19-tu-chau-au-ve-viet-nam-349-ca-2020061918000193.htm" title="Thêm 7 ca COVID-19 t&#7915; châu Âu v&#7873;, Vi&#7879;t Nam 349 ca">Thêm 7 ca COVID-19 từ châu Âu về, Việt Nam 349 ca</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/benh-nhan-phi-cong-nguoi-anh-tu-tho-binh-thuong-nong-long-duoc-ve-que-nha-20200620065428877.htm" title="B&#7879;nh nhân phi công ngư&#7901;i Anh t&#7921; th&#7903; bình thư&#7901;ng, &#39;nóng lòng đư&#7907;c v&#7873; quê nhà&#39;">Bệnh nhân phi công người Anh tự thở bình thường, 'nóng lòng được về quê nhà'</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/who-co-the-san-xuat-hang-tram-trieu-lieu-vacxin-covid-19-nam-nay-20200619085247411.htm" title="WHO: Có th&#7875; s&#7843;n xu&#7845;t hàng trăm tri&#7879;u li&#7873;u v&#7855;cxin COVID-19 năm nay">WHO: Có thể sản xuất hàng trăm triệu liều vắcxin COVID-19 năm nay</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/bo-truong-y-te-thai-lan-tinh-nguyen-thu-vacxin-ngua-covid-19-20200619213934672.htm" title="B&#7897; trư&#7903;ng y t&#7871; Thái Lan tình nguy&#7879;n th&#7917; v&#7855;cxin ng&#7915;a COVID-19">Bộ trưởng y tế Thái Lan tình nguyện thử vắcxin ngừa COVID-19</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/nghien-cuu-moi-ngoi-nhieu-tang-nguy-co-ung-thu-20200619103303327.htm" title="Nghiên c&#7913;u m&#7899;i: Ng&#7891;i nhi&#7873;u tăng nguy cơ ung thư">Nghiên cứu mới: Ngồi nhiều tăng nguy cơ ung thư</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/bac-si-anthony-fauci-my-van-dang-trong-lan-song-dich-thu-nhat-20200619094110451.htm" title="Bác sĩ Anthony Fauci: M&#7929; v&#7851;n đang trong làn sóng d&#7883;ch th&#7913; nh&#7845;t">Bác sĩ Anthony Fauci: Mỹ vẫn đang trong làn sóng dịch thứ nhất</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/dieu-gi-xay-xa-neu-mot-ngay-tat-ca-virus-bien-mat-20200619071308092.htm" title="Đi&#7873;u gì x&#7843;y xa n&#7871;u m&#7897;t ngày t&#7845;t c&#7843; virus bi&#7871;n m&#7845;t?">Điều gì xảy xa nếu một ngày tất cả virus biến mất?</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/thu-truong-bo-y-te-bao-chi-lam-cho-tin-gia-tin-that-thiet-khong-con-dat-song-20200619191442882.htm" title="Th&#7913; trư&#7903;ng B&#7897; Y t&#7871;: Báo chí làm cho tin gi&#7843;, tin th&#7845;t thi&#7879;t không còn đ&#7845;t s&#7889;ng">Thứ trưởng Bộ Y tế: Báo chí làm cho tin giả, tin thất thiệt không còn đất sống</a></h3>
+                </li>
+            
+    </ul>
+</div>
+
+<script>
+    (runinit = window.runinit || []).push(function () {
+        $("#mostview-cate").slimscroll({ height: 400, color: 'rgba(0,0,0,.5)', size: '5px', opacity: 0.7, alwaysVisible: true, railVisible: true, railColor: 'rgba(0,0,0,.1)', allowPageScroll: false });
+    });
+</script>
+                            
+                                <div class="bannerwidesky1 mgt15">
+                                    
+
+
+    <zone id="jmgdyw67"></zone>
+
+ <script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+          arfAsync.push("jmgdyw67");
+</script>
+
+                                </div>
+                                
+                                    <div class="bannerwidesky1">
+                                        
+
+
+    <zone id="jmge0d1p"></zone>
+
+ <script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+          arfAsync.push("jmge0d1p");
+</script>
+
+                                    </div>
+                                
+
+                                <div class="bannerwidesky1">
+                                    
+
+
+    <zone id="jmge1ds4"></zone>
+ <script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+          arfAsync.push("jmge1ds4");
+</script>
+
+                                </div>
+                            
+                        </div>
+                        <div class="w300 bgcff fr">
+                            
+
+
+<zone id="jmgdujzj"></zone>
+
+<script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+    arfAsync.push("jmgdujzj");
+</script>
+
+
+                            
+
+
+<zone id="jmgdwhr7"></zone>
+
+<script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+    arfAsync.push("jmgdwhr7");
+</script>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="clearfix"></div>
+            <span class="line line-gd"></span>
+            
+<div class="box-category3 border-right-pd w584px fl">
+    <h2><a href="/suc-khoe/dinh-duong.htm" class="title-box" title="Dinh dưỡng">Dinh dưỡng</a></h2>
+    
+    <div class="clearfix"></div>
+    <ul class="list-news">
+        
+                <li>
+                    <a class="img188x117 pos-rlt" href="/giao-duc-kien-thuc-dinh-duong-de-tre-phat-trien-toan-dien-20200226104502732.htm" title="Giáo d&#7909;c ki&#7871;n th&#7913;c dinh dư&#7905;ng đ&#7875; tr&#7867; phát tri&#7875;n toàn di&#7879;n" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/2/26/photo-1-15826885155901762467518-crop-15826885973861908893859.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/2/26/photo-1-15826885155901762467518-crop-15826885973861908893859.jpg" alt="Giáo d&#7909;c ki&#7871;n th&#7913;c dinh dư&#7905;ng đ&#7875; tr&#7867; phát tri&#7875;n toàn di&#7879;n" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/giao-duc-kien-thuc-dinh-duong-de-tre-phat-trien-toan-dien-20200226104502732.htm" title="Giáo d&#7909;c ki&#7871;n th&#7913;c dinh dư&#7905;ng đ&#7875; tr&#7867; phát tri&#7875;n toàn di&#7879;n" data-comment="20200226104502732">Giáo dục kiến thức dinh dưỡng để trẻ phát triển toàn diện</a>
+                        
+                    </h3>                    
+                    <div class="clearfix"></div>
+                    <p class="sapo need-trimline" rel="3">Theo số liệu thống kê từ Viện Dinh dưỡng, tình trạng suy dinh dưỡng trẻ em Việt Nam vẫn còn ở mức cao so với thế giới. Bên cạnh đó, số lượng trẻ thừa cân béo phì cũng ngày càng gia tăng tại các khu vực thành phố lớn.</p>
+                    
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/ngay-tet-nham-nhi-hat-huong-duong-bao-nhieu-la-vua-20200116122444491.htm" title="Ngày T&#7871;t nhâm nhi h&#7841;t hư&#7899;ng dương bao nhiêu là v&#7915;a?" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/1/16/photo-1-15791521683371375070732-crop-1579152388123671768461.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/1/16/photo-1-15791521683371375070732-crop-1579152388123671768461.jpg" alt="Ngày T&#7871;t nhâm nhi h&#7841;t hư&#7899;ng dương bao nhiêu là v&#7915;a?" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/ngay-tet-nham-nhi-hat-huong-duong-bao-nhieu-la-vua-20200116122444491.htm" title="Ngày T&#7871;t nhâm nhi h&#7841;t hư&#7899;ng dương bao nhiêu là v&#7915;a?" data-comment="20200116122444491">Ngày Tết nhâm nhi hạt hướng dương bao nhiêu là vừa?</a>
+                        
+                    </h3>                    
+                    <div class="clearfix"></div>
+                    <p class="sapo need-trimline" rel="3">TTO - Dịp tết, ngoài bánh mứt kẹo, hướng dương là loại hạt được nhiều gia đình chọn để bày mời khách. Hạt này nhiều dinh dưỡng nhưng nếu ăn nhiều cũng sẽ có hại cho sức khỏe.</p>
+                    
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/cai-ruou-an-rau-nguoi-dan-ong-giam-27kg-sau-16-tuan-20200116142329523.htm" title="Cai rư&#7907;u ăn rau, ngư&#7901;i đàn ông gi&#7843;m 27kg sau 16 tu&#7847;n" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/1/16/tamas-haiman-truoc-va-sau-tamas-haiman-157915905701452121303-crop-1579159232720665687963.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/1/16/tamas-haiman-truoc-va-sau-tamas-haiman-157915905701452121303-crop-1579159232720665687963.jpg" alt="Cai rư&#7907;u ăn rau, ngư&#7901;i đàn ông gi&#7843;m 27kg sau 16 tu&#7847;n" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/cai-ruou-an-rau-nguoi-dan-ong-giam-27kg-sau-16-tuan-20200116142329523.htm" title="Cai rư&#7907;u ăn rau, ngư&#7901;i đàn ông gi&#7843;m 27kg sau 16 tu&#7847;n" data-comment="20200116142329523">Cai rượu ăn rau, người đàn ông giảm 27kg sau 16 tuần</a>
+                        
+                    </h3>                    
+                    <div class="clearfix"></div>
+                    <p class="sapo need-trimline" rel="3">TTO - Bất kể việc chỉ bắt đầu quyết tâm cai rượu và chăm tập thể thao khi đã ở độ tuổi gần 50, một nhân viên ngân hàng ở London, Anh vẫn có được vóc dáng và thể lực đáng ngưỡng mộ.</p>
+                    
+                </li>
+            
+    </ul>
+</div>
+
+<div class="box-category2 w376px pdt20 fr">
+    <h2><a href="/suc-khoe/me-va-be.htm" class="title-box" title="Mẹ & Bé">Mẹ & Bé</a></h2>
+    
+    <div class="clearfix"></div>
+    <ul class="list-news">
+        
+                <li>
+                    <a class="img188x117 pos-rlt" href="/nang-nong-nhu-thieu-dot-lam-gi-de-tre-em-nguoi-lon-khong-do-benh-20200611082023787.htm" title="N&#7855;ng nóng như thiêu đ&#7889;t, làm gì đ&#7875; tr&#7867; em, ngư&#7901;i l&#7899;n không đ&#7893; b&#7879;nh?" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/11/uong-nuoc-ngay-nang-nong-15918389594731781077452-crop-15918411851741717617050.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/11/uong-nuoc-ngay-nang-nong-15918389594731781077452-crop-15918411851741717617050.jpg" alt="N&#7855;ng nóng như thiêu đ&#7889;t, làm gì đ&#7875; tr&#7867; em, ngư&#7901;i l&#7899;n không đ&#7893; b&#7879;nh?" />
+                    </a>
+                    <div class="description">
+                        <h3 class="name-title clearfix">
+                            <a href="/nang-nong-nhu-thieu-dot-lam-gi-de-tre-em-nguoi-lon-khong-do-benh-20200611082023787.htm" title="N&#7855;ng nóng như thiêu đ&#7889;t, làm gì đ&#7875; tr&#7867; em, ngư&#7901;i l&#7899;n không đ&#7893; b&#7879;nh?" data-comment="20200611082023787">Nắng nóng như thiêu đốt, làm gì để trẻ em, người lớn không đổ bệnh?</a>
+                            
+                        </h3>
+                        <a href='/mien-bac-mien-trung-tiep-tuc-nang-nong-thieu-dot-mien-nam-mua-dong-20200611075227423.htm' class='news-other' title='Mi&#7873;n B&#7855;c, mi&#7873;n Trung ti&#7871;p t&#7909;c n&#7855;ng nóng thiêu đ&#7889;t, mi&#7873;n Nam mưa dông'>Miền Bắc, miền Trung tiếp tục nắng nóng thiêu đốt, miền Nam mưa dông</a>
+                    </div>
+                </li>
+            
+        
+                <li>
+                    <a class="img90x56 pos-rlt" href="/cuu-song-me-con-san-phu-trong-tinh-trang-ngan-can-treo-soi-toc-2020052718130069.htm" title="C&#7913;u s&#7889;ng m&#7865; con s&#7843;n ph&#7909; trong tình tr&#7841;ng &#39;ngàn cân treo s&#7907;i tóc&#39;" data-displayinslide="0">
+                        <img class="img90x56" src="https://cdn.tuoitre.vn/zoom/90_56/2020/5/27/1-1590577781083971529811-15905823995261306953524-crop-15905824147151432090001.png" data-src="https://cdn.tuoitre.vn/zoom/90_56/2020/5/27/1-1590577781083971529811-15905823995261306953524-crop-15905824147151432090001.png" alt="C&#7913;u s&#7889;ng m&#7865; con s&#7843;n ph&#7909; trong tình tr&#7841;ng &#39;ngàn cân treo s&#7907;i tóc&#39;" />
+                    </a>
+                    <h3>
+                        <a class="title-name" href="/cuu-song-me-con-san-phu-trong-tinh-trang-ngan-can-treo-soi-toc-2020052718130069.htm" title="C&#7913;u s&#7889;ng m&#7865; con s&#7843;n ph&#7909; trong tình tr&#7841;ng &#39;ngàn cân treo s&#7907;i tóc&#39;" data-comment="2020052718130069">Cứu sống mẹ con sản phụ trong tình trạng 'ngàn cân treo sợi tóc'</a>
+                        
+                    </h3>
+                    <a class='category-name' href='/suc-khoe.htm' title='S&#7913;c kh&#7887;e'>Sức khỏe</a>
+                </li>
+            
+                <li>
+                    <a class="img90x56 pos-rlt" href="/em-be-mac-covid-19-ngay-khi-chao-doi-ca-thu-3-the-gioi-20200518132341682.htm" title="Em bé m&#7855;c COVID-19 ngay khi chào đ&#7901;i, ca th&#7913; 3 th&#7871; gi&#7899;i" data-displayinslide="0">
+                        <img class="img90x56" src="https://cdn.tuoitre.vn/zoom/90_56/2020/5/18/tre-so-sinh-15897846436851580691651-crop-15897846909441102389675.jpg" data-src="https://cdn.tuoitre.vn/zoom/90_56/2020/5/18/tre-so-sinh-15897846436851580691651-crop-15897846909441102389675.jpg" alt="Em bé m&#7855;c COVID-19 ngay khi chào đ&#7901;i, ca th&#7913; 3 th&#7871; gi&#7899;i" />
+                    </a>
+                    <h3>
+                        <a class="title-name" href="/em-be-mac-covid-19-ngay-khi-chao-doi-ca-thu-3-the-gioi-20200518132341682.htm" title="Em bé m&#7855;c COVID-19 ngay khi chào đ&#7901;i, ca th&#7913; 3 th&#7871; gi&#7899;i" data-comment="20200518132341682">Em bé mắc COVID-19 ngay khi chào đời, ca thứ 3 thế giới</a>
+                        
+                    </h3>
+                    <a class='category-name' href='/suc-khoe.htm' title='S&#7913;c kh&#7887;e'>Sức khỏe</a>
+                </li>
+            
+    </ul>
+</div>
+<div class="clearfix"></div><span class="line line-gd"></span>
+<div class="box-category2 border-right-pd w376px pdt20 fl">
+    <h2><a href="/suc-khoe/gioi-tinh.htm" class="title-box" title="Giới tính">Giới tính</a></h2>
+    
+    <div class="clearfix"></div>
+    <ul class="list-news">
+        
+                <li>
+                    <a class="img188x117 pos-rlt" href="/nam-thanh-nien-bi-nhiem-trung-nang-do-cay-bi-vao-duong-vat-20200504095134569.htm" title="Nam thanh niên b&#7883; nhi&#7877;m trùng n&#7863;ng do c&#7845;y bi vào dương v&#7853;t" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/5/4/pgsquang-1588560566960407169221-crop-15885605863391584183254.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/5/4/pgsquang-1588560566960407169221-crop-15885605863391584183254.jpg" alt="Nam thanh niên b&#7883; nhi&#7877;m trùng n&#7863;ng do c&#7845;y bi vào dương v&#7853;t" />
+                    </a>
+                    <div class="description">
+                        <h3 class="name-title clearfix">
+                            <a href="/nam-thanh-nien-bi-nhiem-trung-nang-do-cay-bi-vao-duong-vat-20200504095134569.htm" title="Nam thanh niên b&#7883; nhi&#7877;m trùng n&#7863;ng do c&#7845;y bi vào dương v&#7853;t" data-comment="20200504095134569">Nam thanh niên bị nhiễm trùng nặng do cấy bi vào dương vật</a>
+                            
+                        </h3>
+                        <a href='/cau-thu-phap-bi-treo-giay-5-nam-vi-can-duong-vat-cau-thu-doi-ban-phai-khau-10-mui-20200219112328368.htm' class='news-other' title='C&#7847;u th&#7911; Pháp b&#7883; &#8216;treo giày&#8217; 5 năm vì&#8230; c&#7855;n dương v&#7853;t c&#7847;u th&#7911; đ&#7897;i b&#7841;n, ph&#7843;i khâu 10 mũi'>Cầu thủ Pháp bị ‘treo giày’ 5 năm vì… cắn dương vật cầu thủ đội bạn, phải khâu 10 mũi</a>
+                    </div>
+                </li>
+            
+        
+                <li>
+                    <a class="img90x56 pos-rlt" href="/hoc-sinh-ve-chu-tinh-trung-va-nang-trung-2020010815033797.htm" title="H&#7885;c sinh v&#7869; chú tinh trùng và nàng tr&#7913;ng" data-displayinslide="0">
+                        <img class="img90x56" src="https://cdn.tuoitre.vn/zoom/90_56/2020/1/8/gioitinh0701-1read-only-1578470468122854002463-crop-1578470542540116722272.jpeg" data-src="https://cdn.tuoitre.vn/zoom/90_56/2020/1/8/gioitinh0701-1read-only-1578470468122854002463-crop-1578470542540116722272.jpeg" alt="H&#7885;c sinh v&#7869; chú tinh trùng và nàng tr&#7913;ng" />
+                    </a>
+                    <h3>
+                        <a class="title-name" href="/hoc-sinh-ve-chu-tinh-trung-va-nang-trung-2020010815033797.htm" title="H&#7885;c sinh v&#7869; chú tinh trùng và nàng tr&#7913;ng" data-comment="2020010815033797">Học sinh vẽ chú tinh trùng và nàng trứng</a>
+                        
+                    </h3>
+                    <a class='category-name' href='/giao-duc.htm' title='Giáo d&#7909;c'>Giáo dục</a>
+                </li>
+            
+                <li>
+                    <a class="img90x56 pos-rlt" href="/cau-be-14-tuoi-bi-xoan-tinh-hoan-duoc-cuu-trong-gang-tac-20200107155500682.htm" title="C&#7853;u bé 14 tu&#7893;i b&#7883; xo&#7855;n tinh hoàn đư&#7907;c c&#7913;u &#39;trong gang t&#7845;c&#39;" data-displayinslide="0">
+                        <img class="img90x56" src="https://cdn.tuoitre.vn/zoom/90_56/2020/1/7/hinh-xoan-tinh-hoan-7-1-15783871603321550911646-crop-1578387218007228492959.jpg" data-src="https://cdn.tuoitre.vn/zoom/90_56/2020/1/7/hinh-xoan-tinh-hoan-7-1-15783871603321550911646-crop-1578387218007228492959.jpg" alt="C&#7853;u bé 14 tu&#7893;i b&#7883; xo&#7855;n tinh hoàn đư&#7907;c c&#7913;u &#39;trong gang t&#7845;c&#39;" />
+                    </a>
+                    <h3>
+                        <a class="title-name" href="/cau-be-14-tuoi-bi-xoan-tinh-hoan-duoc-cuu-trong-gang-tac-20200107155500682.htm" title="C&#7853;u bé 14 tu&#7893;i b&#7883; xo&#7855;n tinh hoàn đư&#7907;c c&#7913;u &#39;trong gang t&#7845;c&#39;" data-comment="20200107155500682">Cậu bé 14 tuổi bị xoắn tinh hoàn được cứu 'trong gang tấc'</a>
+                        
+                    </h3>
+                    <a class='category-name' href='/suc-khoe.htm' title='S&#7913;c kh&#7887;e'>Sức khỏe</a>
+                </li>
+            
+    </ul>
+</div>
+
+<div class="box-category3 w584px fr">
+    <h2><a href="/suc-khoe/phong-mach.htm" class="title-box" title="Phòng mạch">Phòng mạch</a></h2>
+    
+    <div class="clearfix"></div>
+    <ul class="list-news">
+        
+                <li>
+                    <a class="img188x117 pos-rlt" href="/mat-sung-phu-day-mun-mu-sau-khi-dap-mat-na-mua-tren-mang-20200519152522107.htm" title="M&#7863;t sưng phù, đ&#7847;y m&#7909;n m&#7911; sau khi đ&#7855;p m&#7863;t n&#7841; mua trên m&#7841;ng" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/5/19/hinh-truoc-dieu-tri-19-5-15898765527631465055617-crop-1589876657608633050630.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/5/19/hinh-truoc-dieu-tri-19-5-15898765527631465055617-crop-1589876657608633050630.jpg" alt="M&#7863;t sưng phù, đ&#7847;y m&#7909;n m&#7911; sau khi đ&#7855;p m&#7863;t n&#7841; mua trên m&#7841;ng" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/mat-sung-phu-day-mun-mu-sau-khi-dap-mat-na-mua-tren-mang-20200519152522107.htm" title="M&#7863;t sưng phù, đ&#7847;y m&#7909;n m&#7911; sau khi đ&#7855;p m&#7863;t n&#7841; mua trên m&#7841;ng" data-comment="20200519152522107">Mặt sưng phù, đầy mụn mủ sau khi đắp mặt nạ mua trên mạng</a>
+                        
+                    </h3>                    
+                    <div class="clearfix"></div>
+                    <p class="sapo need-trimline" rel="3">TTO - Nghe theo lời quảng cáo trên mạng về một loại mặt nạ đông y đắp lên sẽ làm trắng, đẹp da, bệnh nhân nữ N.T.H. (21 tuổi, ngụ ở Long An) mua về sử dụng. Sau 2 lần đắp, mặt bệnh nhân bị sưng phù, nổi mụn mủ… phải nhập viện điều trị.</p>
+                    
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/tu-y-ngung-dieu-tri-viem-gan-b-man-suy-gan-toi-cap-co-the-tu-vong-20200504170441999.htm" title="T&#7921; ý ngưng đi&#7873;u tr&#7883; viêm gan B m&#7841;n: suy gan t&#7889;i c&#7845;p có th&#7875; t&#7917; vong" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/5/4/3220172200-800x1200-1588586705399815039047-crop-15885867163381751016135.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/5/4/3220172200-800x1200-1588586705399815039047-crop-15885867163381751016135.jpg" alt="T&#7921; ý ngưng đi&#7873;u tr&#7883; viêm gan B m&#7841;n: suy gan t&#7889;i c&#7845;p có th&#7875; t&#7917; vong" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/tu-y-ngung-dieu-tri-viem-gan-b-man-suy-gan-toi-cap-co-the-tu-vong-20200504170441999.htm" title="T&#7921; ý ngưng đi&#7873;u tr&#7883; viêm gan B m&#7841;n: suy gan t&#7889;i c&#7845;p có th&#7875; t&#7917; vong" data-comment="20200504170441999">Tự ý ngưng điều trị viêm gan B mạn: suy gan tối cấp có thể tử vong</a>
+                        
+                    </h3>                    
+                    <div class="clearfix"></div>
+                    <p class="sapo need-trimline" rel="3">TTO - Gần đây, chúng tôi tiếp nhận những trường hợp rất đáng tiếc, bệnh nhân nhập viện trong tình trạng vàng da, vàng mắt hoặc lơ mơ, hôn mê, đa số các trường hợp không thể hồi phục chức năng gan ban đầu, nặng nề hơn còn có thể tử vong.</p>
+                    
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/mua-dich-o-nha-kham-benh-20200410085423839.htm" title="Mùa d&#7883;ch &#7903; nhà khám b&#7879;nh" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/4/10/anh-1-ngay-9-4-2read-only-1586483420996148780412-crop-15864834940943456804.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/4/10/anh-1-ngay-9-4-2read-only-1586483420996148780412-crop-15864834940943456804.jpg" alt="Mùa d&#7883;ch &#7903; nhà khám b&#7879;nh" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/mua-dich-o-nha-kham-benh-20200410085423839.htm" title="Mùa d&#7883;ch &#7903; nhà khám b&#7879;nh" data-comment="20200410085423839">Mùa dịch ở nhà khám bệnh</a>
+                        
+                    </h3>                    
+                    <div class="clearfix"></div>
+                    <p class="sapo need-trimline" rel="3">TTO - Khám bệnh tại nhà hoặc tư vấn bệnh qua điện thoại, cho phép kéo giãn thời gian cấp phát thuốc 
+từ 1 tháng/lần lên 3 tháng/lần…</p>
+                    
+                </li>
+            
+    </ul>
+</div>
+<div class="clearfix"></div><span class="line line-gd"></span>
+<div class="box-category3 border-right-pd w584px fl">
+    <h2><a href="/suc-khoe/biet-de-khoe.htm" class="title-box" title="Biết để khỏe">Biết để khỏe</a></h2>
+    
+    <div class="clearfix"></div>
+    <ul class="list-news">
+        
+                <li>
+                    <a class="img188x117 pos-rlt" href="/lam-gi-de-co-lan-da-dep-20200620100330863.htm" title="Làm gì đ&#7875; có làn da đ&#7865;p?" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/20/rong-bien-4read-only-15926221083022092385891-crop-1592622217841297594289.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/20/rong-bien-4read-only-15926221083022092385891-crop-1592622217841297594289.jpg" alt="Làm gì đ&#7875; có làn da đ&#7865;p?" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/lam-gi-de-co-lan-da-dep-20200620100330863.htm" title="Làm gì đ&#7875; có làn da đ&#7865;p?" data-comment="20200620100330863">Làm gì để có làn da đẹp?</a>
+                        
+                    </h3>                    
+                    <div class="clearfix"></div>
+                    <p class="sapo need-trimline" rel="3">TTO - Phụ nữ Nhật Bản thường trông trẻ so với tuổi thật của họ một phần là do di truyền. Dẫu vậy, họ luôn luôn áp dụng những kiến thức phổ biến về bí quyết để luôn giữ da tươi trẻ.</p>
+                    
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/nghien-cuu-moi-ngoi-nhieu-tang-nguy-co-ung-thu-20200619103303327.htm" title="Nghiên c&#7913;u m&#7899;i: Ng&#7891;i nhi&#7873;u tăng nguy cơ ung thư" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/19/photo-1-1592535811147367250862-crop-1592535828896636122020.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/19/photo-1-1592535811147367250862-crop-1592535828896636122020.jpg" alt="Nghiên c&#7913;u m&#7899;i: Ng&#7891;i nhi&#7873;u tăng nguy cơ ung thư" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/nghien-cuu-moi-ngoi-nhieu-tang-nguy-co-ung-thu-20200619103303327.htm" title="Nghiên c&#7913;u m&#7899;i: Ng&#7891;i nhi&#7873;u tăng nguy cơ ung thư" data-comment="20200619103303327">Nghiên cứu mới: Ngồi nhiều tăng nguy cơ ung thư</a>
+                        
+                    </h3>                    
+                    <div class="clearfix"></div>
+                    <p class="sapo need-trimline" rel="3">TTO - Nghiên cứu mới của Mỹ khuyến cáo chỉ cần thay thế 30 phút ngồi bằng vận động mỗi ngày, nguy cơ tử vong vì ung thư sẽ giảm đi đáng kể.</p>
+                    
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/y-hoc-hien-dai-cuu-nguoi-benh-vay-nen-ra-sao-20200615151456453.htm" title="Y h&#7885;c hi&#7879;n đ&#7841;i &#39;c&#7913;u&#39; ngư&#7901;i b&#7879;nh v&#7843;y n&#7871;n ra sao?" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/15/benh-vay-nen-15922207168991515133448-crop-1592220775560710010433.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/15/benh-vay-nen-15922207168991515133448-crop-1592220775560710010433.jpg" alt="Y h&#7885;c hi&#7879;n đ&#7841;i &#39;c&#7913;u&#39; ngư&#7901;i b&#7879;nh v&#7843;y n&#7871;n ra sao?" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/y-hoc-hien-dai-cuu-nguoi-benh-vay-nen-ra-sao-20200615151456453.htm" title="Y h&#7885;c hi&#7879;n đ&#7841;i &#39;c&#7913;u&#39; ngư&#7901;i b&#7879;nh v&#7843;y n&#7871;n ra sao?" data-comment="20200615151456453">Y học hiện đại 'cứu' người bệnh vảy nến ra sao?</a>
+                        
+                    </h3>                    
+                    <div class="clearfix"></div>
+                    <p class="sapo need-trimline" rel="3">TTO - Điều trị bệnh vảy nến đã có những tiến bộ vượt bậc trong suốt 10 năm qua, đó là tin vui cho những người bệnh vảy nến trên toàn thế giới. Một trong những tiến bộ đó là thuốc sinh học.</p>
+                    
+                </li>
+            
+    </ul>
+</div>
+
+            
+        </div>
+        <div class="clearfix"></div>
+        <span class="line line-video"></span>
+        <div class="list-bottom">
+            
+
+<div class="box-category1 pdt15 no-index"  >
+    <h2 class="title-box">Có thể bạn quan tâm</h2>
+    <div class="fr">
+        
+<ul class="trending"  box-type="trendingboxhome" data-value="videoposition-0-4" data-count="3">
+    
+            <li><a href="/21-6-ngay-bao-chi-cach-mang-viet-nam-e633.htm" title="21-6 - Ngày báo chí cách mạng Việt Nam">21-6 - Ngày báo chí cách mạng Việt Nam</a></li>            
+        
+            <li><a href="/tu-van-tuyen-sinh-huong-nghiep-2020-e631.htm" title="Tư vấn tuyển sinh - hướng nghiệp 2020">Tư vấn tuyển sinh - hướng nghiệp 2020</a></li>            
+        
+            <li><a href="/ky-hop-9-quoc-hoi-khoa-xiv-e624.htm" title="Kỳ họp 9 Quốc hội khóa XIV">Kỳ họp 9 Quốc hội khóa XIV</a></li>            
+        
+    
+</ul>
+
+    </div>
+    <ul class="list-news" box-type="mostviewbox" data-value="mostviewnews-0-">
+        
+                <li>
+                    <a class="img188x117 pos-rlt" href="/benh-nhan-phi-cong-nguoi-anh-tra-loi-tuoi-tre-neu-o-noi-nao-khac-tren-trai-dat-toi-da-chet-20200619013529661.htm" title="B&#7879;nh nhân phi công ngư&#7901;i Anh tr&#7843; l&#7901;i Tu&#7893;i Tr&#7867;: &#39;N&#7871;u &#7903; nơi nào khác trên Trái đ&#7845;t, tôi đã ch&#7871;t&#39;" data-displayinslide="6">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/19/thumb2-15925351600112088753106-crop-1592535197254195226748.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/19/thumb2-15925351600112088753106-crop-1592535197254195226748.jpg" alt="B&#7879;nh nhân phi công ngư&#7901;i Anh tr&#7843; l&#7901;i Tu&#7893;i Tr&#7867;: &#39;N&#7871;u &#7903; nơi nào khác trên Trái đ&#7845;t, tôi đã ch&#7871;t&#39;" />
+                    </a>
+                    <span class="number">1</span>
+                    <a class='category-name' href='/thoi-su/phong-su.htm' title='Phóng s&#7921;'>Phóng sự</a>
+                    <h3 class="name-title">
+                        <a href="/benh-nhan-phi-cong-nguoi-anh-tra-loi-tuoi-tre-neu-o-noi-nao-khac-tren-trai-dat-toi-da-chet-20200619013529661.htm" title="B&#7879;nh nhân phi công ngư&#7901;i Anh tr&#7843; l&#7901;i Tu&#7893;i Tr&#7867;: &#39;N&#7871;u &#7903; nơi nào khác trên Trái đ&#7845;t, tôi đã ch&#7871;t&#39;">Bệnh nhân phi công người Anh trả lời Tuổi Trẻ: 'Nếu ở nơi nào khác trên Trái đất, tôi đã chết'</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Trong phòng hồi sức đặc biệt của Bệnh viện Chợ Rẫy (TP.HCM), bệnh nhân nhiễm COVID-19 nặng nhất, có thời gian điều trị lâu nhất ở Việt Nam - phi công người Anh có những chia sẻ đặc biệt với phóng viên báo Tuổi Trẻ.</p>
+                    <span class="timeago need-get-timeago" title="2020-06-19T11:03:00"></span>
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/benh-nhan-phi-cong-nguoi-anh-se-som-duoc-ra-vien-ve-nuoc-20200619064329439.htm" title="B&#7879;nh nhân phi công ngư&#7901;i Anh s&#7869; s&#7899;m đư&#7907;c ra vi&#7879;n, v&#7873; nư&#7899;c" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/19/phi-cong-15925236176421750592118-crop-1592523769851792099765.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/19/phi-cong-15925236176421750592118-crop-1592523769851792099765.jpg" alt="B&#7879;nh nhân phi công ngư&#7901;i Anh s&#7869; s&#7899;m đư&#7907;c ra vi&#7879;n, v&#7873; nư&#7899;c" />
+                    </a>
+                    <span class="number">2</span>
+                    <a class='category-name' href='/suc-khoe.htm' title='S&#7913;c kh&#7887;e'>Sức khỏe</a>
+                    <h3 class="name-title">
+                        <a href="/benh-nhan-phi-cong-nguoi-anh-se-som-duoc-ra-vien-ve-nuoc-20200619064329439.htm" title="B&#7879;nh nhân phi công ngư&#7901;i Anh s&#7869; s&#7899;m đư&#7907;c ra vi&#7879;n, v&#7873; nư&#7899;c">Bệnh nhân phi công người Anh sẽ sớm được ra viện, về nước</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Báo cáo của Tiểu ban điều trị, Ban Chỉ đạo chống dịch quốc gia cho biết bệnh nhân người Anh sẽ sớm được ra viện và về nước khi phục hồi thêm về chức năng vận động.</p>
+                    <span class="timeago need-get-timeago" title="2020-06-19T07:08:29"></span>
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/nam-thuc-than-xuat-hien-o-ha-noi-dang-so-loai-ma-tuy-gay-ao-giac-cuc-manh-2020061822425795.htm" title="N&#7845;m th&#7913;c th&#7847;n xu&#7845;t hi&#7879;n &#7903; Hà N&#7897;i: đáng s&#7907; lo&#7841;i ma túy gây &#7843;o giác c&#7921;c m&#7841;nh" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/18/nam-2-3read-only-15924948332511683897890-crop-15924949812901703401279.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/18/nam-2-3read-only-15924948332511683897890-crop-15924949812901703401279.jpg" alt="N&#7845;m th&#7913;c th&#7847;n xu&#7845;t hi&#7879;n &#7903; Hà N&#7897;i: đáng s&#7907; lo&#7841;i ma túy gây &#7843;o giác c&#7921;c m&#7841;nh" />
+                    </a>
+                    <span class="number">3</span>
+                    <a class='category-name' href='/suc-khoe.htm' title='S&#7913;c kh&#7887;e'>Sức khỏe</a>
+                    <h3 class="name-title">
+                        <a href="/nam-thuc-than-xuat-hien-o-ha-noi-dang-so-loai-ma-tuy-gay-ao-giac-cuc-manh-2020061822425795.htm" title="N&#7845;m th&#7913;c th&#7847;n xu&#7845;t hi&#7879;n &#7903; Hà N&#7897;i: đáng s&#7907; lo&#7841;i ma túy gây &#7843;o giác c&#7921;c m&#7841;nh">Nấm thức thần xuất hiện ở Hà Nội: đáng sợ loại ma túy gây ảo giác cực mạnh</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - BS Nguyễn Trung Nguyên - giám đốc Trung tâm chống độc, Bệnh viện Bạch Mai (Hà Nội) - cho biết trung tâm tiếp nhận khá nhiều bệnh nhân ngộ độc ma túy đến cấp cứu.</p>
+                    <span class="timeago need-get-timeago" title="2020-06-19T06:19:19"></span>
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/them-7-ca-covid-19-deu-tu-nuoc-ngoai-ve-tren-chuyen-bay-voi-benh-nhan-335-20200618185351549.htm" title="Thêm 7 ca COVID-19, đ&#7873;u t&#7915; nư&#7899;c ngoài v&#7873; trên chuy&#7871;n bay v&#7899;i b&#7879;nh nhân 335" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/17/xet-nghiem-covid-19-tai-san-baynam-tran-12-1592349262516786313685-crop-1592481187352363683661.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/17/xet-nghiem-covid-19-tai-san-baynam-tran-12-1592349262516786313685-crop-1592481187352363683661.jpg" alt="Thêm 7 ca COVID-19, đ&#7873;u t&#7915; nư&#7899;c ngoài v&#7873; trên chuy&#7871;n bay v&#7899;i b&#7879;nh nhân 335" />
+                    </a>
+                    <span class="number">4</span>
+                    <a class='category-name' href='/suc-khoe.htm' title='S&#7913;c kh&#7887;e'>Sức khỏe</a>
+                    <h3 class="name-title">
+                        <a href="/them-7-ca-covid-19-deu-tu-nuoc-ngoai-ve-tren-chuyen-bay-voi-benh-nhan-335-20200618185351549.htm" title="Thêm 7 ca COVID-19, đ&#7873;u t&#7915; nư&#7899;c ngoài v&#7873; trên chuy&#7871;n bay v&#7899;i b&#7879;nh nhân 335">Thêm 7 ca COVID-19, đều từ nước ngoài về trên chuyến bay với bệnh nhân 335</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Chiều tối nay 18-6, Bộ Y tế xác nhận có thêm 7 ca mắc COVID-19 mới, tất cả đều từ nước ngoài về cùng chuyến bay với bệnh nhân 335.</p>
+                    <span class="timeago need-get-timeago" title="2020-06-18T19:07:25"></span>
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/bac-si-dom-xai-bang-dai-hoc-gia-hoc-len-chuyen-khoa-1-20200619164422633.htm" title="Bác sĩ &#8216;d&#7887;m&#8217; xài b&#7857;ng đ&#7841;i h&#7885;c gi&#7843; h&#7885;c lên chuyên khoa 1" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/19/tranuanngoc-15925593626412000537643-crop-15925595919221914738713.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/19/tranuanngoc-15925593626412000537643-crop-15925595919221914738713.jpg" alt="Bác sĩ &#8216;d&#7887;m&#8217; xài b&#7857;ng đ&#7841;i h&#7885;c gi&#7843; h&#7885;c lên chuyên khoa 1" />
+                    </a>
+                    <span class="number">5</span>
+                    <a class='category-name' href='/suc-khoe.htm' title='S&#7913;c kh&#7887;e'>Sức khỏe</a>
+                    <h3 class="name-title">
+                        <a href="/bac-si-dom-xai-bang-dai-hoc-gia-hoc-len-chuyen-khoa-1-20200619164422633.htm" title="Bác sĩ &#8216;d&#7887;m&#8217; xài b&#7857;ng đ&#7841;i h&#7885;c gi&#7843; h&#7885;c lên chuyên khoa 1">Bác sĩ ‘dỏm’ xài bằng đại học giả học lên chuyên khoa 1</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">TTO - Ngày 19-6, tin từ Sở Y tế Đồng Nai cho hay trong quá trình thẩm định nhân sự để cấp phép hoạt động cho một phòng khám đa khoa tại huyện Nhơn Trạch, cơ quan này phát hiện một bác sĩ xài bằng giả.</p>
+                    <span class="timeago need-get-timeago" title="2020-06-19T17:04:50"></span>
+                </li>
+            
+        
+    </ul>
+</div>
+
+        </div>
+        <div class="most-view-ipad">
+            
+<div class="box-category3">
+    <h2 class="title-box">XEM NHIỀU</h2>
+   
+    <ul class="list-news">
+        
+                <li>
+                    <a class="img170x106 pos-rlt" href="/benh-nhan-phi-cong-nguoi-anh-tra-loi-tuoi-tre-neu-o-noi-nao-khac-tren-trai-dat-toi-da-chet-20200619013529661.htm" title="B&#7879;nh nhân phi công ngư&#7901;i Anh tr&#7843; l&#7901;i Tu&#7893;i Tr&#7867;: &#39;N&#7871;u &#7903; nơi nào khác trên Trái đ&#7845;t, tôi đã ch&#7871;t&#39;" data-displayinslide="6">
+                        <img class="img170x106" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/19/thumb2-15925351600112088753106-crop-1592535197254195226748.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/19/thumb2-15925351600112088753106-crop-1592535197254195226748.jpg" alt="B&#7879;nh nhân phi công ngư&#7901;i Anh tr&#7843; l&#7901;i Tu&#7893;i Tr&#7867;: &#39;N&#7871;u &#7903; nơi nào khác trên Trái đ&#7845;t, tôi đã ch&#7871;t&#39;" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/benh-nhan-phi-cong-nguoi-anh-tra-loi-tuoi-tre-neu-o-noi-nao-khac-tren-trai-dat-toi-da-chet-20200619013529661.htm" title="B&#7879;nh nhân phi công ngư&#7901;i Anh tr&#7843; l&#7901;i Tu&#7893;i Tr&#7867;: &#39;N&#7871;u &#7903; nơi nào khác trên Trái đ&#7845;t, tôi đã ch&#7871;t&#39;">Bệnh nhân phi công người Anh trả lời Tuổi Trẻ: 'Nếu ở nơi nào khác trên Trái đất, tôi đã chết'</a>
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img170x106 pos-rlt" href="/benh-nhan-phi-cong-nguoi-anh-se-som-duoc-ra-vien-ve-nuoc-20200619064329439.htm" title="B&#7879;nh nhân phi công ngư&#7901;i Anh s&#7869; s&#7899;m đư&#7907;c ra vi&#7879;n, v&#7873; nư&#7899;c" data-displayinslide="0">
+                        <img class="img170x106" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/19/phi-cong-15925236176421750592118-crop-1592523769851792099765.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/19/phi-cong-15925236176421750592118-crop-1592523769851792099765.jpg" alt="B&#7879;nh nhân phi công ngư&#7901;i Anh s&#7869; s&#7899;m đư&#7907;c ra vi&#7879;n, v&#7873; nư&#7899;c" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/benh-nhan-phi-cong-nguoi-anh-se-som-duoc-ra-vien-ve-nuoc-20200619064329439.htm" title="B&#7879;nh nhân phi công ngư&#7901;i Anh s&#7869; s&#7899;m đư&#7907;c ra vi&#7879;n, v&#7873; nư&#7899;c">Bệnh nhân phi công người Anh sẽ sớm được ra viện, về nước</a>
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img170x106 pos-rlt" href="/nam-thuc-than-xuat-hien-o-ha-noi-dang-so-loai-ma-tuy-gay-ao-giac-cuc-manh-2020061822425795.htm" title="N&#7845;m th&#7913;c th&#7847;n xu&#7845;t hi&#7879;n &#7903; Hà N&#7897;i: đáng s&#7907; lo&#7841;i ma túy gây &#7843;o giác c&#7921;c m&#7841;nh" data-displayinslide="0">
+                        <img class="img170x106" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/18/nam-2-3read-only-15924948332511683897890-crop-15924949812901703401279.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/18/nam-2-3read-only-15924948332511683897890-crop-15924949812901703401279.jpg" alt="N&#7845;m th&#7913;c th&#7847;n xu&#7845;t hi&#7879;n &#7903; Hà N&#7897;i: đáng s&#7907; lo&#7841;i ma túy gây &#7843;o giác c&#7921;c m&#7841;nh" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/nam-thuc-than-xuat-hien-o-ha-noi-dang-so-loai-ma-tuy-gay-ao-giac-cuc-manh-2020061822425795.htm" title="N&#7845;m th&#7913;c th&#7847;n xu&#7845;t hi&#7879;n &#7903; Hà N&#7897;i: đáng s&#7907; lo&#7841;i ma túy gây &#7843;o giác c&#7921;c m&#7841;nh">Nấm thức thần xuất hiện ở Hà Nội: đáng sợ loại ma túy gây ảo giác cực mạnh</a>
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img170x106 pos-rlt" href="/bac-si-dom-xai-bang-dai-hoc-gia-hoc-len-chuyen-khoa-1-20200619164422633.htm" title="Bác sĩ &#8216;d&#7887;m&#8217; xài b&#7857;ng đ&#7841;i h&#7885;c gi&#7843; h&#7885;c lên chuyên khoa 1" data-displayinslide="0">
+                        <img class="img170x106" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/19/tranuanngoc-15925593626412000537643-crop-15925595919221914738713.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/19/tranuanngoc-15925593626412000537643-crop-15925595919221914738713.jpg" alt="Bác sĩ &#8216;d&#7887;m&#8217; xài b&#7857;ng đ&#7841;i h&#7885;c gi&#7843; h&#7885;c lên chuyên khoa 1" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/bac-si-dom-xai-bang-dai-hoc-gia-hoc-len-chuyen-khoa-1-20200619164422633.htm" title="Bác sĩ &#8216;d&#7887;m&#8217; xài b&#7857;ng đ&#7841;i h&#7885;c gi&#7843; h&#7885;c lên chuyên khoa 1">Bác sĩ ‘dỏm’ xài bằng đại học giả học lên chuyên khoa 1</a>
+                    </h3>
+                </li>
+            
+        
+    </ul>
+</div>
+
+        </div>
+        <input type="hidden" name="hdZoneId" id="hdZoneId" value="12" />
+        <input type="hidden" name="hdZoneUrl" id="hdZoneUrl" value="suc-khoe" />
+        <input type="hidden" name="hdZoneParentUrl" id="hdZoneParentUrl" value="" />
+        <input type="hidden" name="hdFullZoneUrl" id="hdFullZoneUrl" value="/suc-khoe" />
+        <input type="hidden" name="hdPageIndex" id="hdPageIndex" value="1" />
+        <input type="hidden" name="hdOrgTitle" id="hdOrgTitle" value="Tin tức, video mới, nóng, nhanh trong 24h - Sức khỏe - Tuổi Trẻ Online" />
+    </div>
+    <script>
+        var orgUrl = String.format('{0}{1}', document.location.origin, $('#hdFullZoneUrl').val());
+        (runinit = window.runinit || []).push(function () {
+            timeline.init();
+        });
+    </script>
+
+                    </section>
+                    
+
+
+<div class="clearfix"></div>
+<div class="w980">
+    
+        <zone id="jphs5rwl"></zone>
+        <script>
+            if (is_iPadScreen == null)
+                arfAsync.push("jphs5rwl");
+        </script>
+
+
+        <div class="bannerfooter1top">
+            
+
+
+<zone id="jmgdp1wg"></zone>
+<script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+          arfAsync.push("jmgdp1wg");
+</script>
+        </div>
+        <div class="bannerfooter1">
+            
+
+<div class="clearfix">
+    <iframe width="100%" height="460px" src="https://quangcao.tuoitre.vn/customer/banner/2019/P/PhanQuang/20190707/PC/index.html" scrolling="no" frameborder="0">Browser not supported</iframe>
+</div>
+
+        </div>
+    
+    
+</div>
+
+
+<footer>
+    <div class="footer-icon">
+        <div class="w980">
+            <div class="top-footer">
+                <ul>
+                    <li><a title="Tuổi trẻ TV" href="https://tv.tuoitre.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTTV.png" alt="logo tuổi trẻ TV" style="width: 80px; height: 26px;" /></a></li>
+                    <li><a title="Tuổi Trẻ cuối tuần" href="https://cuoituan.tuoitre.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTCT.png" alt="logo tuổi trẻ cuối tuần" style="width: 80px; height: 26px;" /></a></li>
+                    <li><a title="Tuổi Trẻ News" href="https://tuoitrenews.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTNews.png" alt="logo tuổi trẻ news" style="width: 80px; height: 26px;" /></a></li>
+                    <li class="logo-ttc"><a title="Tuổi Trẻ Cười" href="https://cuoi.tuoitre.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/thumb_w/75/tuoitre/web_images/logo_tuoitrecuoi-01.png" alt="Tuổi Trẻ Cười" /></a></li>
+                </ul>
+            </div>
+            <ul class="list-icon-footer fr">
+                <li><a href="https://www.facebook.com/baotuoitre" title="Quan tâm Tuổi Trẻ trên Facebook" target="_blank" rel="nofollow" class="icon-facebook-footer sprite16"></a></li>
+                <li><a href="https://www.instagram.com/baotuoitre" title="Quan tâm Tuổi Trẻ trên Instagram" target="_blank" rel="nofollow" class="icon-camera-footer sprite16"></a></li>
+                <li><a href="https://plus.google.com/107706664902384479582" title="Quan tâm Tuổi Trẻ trên Google Plus" target="_blank" rel="nofollow" class="icon-google-footer sprite16"></a></li>
+                <li><a href="https://www.youtube.com/channel/UCrwJa6KRHWnJpJPZNeKKcvA" title="Quan tâm Tuổi Trẻ trên Youtube" target="_blank" rel="nofollow" class="icon-youtube-footer sprite16"></a></li>
+            </ul>
+            <p class="textfollow fr">Theo dõi Tuổi Trẻ Online: </p>
+
+        </div>
+    </div>
+    <div class="bottom-footer">
+        <div class="w980">
+            <div class="wrapper-footer">
+                <ul>
+                    <li>
+                        <a href="/media.htm" title="MEDIA" rel="nofollow" target="_blank">MEDIA</a>
+                        <a href="/thoi-su.htm" title="THỜI SỰ">THỜI SỰ</a>
+                        <a href="/the-gioi.htm" title="THẾ GIỚI">THẾ GIỚI</a>
+                        <a href="/phap-luat.htm" title="PHÁP LUẬT">PHÁP LUẬT</a>
+                    </li>
+                    <li>
+                        <a href="/kinh-doanh.htm" title="KINH DOANH">KINH DOANH</a>
+                        <a href="https://congnghe.tuoitre.vn" title="CÔNG NGHỆ" rel="nofollow" target="_blank">CÔNG NGHỆ</a>
+                        <a href="/xe.htm" title="XE">XE</a>
+                        <a href="https://dulich.tuoitre.vn" title="DU LỊCH" rel="nofollow" target="_blank">DU LỊCH</a>
+                    </li>
+                    <li>
+                        <a href="/nhip-song-tre.htm" title="NHỊP SỐNG TRẺ">NHỊP SỐNG TRẺ</a>
+                        <a href="/van-hoa.htm" title="VĂN HÓA">VĂN HÓA</a>
+                        <a href="/giai-tri.htm" title="GIẢI TRÍ">GIẢI TRÍ</a>
+                    </li>
+                    <li>
+                        <a href="https://thethao.tuoitre.vn" title="THỂ THAO" rel="nofollow" target="_blank">THỂ THAO</a>
+                        <a href="/khoa-hoc.htm" title="KHOA HỌC">KHOA HỌC</a>
+                        <a href="/suc-khoe.htm" title="SỨC KHỎE">SỨC KHỎE</a>
+                    </li>
+                    <li>
+                        <a href="/giao-duc.htm" title="GIÁO DỤC">GIÁO DỤC</a>
+                        <a href="/ban-doc-lam-bao.htm" title="BẠN ĐỌC">BẠN ĐỌC</a>
+                        <a href="/gia-that.htm" title="THẬT GIẢ">THẬT GIẢ</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+    </div>
+    <div class="footer-end clearfix">
+        <div class="w980">
+            <a class="logo-footer" href="/" title="Tuổi Trẻ Online"></a>
+            <p class="float-l">
+                © Copyright 2020 TuoiTre Online, All rights reserved
+                            <br>
+                ® Tuổi Trẻ Online giữ bản quyền nội dung trên website này
+            </p>
+            <a href="http://www.thanhdoan.hochiminhcity.gov.vn" title="Thành Đoàn TP.HCM" rel="nofollow" target="_blank" class="fr thongtin">&nbsp;Thành Đoàn TP.HCM</a>
+            <a href="/thong-tin-toa-soan.htm" title="Thông tin Tòa soạn" class="thongtin fr">Thông tin Tòa soạn - </a>
+            <ul class="float-r">
+                <li>
+                    <a rel="nofollow" target="_blank" href=" https://quangcao.tuoitre.vn" title="Liên hệ Quảng cáo">Liên hệ Quảng cáo</a>
+                </li>
+                <li>
+                    <a href="javascript:;" title="Điều khoản bảo mật">Điều khoản bảo mật</a>
+                </li>
+                <li>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScSRj-Bxm1t6roko_ocQlUSZCnei3a03IdoOpPQ9-lp2McaKw/viewform" rel="nofollow" target="_blank" title="Liên hệ góp ý">Liên hệ góp ý</a>
+                </li>
+                <li>
+                    <a title="Hotline" href="tel:0918033133" rel="nofollow" class="textunset">Hotline: 0918.033.133</a>
+                </li>
+            </ul>
+        </div>
+        <div class="bannerballoon">
+            
+
+
+
+<zone id="jmg1jsy2"></zone>
+<script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+        arfAsync.push("jmg1jsy2");
+</script>
+
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</footer>
+<style>
+    .footer-end .float-r {
+        width: auto;
+        margin-left: 0;
+    }
+
+    .float-r li:last-child {
+        padding-right: 0;
+    }
+</style>
+
+<div class="wrapPopup" id="infoForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Thông tin của bạn</p>
+                    <a href="javascript:void(0);" title="Đóng" class="closepp" onclick="comment.closePopup('infoForm')"></a>
+                </header>
+                <div class="content">
+                    <div class="frm-1" id="frm-comment">
+                        <div class="form-group">
+                            <span>Email</span>
+                            <input id="cm-email" name="cm-email" type="email" class="form-control" placeholder="E-mail (*)">
+                            <p class="warning email-warning1">Vui lòng nhập Email</p>
+                            <p class="warning email-warning2">Email Không đúng định dạng</p>
+                        </div>
+                        <div class="form-group">
+                            <span>Họ và tên</span>
+                            <input id="cm-name" type="text" name="cm-name" class="form-control" placeholder="Họ &amp; tên (*)">
+                            <p class="warning name-warning">Vui lòng nhập Họ &amp; Tên.</p>
+                        </div>
+                        
+
+                        <div class="form-group clboth">
+                            <button type="button" id="btn-info" name="btn-info" class="btn btn-danger">Gửi bình luận</button>
+                            <input type="hidden" id="cm-content" name="cm-content" value="" />
+                            
+                            <input type="hidden" id="cm-pid" name="cm-pid" value="0" />
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<div class="wrapPopup" id="errorForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Thông báo</p>
+                    <a href="javascript:;" title="Đóng" class="closepp" onclick="closePopup('errorForm')"></a>
+                </header>
+                <div class="content">
+                    Bạn vui lòng đợi <span class="timeout">0</span>s để tiếp tục comment
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<div class="wrapPopup" id="successForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Thông báo</p>
+                    <a href="javascript:;" title="Đóng" class="closepp" onclick="comment.closePopup('successForm')"></a>
+                </header>
+                <div class="content">
+                    Bình luận được gửi thành công
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<div class="wrapPopup" id="loginForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <div class="content">
+                    <div class="frm-1" id="frm-login">
+                        <ul class="nav nav-tabs">
+                            <li class="nav-item section-guest">
+                                <a class="nav-link" data-item="tab-guest" href="javascript:;" rel="nofollow">Bình luận</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" data-item="tab-login" href="javascript:;" rel="nofollow"><i class="icon-reg-user"></i>Đăng nhập</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-item="tab-register" href="javascript:;" rel="nofollow"><i class="icon-reg-user"></i>Đăng ký</a>
+                            </li>
+                            <li class="nav-close">
+                                <a href="javascript:void(0);" title="Đóng" class="closepp" onclick="comment.closePopup('loginForm')">Đóng lại x</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content tab-guest" id="tabGuest">
+                            <div class="form-group guest-desc">
+                                <div class="guest-icon"><i class="icon-guest"></i></div>
+                                <span class="guest-desc-header">Thông tin bạn đọc</span>
+                                <span class="guest-desc-content">Thông tin của bạn đọc sẽ được bảo mật an toàn và chỉ sử dụng trong trường hợp toà soạn cần thiết để liên lạc với bạn.</span>
+                            </div>
+                            <div class="form-group">
+                                <input id="cm-guestname" type="text" name="rg-name" class="form-control" data-elementtype="name" data-input="cm-guestname" placeholder="Tên hiển thị">
+                                <p class="warning name-warning">Vui lòng nhập Tên hiển thị</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="cm-guestemail" name="rg-email" type="email" class="form-control" data-elementtype="email" data-input="cm-guestemail" placeholder="Email">
+                                <p class="warning email-warning1">Vui lòng nhập Email</p>
+                                <p class="warning email-warning2">Email Không đúng định dạng</p>
+                            </div>
+                            <div class="form-group">
+                                
+                                <div id="cm-recaptcha" class="g-recaptcha" data-sitekey="6Lc4B5cUAAAAABTaoFOfZRnC2aPkXYAWoVuP1NIS" data-size="invisible"></div>
+                                <input id="cm-guesstcaptcha" type="hidden" data-input="cm-guestcaptcha" />
+                            </div>
+                            <div class="form-group mgt8 clearfix">
+                                <button type="button" id="btn-send-comment" name="btn-send-comment" class="btn btn-secondary" data-elementtype="send-comment" data-act="guestsend">Gửi bình luận</button>
+                                <button type="button" id="btn-close-comment" name="btn-close-comment" class="btn btn-secondary" onclick="comment.closePopup('loginForm')">Đóng</button>
+                            </div>
+                            <div class="form-group guest-bottom">
+                                <button type="button" id="btn-focus-login" onclick="tuoitreId.activeTabLogin()" class="btn btn-link">Bạn đã có tài khoản? <b>Đăng nhập</b> ngay</button>
+                            </div>
+                        </div>
+                        <div class="tab-content tab-login active" id="tabLogin">
+                            <div class="form-group">
+                                <input id="lg-email" name="lg-email" type="email" class="form-control" placeholder="Email đăng nhập" data-elementtype="email">
+                                <p class="warning email-warning1">Vui lòng nhập Email</p>
+                                <p class="warning email-warning2">Email Không đúng định dạng</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="lg-password" type="password" name="lg-password" class="form-control" data-elementtype="password" placeholder="Mật khẩu">
+                                <p class="warning password-warning">Mật khẩu không đúng.</p>
+                                <p class="warning invalid_info">Thông tin đăng nhập không đúng.</p>
+                                <p class="warning blocked-warning">Tài khoản bị khóa, vui lòng liên hệ quản trị viên.</p>
+                                <p class="warning common-warning">Có lỗi phát sinh. Vui lòng thử lại sau.</p>
+                            </div>
+                            <div class="form-group">
+                                <a href="http://id.tuoitre.vn/quen-mat-khau.htm" target="_blank" rel="nofollow" id="btn-lost-password" class="btn btn-link">Quên mật khẩu?</a>
+                                <button type="button" id="btn-login" name="btn-login" class="btn btn-secondary" data-elementtype="login">Đăng nhập</button>
+                            </div>
+                            <div class="form-group mgt8 content-social">
+                                <span>Hoặc đăng nhập bằng:</span>
+                                <button type="button" class="btn btn-danger btn-google-plus" data-elementtype="logingoogle"></button>
+                                <button type="button" class="btn btn-primary btn-facebook" data-elementtype="loginfb"></button>
+                            </div>
+                            
+                        </div>
+                        <div class="tab-content tab-register" id="tabRegister">
+                            <div class="form-group">
+                                <input id="rg-name" type="text" name="rg-name" class="form-control" data-elementtype="name" placeholder="Tên của bạn">
+                                <p class="warning name-warning">Vui lòng nhập Tên của bạn.</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="rg-email" name="rg-email" type="email" class="form-control" data-elementtype="email" placeholder="Email">
+                                <p class="warning email-warning1">Vui lòng nhập Email</p>
+                                <p class="warning email-warning2">Email Không đúng định dạng</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="rg-password" type="password" name="rg-password" class="form-control" data-elementtype="password" placeholder="Mật khẩu">
+                                <p class="warning password-warning">Mật khẩu phải có ít nhất 6 kí tự.</p>
+                            </div>
+                            <div class="form-group">
+                                
+                                <input id="rg-re-password" type="password" name="rg-re-password" class="form-control" data-elementtype="repassword" placeholder="Xác nhận mật khẩu">
+                                <p class="warning repassword-warning">Xác nhận mật khẩu không khớp.</p>
+                            </div>
+                            <div class="form-group">
+                                
+                                <input id="rg-re-captcha" class="form-control" data-elementtype="captcha" placeholder="Mã xác nhận">
+                                <img id="img-captcha" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="captcha" />
+                                <a id="refresh-captcha">Lấy mã mới</a>
+                                <p class="warning captcha-warning">Mã xác nhận không đúng.</p>
+                                <p class="warning common-warning">Có lỗi phát sinh. Vui lòng thử lại sau.</p>
+                            </div>
+                            <div class="form-group">
+                                <button type="button" id="btn-notify-register" class="btn btn-link">Khi bấm "Đăng ký" đồng thời bạn đã đồng ý với <b>điều khoản</b> của toà soạn</button>
+                            </div>
+                            <div class="form-group clearfix">
+                                <button type="button" id="btn-register" name="btn-login" class="btn btn-secondary" data-elementtype="register">Đăng ký</button>
+                            </div>
+                            <div class="form-group mgt8 content-social">
+                                <span>Hoặc đăng ký bằng:</span>
+                                <button type="button" class="btn btn-danger btn-google-plus" data-elementtype="logingoogle"></button>
+                                <button type="button" class="btn btn-primary btn-facebook" data-elementtype="loginfb"></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<style>
+    #vote-re-captcha {
+        float: left;
+        width: 100px;
+        margin-right: 10px;
+    }
+
+    #vote-img-captcha {
+        width: 100px;
+        height: 34px;
+        cursor: pointer;
+        float: left;
+        margin-right: 10px;
+    }
+
+    #vote-refresh-captcha {
+        float: left;
+        font-size: 12px;
+        line-height: 34px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    #btn-send-vote {
+        width: 125px;
+        font-family: Roboto;
+        font-size: 14px;
+        float: right;
+    }
+
+    #voteCatpchaForm .popup {
+        width: 375px;
+    }
+
+    .nav-link {
+        padding: 12px 24px;
+    }
+
+    /*.grecaptcha-badge {
+        display: none !important;
+    }*/
+
+    #voteCatpchaForm header {
+        position: relative;
+    }
+
+    #voteCatpchaForm .closepp {
+        font-size: 16px;
+        font-family: Roboto;
+        color: #220;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }
+</style>
+<script>
+    (runinit = window.runinit || []).push(function () {
+        $("#vote-img-captcha").click(function () {
+            $("#vote-img-captcha").attr("src", appSettings.apiDomain + "/captcha.htm?time=" + new Date().getTime());
+        });
+        $("#vote-refresh-captcha").click(function () {
+            $("#vote-img-captcha").attr("src", appSettings.apiDomain + "/captcha.htm?time=" + new Date().getTime());
+        });
+    });
+
+    function openPopupCaptcha(id, element, callback) {
+        $('#voteCatpchaForm .captcha-warning').hide();
+        $("#" + id).fadeIn(100);
+
+        $("#vote-img-captcha").attr("src", appSettings.apiDomain + "/captcha.htm?time=" + new Date().getTime());
+        $('#btn-send-vote').off("click").click(function (e) {
+            if ($('#vote-re-captcha').val() == '') {
+                $('#voteCatpchaForm .captcha-warning').show();
+                return;
+            }
+
+            if (typeof callback == "function") {
+                callback(element);
+            }
+        });
+    }
+</script>
+<div class="wrapPopup" id="voteCatpchaForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Nhập mã xác nhận</p>
+                    <a href="javascript:;" title="Đóng" class="closepp" onclick="comment.closePopup('voteCatpchaForm')">Đóng lại</a>
+                </header>
+                <div class="content">
+                    <div class="form-group">
+                        <input id="vote-re-captcha" class="form-control" data-elementtype="captcha">
+                        <img id="vote-img-captcha" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="captcha" />
+                        <a id="vote-refresh-captcha">Lấy mã mới</a>
+                        <p class="warning captcha-warning">Mã xác nhận không đúng.</p>
+                        <p class="warning common-warning">Có lỗi phát sinh. Vui lòng thử lại sau.</p>
+                    </div>
+                    <div class="form-group clearfix">
+                        <button type="button" id="btn-send-vote" class="btn btn-secondary">Hoàn tất</button>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+
+
+                </div>
+            </div>
+            
+        
+        
+<a class="btn-backtotop" id="scrollToTop" title="Trở về đầu trang"><i class="arrow-up"></i></a>
+        
+        <script>
+            (runinit = window.runinit || []).push(function () {
+                comment.init();
+            });
+        </script>
+        
+    </body>
+    </html>
+
+<!--/suc-khoe.htm--><!--s: 6/20/2020 11:27:53 AM-->

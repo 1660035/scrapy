@@ -1,0 +1,1323 @@
+
+
+<!DOCTYPE html>
+<html id="mainHtml" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<head prefix="og:&#32;http://ogp.me/ns#&#32;fb:&#32;http://ogp.me/ns/fb#&#32;website:&#32;http://ogp.me/ns/website#"><meta name="google-site-verification" content="nsV1o2gWlgNI0d7amNezlNilgzm47WT4bNIgJPV_wjk" /><meta name="google-site-verification" content="y8PMKPH-UzpVdjHXzQjJ4oUEPfqLSWZl_EyOz5P02vc" /><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><title>Tin tức, đọc báo, tin nhanh - Du Lịch - Tuổi Trẻ Online</title><meta name="viewport" content="width=device-width,&#32;initial-scale=1.0,&#32;maximum-scale=1.0,&#32;user-scalable=1" /><meta http-equiv="Content-Language" content="vi" /><meta name="Language" content="vi" /><meta name="distribution" content="Global" /><meta name="REVISIT-AFTER" content="1&#32;DAYS" /><meta id="metaRobots" name="robots" content="index,follow,all" /><meta name="msvalidate.01" content="E52E0AECFFC89B1959FC75D368D4B11E" /><meta property="fb:pages" content="131539760743" /><meta property="fb:pages" content="214610578564918" /><link rel="dns-prefetch" href="https://cdn.tuoitre.vn/" /><link rel="dns-prefetch" href="https://statictuoitre.mediacdn.vn" />
+<meta name="copyright" content="Copyright © 2020 by TUOITRE.VN" />
+<meta name="RATING" content="GENERAL" />
+<meta name="GENERATOR" content="TUOI TRE ONLINE" />
+<meta name="author" content="TUOI TRE ONLINE" />
+<meta property="fb:app_id" content="787960244659509" />
+<link rel="shortcut icon" href="https://statictuoitre.mediacdn.vn/web_images/favicon.ico" type="image/x-icon"/><meta name="keywords" content="du lịch, du lịch việt nam, khu du lịch, đ&#7883;a đi&#7875;m du l&#7883;ch, du l&#7883;ch b&#7909;i, tour du l&#7883;ch" />
+<meta name="news_keywords" content="du lịch, du lịch việt nam, khu du lịch, đ&#7883;a đi&#7875;m du l&#7883;ch, du l&#7883;ch b&#7909;i, tour du l&#7883;ch" />
+<meta name="description" content="Tin du lịch - Cập nhật tin tức mới và nhanh nhất về các địa điểm du lịch, các khu du lịch, văn hóa, ẩm thực ở các khu du lịch" />
+<script type="text/javascript">var _ADM_Channel = '%2Fdu-lich%2Fhome%2F';</script><script>dataLayer=[{'pageCategory':'/du-lich/home/'}];</script>
+
+    <script async type="text/javascript" src="//media1.admicro.vn/core/adm_tracking.js"></script>
+    
+<link rel="stylesheet" type="text/css" href="https://statictuoitre.mediacdn.vn/web_css/font.2017.11.28.1.min.css" />
+<script type="text/javascript">
+    var appSettings = {
+        domain: "https://dulich.tuoitre.vn",        
+        apiDomain: "https://s1.tuoitre.vn",
+        ajaxDomain: "https://s1.tuoitre.vn",
+        idDomain: " https://id.tuoitre.vn",
+        //urlJsId:"https://statictuoitre.mediacdn.vn/web_js/kcb.plugin.async.20181018.3.min.js",
+        urlJsId:"https://statictuoitre.mediacdn.vn/web_js/kcb.plugin.min.20190108.js",
+        
+        sharefbApiDomain:"https://sharefb.cnnd.vn",
+        videoplayer:"https://vcplayer.mediacdn.vn",
+        imageStorage:"https://cdn.tuoitre.vn",
+        videoImageDomain: "https://video-thumbs.tuoitre.vn",
+         domain_TVO: "https://tv.tuoitre.vn",
+        playerSecureToken: "L3NlY3VyZS92ZXJpZnkveHZxcmNhZGhlYmZpMHY1dm5zM2Ywd3d3a3Y2MDdkMDgvMTAwMjI1L2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUp5WldZaU9pSWlMQ0poY0hCclpYa2lPaUo0ZG5GeVkyRmthR1ZpWm1rd2RqVjJibk16WmpCM2QzZHJkall3TjJRd09DSXNJbkJzWVhsbGNpSTZJakV3TURJeU5TSXNJbWxuYm05eVpVVjRjR2x5WVhScGIyNGlPblJ5ZFdVc0ltbGhkQ0k2TVRVek9UVTNNVEE1TVN3aVpYaHdJam94TlRNNU5UY3hNakV4ZlEuVVZUWUxLNkROcjF1TG9vMDYzNVJ2TXNpeU1wUFJvYVJCa0tva3VhWC03OA=="
+        
+        
+    };
+</script>
+
+<!-- Google Analytics -->
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-KFJP3N');</script>
+
+
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+
+  
+    <!--AdAsia-->
+    
+    <!--End AdAsia-->
+        <link rel="stylesheet" type="text/css" href="https://quangcao.tuoitre.vn/static/js/cms_ads.css" />
+<script async type="text/javascript" src="//quangcao.tuoitre.vn/static/js/cms_ads.js"></script>
+    <script type="text/javascript">
+        var arfAsync = arfAsync || [];
+    </script>
+    
+<script async src="https://static.amcdn.vn/tka/cdn.js" type="text/javascript"></script>
+<script id="arf-core-js" onerror="window.admerrorload=true;" src="//media1.admicro.vn/cms/Arf.min.js" async></script>
+<script>
+    var is_iPadScreen = navigator.userAgent.match(/iPad/i);
+</script>
+    
+
+
+
+
+
+<link href="https://static.mediacdn.vn/tuoitre/web_css/dulich.home.09052019v1.min.css" rel="stylesheet" />
+<style>
+    .highlight .top1 .img {
+        height: auto;
+    }
+</style>
+
+
+
+
+
+
+<script src="https://static.mediacdn.vn/tuoitre/web_js/dulich.home.30102019v1.min.js"></script>
+
+   
+    <style>
+        .tto-tv:after {
+            display: none !important;
+        }
+    </style>
+    <link rel="canonical" href="https://dulich.tuoitre.vn/" /></head>
+<body class="subsite">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFJP3N" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+        <div id="admWrapsite">
+            <div class="wapper">
+                
+
+<header>
+    <div class="header-top">
+        <div class="w980">
+            <ul>
+                
+                <li class="fl"><a title="Tuổi trẻ TV" href="https://tv.tuoitre.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTTV.png" alt="logo tuổi trẻ TV" style="width: 80px; height: 26px;" /></a></li>
+                <li class="fl"><a title="Tuổi Trẻ cuối tuần" href="https://cuoituan.tuoitre.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTCT.png" alt="logo tuổi trẻ cuối tuần" style="width: 80px; height: 26px;" /></a></li>
+                <li class="fl"><a title="Tuổi Trẻ News" href="https://tuoitrenews.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTNews.png" alt="logo tuổi trẻ news" style="width: 80px; height: 26px;" /></a></li>
+                <li class="fl logo-ttc"><a title="Tuổi Trẻ Cười" href="https://cuoi.tuoitre.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/thumb_w/75/tuoitre/web_images/logo_tuoitrecuoi-01.png" alt="Tuổi Trẻ Cười" /></a></li>
+                <li class="fr pos-rlt iconhumman hidden tto-id-info">
+                    <a title="Tên đăng nhập" href="javascript:;" rel="nofollow" class="textunset donelogin tto-id-username-a">
+                        <img src="https://static.mediacdn.vn/zoom/15_15/tuoitre/web_images/tto_default_avatar.png" class="img14x14 fl tto-id-useravatar" />
+                        <span class="tto-id-username"></span></a>
+
+                    <div class="expandMenu" style="display: none">
+                        <ul class="information-humman">
+                            <li><a class="news-save active showandhide" target="_blank" href="javascript:void(0)" title="" rel="nofollow">Tin đã lưu</a></li>
+                            <li><a class="comment-setup showandhide comment" target="_blank" href="javascript:void(0)" title="" rel="nofollow">Bình luận của bạn</a></li>
+                            
+                            <li><a class="comment-setup showandhide setup" target="_blank" href="javascript:void(0)" title="" rel="nofollow">Cài đặt tài khoản</a></li>
+                            <li><a href="javascript:void(0)" title="Đăng xuất" class="logout" rel="nofollow">Đăng xuất</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="fr tto-id-login">
+                    <a title="Đăng nhập" href="javascript:;" onclick="openPopup('loginForm','tab-login')" rel="nofollow" class="textunset loginlogout fl">Đăng nhập&nbsp;|</a>
+                    <a title="Đăng ký" href="javascript:;" onclick="openPopup('loginForm','tab-register')" rel="nofollow" class="textunset fl">&nbsp;Đăng ký</a>
+                </li>
+                <li class="fr"><a title="Quảng cáo" href="https://quangcao.tuoitre.vn/" rel="nofollow" class="textunset adver" target="_blank">Quảng cáo</a></li>
+                <li class="fr"><a href="http://pay.tuoitre.vn/dat-bao" target="_blank" rel="nofollow" class="textunset setnewspaper" title="Đặt báo Tuổi Trẻ">Đặt báo</a></li>
+                <li class="fr"><a title="Hotline" href="tel:0918033133" rel="nofollow" class="textunset hotline">Hotline: 0918.033.133</a></li>
+            </ul>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="header-middle">
+
+        <div class="menu-category" style="display: none;">
+            <ul class="menu-ul">
+                <li class="menu-li1"><a class="hidearrow" title="Media" rel="nofollow" target="_blank" href="https://tuoitre.vn/media.htm">Media</a></li>
+                <li class="menu-li1"><a title="Thời sự" rel="nofollow" target="_blank" href="https://tuoitre.vn/thoi-su.htm" data-id="3">Thời sự</a></li>
+                <li class="menu-li1"><a title="Thế giới" rel="nofollow" target="_blank" href="https://tuoitre.vn/the-gioi.htm" data-id="2">Thế giới</a></li>
+                <li class="menu-li1"><a title="Pháp luật" rel="nofollow" target="_blank" href="https://tuoitre.vn/phap-luat.htm" data-id="6">Pháp luật</a></li>
+                <li class="menu-li1"><a title="Kinh doanh" rel="nofollow" target="_blank" href="https://tuoitre.vn/kinh-doanh.htm" data-id="11">Kinh doanh</a></li>
+                <li class="menu-li1"><a title="Công nghệ" href="/" data-id="200029">Công nghệ</a></li>
+                <li class="menu-li1"><a title="Xe" rel="nofollow" target="_blank" href="https://tuoitre.vn/xe.htm" data-id="659">Xe</a></li>
+                <li class="menu-li1"><a title="Du lịch" rel="nofollow" target="_blank" href="https://dulich.tuoitre.vn" data-id="100">Du lịch</a></li>
+                <li class="menu-li1"><a title="Nhịp sống trẻ" rel="nofollow" target="_blank" href="https://tuoitre.vn/nhip-song-tre.htm" data-id="7">Nhịp sống trẻ</a></li>
+                <li class="menu-li1"><a title="Văn hóa" rel="nofollow" target="_blank" href="https://tuoitre.vn/van-hoa.htm" data-id="200017">Văn hóa</a></li>
+                <li class="menu-li1"><a title="Giải trí" rel="nofollow" target="_blank" href="https://tuoitre.vn/giai-tri.htm" data-id="10">Giải trí</a></li>
+                <li class="menu-li1"><a title="Thể thao" rel="nofollow" target="_blank" href="https://thethao.tuoitre.vn" data-id="1209">Thể thao</a></li>
+                <li class="menu-li1"><a title="Giáo dục" rel="nofollow" target="_blank" href="https://tuoitre.vn/giao-duc.htm" data-id="13">Giáo dục</a></li>
+                <li class="menu-li1"><a title="Khoa học" rel="nofollow" target="_blank" href="https://tuoitre.vn/khoa-hoc.htm" data-id="661">Khoa học</a></li>
+                <li class="menu-li1"><a title="Sức khỏe" rel="nofollow" target="_blank" href="https://tuoitre.vn/suc-khoe.htm" data-id="12">Sức khỏe</a></li>
+                <li class="menu-li1"><a title="Giả-thật" rel="nofollow" target="_blank" href="https://tuoitre.vn/gia-that.htm" data-id="200015">Giả-thật</a></li>
+                <li class="menu-li1"><a rel="nofollow" target="_blank" href="https://tuoitre.vn/ban-doc-lam-bao.htm" title="Bạn đọc" data-id="118">Bạn đọc</a></li>
+            </ul>
+        </div>
+
+        <div class="w980">
+            <a href='https://tuoitre.vn' title='Tin tức, tin nóng, đọc báo điện tử - Tuổi Trẻ Online' class='logo-header fl'></a>
+            <div class="frm-search fr desktop-only" id="search-frm">
+                <input class="txt-search" type="text" readonly onfocus="this.removeAttribute('readonly');" placeholder="Tìm kiếm tin tức">
+                <a class="icon icon-search btn-search sprite16" href="javascript:void" title="Tìm kiếm" rel="nofollow">&nbsp;</a>
+            </div>
+            <ul class="list-cate fr">
+                <li>
+                    <a href="https://www.youtube.com/channel/UC47WI-kZXFf0H_f7pvaNCEQ" target="_blank" rel="nofollow" title="YOUTUBE BÁO TUỔI TRẺ">YOUTUBE BÁO TUỔI TRẺ</a>
+                </li>
+                <li>
+                    <a href="/giao-duc/tuyen-sinh.htm" title="TUYỂN SINH" target="_blank" rel="nofollow">TUYỂN SINH</a>
+                </li>
+                <li>
+                    <a href="https://nhadat.tuoitre.vn" target="_blank" rel="nofollow" title="NHÀ ĐẤT">NHÀ ĐẤT</a>
+                </li>
+                <li>
+                    <a href="https://tuoitre.vn/can-biet.htm" title="CẦN BIẾT" target="_blank" rel="nofollow">CẦN BIẾT</a>
+                </li>
+                
+            </ul>
+
+            <div title="Menu Ipad" rel="nofollow" class="menu-ipad">
+                <div style="float: right;">
+                    <span class="line1 linemn"></span>
+                    <span class="line2 linemn"></span>
+                    <span class="line3 linemn"></span>
+                </div>
+            </div>
+            <a href="tel:0918.033.133" title="Phone" class="callbyphone tablet-only"></a>
+
+            <div class="frm-search fr tablet-only" id="search-frm-t">
+                <input class="txt-search" type="text" readonly onfocus="this.removeAttribute('readonly');" placeholder="Tìm kiếm tin tức">
+                <a class="icon icon-search btn-search sprite16" href="javascript:void" title="Tìm kiếm" rel="nofollow">&nbsp;</a>
+            </div>
+
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="banner-top w980">
+        
+
+
+<zone id="jmwv4jlm"></zone>
+<script>
+          arfAsync.push("jmwv4jlm");
+</script>
+        <style>
+            .subsite .banner-top { display: block; }
+        </style>
+    </div>
+    <div class="header-bottom">
+        <div class="w980">
+            <ul class="menu-ul">
+                <li class="menu-li"><a class="iconhome hidearrow" title="Trang chủ" href="/"></a></li>
+                <li class="menu-li"><a class="hidearrow" title="Media" rel="nofollow" target="_blank" href="https://tuoitre.vn/media.htm">Media</a></li>
+                <li class="menu-li"><a title="Thời sự" rel="nofollow" target="_blank" href="https://tuoitre.vn/thoi-su.htm" data-id="3">Thời sự</a></li>
+                <li class="menu-li"><a title="Thế giới" rel="nofollow" target="_blank" href="https://tuoitre.vn/the-gioi.htm" data-id="2">Thế giới</a></li>
+                <li class="menu-li"><a title="Pháp luật" rel="nofollow" target="_blank" href="https://tuoitre.vn/phap-luat.htm" data-id="6">Pháp luật</a></li>
+                <li class="menu-li"><a title="Kinh doanh" rel="nofollow" target="_blank" href="https://tuoitre.vn/kinh-doanh.htm" data-id="11">Kinh doanh</a></li>
+                <li class="menu-li"><a title="Công nghệ" rel="nofollow" target="_blank" href="https://congnghe.tuoitre.vn" data-id="200029">Công nghệ</a></li>
+                <li class="menu-li"><a title="Xe" rel="nofollow" target="_blank" href="https://tuoitre.vn/xe.htm" data-id="659">Xe</a></li>
+                <li class="menu-li"><a title="Du lịch" href="https://dulich.tuoitre.vn" data-id="100">Du lịch</a></li>
+                <li class="menu-li"><a title="Nhịp sống trẻ" rel="nofollow" target="_blank" href="https://tuoitre.vn/nhip-song-tre.htm" data-id="7">Nhịp sống trẻ</a></li>
+                <li class="menu-li"><a title="Văn hóa" rel="nofollow" target="_blank" href="https://tuoitre.vn/van-hoa.htm" data-id="200017">Văn hóa</a></li>
+                <li class="menu-li"><a title="Giải trí" rel="nofollow" target="_blank" href="https://tuoitre.vn/giai-tri.htm" data-id="10">Giải trí</a></li>
+                <li class="menu-li"><a title="Thể thao" rel="nofollow" target="_blank" href="https://thethao.tuoitre.vn" data-id="1209">Thể thao</a></li>
+                <li class="menu-li"><a title="Giáo dục" rel="nofollow" target="_blank" href="https://tuoitre.vn/giao-duc.htm" data-id="13">Giáo dục</a></li>
+                <li class="menu-li"><a title="Khoa học" rel="nofollow" target="_blank" href="https://tuoitre.vn/khoa-hoc.htm" data-id="661">Khoa học</a></li>
+                <li class="menu-li"><a title="Sức khỏe" rel="nofollow" target="_blank" href="https://tuoitre.vn/suc-khoe.htm" data-id="12">Sức khỏe</a></li>
+                <li class="menu-li"><a title="Giả-thật" rel="nofollow" target="_blank" href="https://tuoitre.vn/gia-that.htm" data-id="200015">Giả-thật</a></li>
+                <li class="menu-li"><a rel="nofollow" target="_blank" href="https://tuoitre.vn/ban-doc-lam-bao.htm" title="Bạn đọc" data-id="118">Bạn đọc</a></li>
+            </ul>
+        </div>
+        <div class="menu-expand">
+            <div class="menu-expand-wrapper clearfix">
+                <div class="w980 mgt15">
+                    <div class="menu-expand-left fl">
+                        <a class="menu-expand-title" href="javascript:;" title="Vào chuyên mục">Vào chuyên mục</a>
+                        <ul class="menu-expand-ul clearfix">
+                            <li class="menu-expand-li active" data-item="lastest">
+                                <a href="javascript:;" rel="nofollow" class="menu-expand-li-title" title="Mới nhất">Mới nhất</a>
+                            </li>
+                            <li class="menu-expand-li" data-item="focus">
+                                <a href="javascript:;" rel="nofollow" class="menu-expand-li-title" title="Tiêu điểm">Tiêu điểm</a>
+                            </li>
+                            <li class="menu-expand-li" data-item="mostview">
+                                <a href="javascript:;" rel="nofollow" class="menu-expand-li-title" title="Xem nhiều">Xem nhiều</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="menu-expand-right fr">
+                        <ul class="list-news lastest active">
+                        </ul>
+                        <ul class="list-news focus">
+                        </ul>
+                        <ul class="list-news mostview">
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="arrow"></div>
+    </div>
+    <script>
+        (runinit = window.runinit || []).push(function () {
+            hoverMenuDoneLogin();
+            $('.menu-ipad').click(function () {
+                $(this).toggleClass('active');
+                $(this).closest(".header-middle").find(".menu-category").toggleClass('active');
+            });
+        });
+    </script>
+</header>
+
+                <section id="content">
+                    
+    <div class="w980">
+        
+<div class="breadcrum">
+    <div class="zone-main"><h1><a href='/' title='Du lịch'>Du lịch</a></h1></div>
+    <ul>
+        
+            <li><a href="/co-hoi-du-lich.htm">Cơ hội du lịch</a></li>
+        
+        
+            <li><a href="/di-choi.htm">Đi chơi</a></li>
+        
+        
+            <li><a href="/an-gi.htm">Ăn gì</a></li>
+        
+        
+            <li><a href="/mach-ban.htm">Mách bạn</a></li>
+        
+        
+            <li><a href="/que-huong.htm">Quê hương</a></li>
+        
+    </ul>
+    <div class="page_time">
+        Thứ 7, ngày 20 tháng 6 năm 2020
+    </div>
+</div>
+
+        <div class="breaking_news">
+            <ul>
+                
+    
+        <li><a href="/dien-dan-du-lich-an-tuong-viet-nam-e622.htm" title="Diễn đàn Du lịch: Ấn tượng Việt Nam">Diễn đàn Du lịch: Ấn tượng Việt Nam</a></li>
+    
+        <li><a href="/dai-dich-covid-19-toan-cau-e601.htm" title="Đại dịch COVID-19 toàn cầu">Đại dịch COVID-19 toàn cầu</a></li>
+    
+        <li><a href="/du-lich-viet-nam-an-toan-e590.htm" title="Du lịch Việt Nam an toàn">Du lịch Việt Nam an toàn</a></li>
+    
+        <li><a href="/phong-chong-covid-19-e583.htm" title="Phòng chống COVID-19">Phòng chống COVID-19</a></li>
+    
+        </ul>
+</div>
+    
+
+        <div class="page_container">
+            <div class="page_col_left">
+                
+
+<div class="highlight">
+    <div class="top1 pos-rlt" data-boxtype="homenewsposition">
+        <a data-displayinslide="1" data-objecttype="1"  class="img " title="Cu&#7889;i tu&#7847;n đ&#7841;p xe, t&#7855;m su&#7889;i gi&#7919;a núi r&#7915;ng A Lư&#7899;i"  href="/cuoi-tuan-dap-xe-tam-suoi-giua-nui-rung-a-luoi-20200618105006136.htm">
+            <img src="https://cdn.tuoitre.vn/zoom/480_300/2020/6/18/du-lich-a-luoi-11-1592450725685586835687-crop-1592538782095774368117.jpg" alt="Cu&#7889;i tu&#7847;n đ&#7841;p xe, t&#7855;m su&#7889;i gi&#7919;a núi r&#7915;ng A Lư&#7899;i" /></a>
+        <h2><a data-objecttype="1"  title="Cu&#7889;i tu&#7847;n đ&#7841;p xe, t&#7855;m su&#7889;i gi&#7919;a núi r&#7915;ng A Lư&#7899;i" href="/cuoi-tuan-dap-xe-tam-suoi-giua-nui-rung-a-luoi-20200618105006136.htm" data-linktype="newsdetail" data-id="20200618105006136" data-comment="20200618105006136">Cuối tuần đạp xe, tắm suối giữa núi rừng A Lưới</a></h2>
+        <p class="fixline">TTO - Lâu nay cứ nghe “lên A Lưới”, người ta nghĩ đây là vùng sâu vùng xa, hoang vu. Hai ngày nghỉ cuối tuần đầy thú vị ở vùng sơn cước ấy sẽ cho bạn nhiều bất ngờ thú vị.</p>
+    </div>
+    <ul class="top3">
+        
+                <li data-boxtype="homenewsposition">
+                    <a data-displayinslide="0"  class="img pos-rlt" href="/khach-du-lich-den-campuchia-phai-nop-coc-3-000-usd-du-phong-chua-tri-covid-19-20200619095519748.htm" title="Khách du l&#7883;ch đ&#7871;n Campuchia ph&#7843;i n&#7897;p c&#7885;c 3.000 USD d&#7921; phòng ch&#7919;a tr&#7883; COVID-19" data-objecttype="1" >
+                        <img alt="Khách du l&#7883;ch đ&#7871;n Campuchia ph&#7843;i n&#7897;p c&#7885;c 3.000 USD d&#7921; phòng ch&#7919;a tr&#7883; COVID-19" src="https://cdn.tuoitre.vn/zoom/230_145/2020/6/19/photo-1-15925333950271428286140-crop-1592533416383233808715.jpg" /></a>
+                    <h3>
+                        <a data-objecttype="1"  href="/khach-du-lich-den-campuchia-phai-nop-coc-3-000-usd-du-phong-chua-tri-covid-19-20200619095519748.htm" data-objecttype="1" title="Khách du l&#7883;ch đ&#7871;n Campuchia ph&#7843;i n&#7897;p c&#7885;c 3.000 USD d&#7921; phòng ch&#7919;a tr&#7883; COVID-19" data-linktype="newsdetail" data-id="20200619095519748" data-type="0" data-comment="20200619095519748">Khách du lịch đến Campuchia phải nộp cọc 3.000 USD dự phòng chữa trị COVID-19</a>
+                    </h3>
+                    <p class="need-trimline" rel="3">TTO - Khách quốc tế đến Campuchia du lịch sẽ phải nộp 3.000 USD tiền cọc ngay tại sân bay đề phòng trường hợp cần chữa trị COVID-19, ngoài ra phải trình được bảo hiểm du lịch trị giá ít nhất 50.000 USD.</p>
+                </li>
+            
+                <li data-boxtype="homenewsposition">
+                    <a data-displayinslide="0"  class="img pos-rlt" href="/them-5-duong-bay-trong-nuoc-ket-noi-voi-da-nang-20200618141917856.htm" title="Thêm 5 đư&#7901;ng bay trong nư&#7899;c k&#7871;t n&#7889;i v&#7899;i Đà N&#7861;ng" data-objecttype="1" >
+                        <img alt="Thêm 5 đư&#7901;ng bay trong nư&#7899;c k&#7871;t n&#7889;i v&#7899;i Đà N&#7861;ng" src="https://cdn.tuoitre.vn/zoom/230_145/2020/6/18/san-bay-da-nang-42-15924655424191595576277-crop-15924705964952076973626.jpg" /></a>
+                    <h3>
+                        <a data-objecttype="1"  href="/them-5-duong-bay-trong-nuoc-ket-noi-voi-da-nang-20200618141917856.htm" data-objecttype="1" title="Thêm 5 đư&#7901;ng bay trong nư&#7899;c k&#7871;t n&#7889;i v&#7899;i Đà N&#7861;ng" data-linktype="newsdetail" data-id="20200618141917856" data-type="0" data-comment="20200618141917856">Thêm 5 đường bay trong nước kết nối với Đà Nẵng</a>
+                    </h3>
+                    <p class="need-trimline" rel="3">TTO - 5 đường bay mới của Hãng hàng không Vietjet được mở đồng loạt để kết nối Đà Nẵng với Phú Quốc, Đà Lạt, Vinh, Thanh Hóa và Buôn Ma Thuột. Đà Nẵng kỳ vọng các chuyến bay này sẽ giúp thành phố thu hút thêm du lịch khách nội địa.</p>
+                </li>
+            
+                <li data-boxtype="homenewsposition">
+                    <a data-displayinslide="0"  class="img pos-rlt" href="/chu-s-viet-nam-la-smile-safe-va-save-20200617194737964.htm" title="Ch&#7919; S Vi&#7879;t Nam là Smile, Safe và Save" data-objecttype="1" >
+                        <img alt="Ch&#7919; S Vi&#7879;t Nam là Smile, Safe và Save" src="https://cdn.tuoitre.vn/zoom/230_145/2020/6/18/phu-nu-viet-nam-mac-ao-dai-anh-quang-dinh-15924439185041355055852-crop-15924439975911727373139.jpg" /></a>
+                    <h3>
+                        <a data-objecttype="1"  href="/chu-s-viet-nam-la-smile-safe-va-save-20200617194737964.htm" data-objecttype="1" title="Ch&#7919; S Vi&#7879;t Nam là Smile, Safe và Save" data-linktype="newsdetail" data-id="20200617194737964" data-type="0" data-comment="20200617194737964">Chữ S Việt Nam là Smile, Safe và Save</a>
+                    </h3>
+                    <p class="need-trimline" rel="3">TTO -  Hãy tạo ấn tượng với du khách bằng chính chữ S Việt Nam, bằng chính nụ cười (Smile), sự an toàn (Safe) để du khách có thể lưu giữ lại (Save) những ấn tượng tốt đẹp.</p>
+                </li>
+            
+    </ul>
+</div>
+
+                <hr class="line_seper" />
+                <div class="newest">
+                    <div class="tit">Mới nhất</div>
+                    
+<ul class="lstnews ">
+    
+            <li data-id="2020062012005947">
+                <a class="img" title="Th&#7911; đô Tokyo khôi ph&#7909;c hoàn toàn các ho&#7841;t đ&#7897;ng kinh doanh." href="/thu-do-tokyo-khoi-phuc-hoan-toan-cac-hoat-dong-kinh-doanh-2020062012005947.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_133/2020/6/20/corona-nhat-tokyo-afp-1592629201267184796668-crop-15926292275491389527539.jpg" alt="Th&#7911; đô Tokyo khôi ph&#7909;c hoàn toàn các ho&#7841;t đ&#7897;ng kinh doanh." /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/thu-do-tokyo-khoi-phuc-hoan-toan-cac-hoat-dong-kinh-doanh-2020062012005947.htm" title="Th&#7911; đô Tokyo khôi ph&#7909;c hoàn toàn các ho&#7841;t đ&#7897;ng kinh doanh.">Thủ đô Tokyo khôi phục hoàn toàn các hoạt động kinh doanh.</a>
+                    </h3>
+                    <p class="fixline">TTO - Nhật vừa dỡ bỏ các khuyến cáo du lịch quốc nội và hạn chế người dân di chuyển giữa các tỉnh với hi vọng du lịch nội địa sẽ thúc đẩy nền kinh tế phát triển. Trong khi đó, thủ đô Tokyo khôi phục hoàn toàn các hoạt động kinh doanh.</p>
+                    <ul><li>
+                                <h3><a href='/nhat-ban-bat-dau-do-bo-han-che-di-lai-giua-cac-dia-phuong-20200619135608057.htm' title='Nh&#7853;t B&#7843;n b&#7855;t đ&#7847;u d&#7905; b&#7887; h&#7841;n ch&#7871; đi l&#7841;i gi&#7919;a các đ&#7883;a phương'>Nhật Bản bắt đầu dỡ bỏ hạn chế đi lại giữa các địa phương</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li data-id="20200619185430183">
+                <a class="img" title="Cá heo ghé thăm bi&#7875;n Cam Ranh sau đ&#7841;i d&#7883;ch" href="/ca-heo-ghe-tham-bien-cam-ranh-sau-dai-dich-20200619185430183.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_133/2020/6/19/photo-1-15925673636101720379806-crop-159256747885120931968.jpg" alt="Cá heo ghé thăm bi&#7875;n Cam Ranh sau đ&#7841;i d&#7883;ch" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/ca-heo-ghe-tham-bien-cam-ranh-sau-dai-dich-20200619185430183.htm" title="Cá heo ghé thăm bi&#7875;n Cam Ranh sau đ&#7841;i d&#7883;ch">Cá heo ghé thăm biển Cam Ranh sau đại dịch</a>
+                    </h3>
+                    <p class="fixline">Ngày 16-6, một con cá heo trưởng thành, dài khoảng 3,5m dạt vào bờ và bơi sát dòng nước tại Bãi Dài, khu vực bãi biển của Khu nghỉ dưỡng Alma.</p>
+                    <ul><li>
+                                <h3><a href='/song-hien-dai-chon-ky-nghi-duong-cho-gia-dinh-20200618162142427.htm' title='S&#7889;ng hi&#7879;n đ&#7841;i: ch&#7885;n k&#7923; ngh&#7881; dư&#7905;ng cho gia đình'>Sống hiện đại: chọn kỳ nghỉ dưỡng cho gia đình</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li data-id="20200619123320509">
+                <a class="img" title="Thêm 1 tàu du l&#7883;ch &#7903; H&#7841; Long b&#7883; c&#7845;m ho&#7841;t đ&#7897;ng 90 ngày vì &#39;ch&#7863;t chém&#39;" href="/them-1-tau-du-lich-o-ha-long-bi-cam-hoat-dong-90-ngay-vi-chat-chem-20200619123320509.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_133/2020/6/19/tau-au-lac-1592544455762468748840-crop-1592544759252168705625.jpg" alt="Thêm 1 tàu du l&#7883;ch &#7903; H&#7841; Long b&#7883; c&#7845;m ho&#7841;t đ&#7897;ng 90 ngày vì &#39;ch&#7863;t chém&#39;" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/them-1-tau-du-lich-o-ha-long-bi-cam-hoat-dong-90-ngay-vi-chat-chem-20200619123320509.htm" title="Thêm 1 tàu du l&#7883;ch &#7903; H&#7841; Long b&#7883; c&#7845;m ho&#7841;t đ&#7897;ng 90 ngày vì &#39;ch&#7863;t chém&#39;">Thêm 1 tàu du lịch ở Hạ Long bị cấm hoạt động 90 ngày vì 'chặt chém'</a>
+                    </h3>
+                    <p class="fixline">TTO - UBND TP Hạ Long, tỉnh Quảng Ninh gửi văn bản đề nghị Cảng vụ không cấp phép rời cảng bến, để đình chỉ hoạt động 90 ngày đối với tàu Âu Lạc 18 QN-5796 do tự tăng giá vé và tự ý rút ngắn hành trình của du khách.</p>
+                    <ul><li>
+                                <h3><a href='/dinh-chi-10-ngay-tai-xe-xe-buyt-tra-khach-giua-quoc-lo-1-20200603105501245.htm' title='Đình ch&#7881; 10 ngày tài x&#7871; xe buýt tr&#7843; khách gi&#7919;a qu&#7889;c l&#7897; 1'>Đình chỉ 10 ngày tài xế xe buýt trả khách giữa quốc lộ 1</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+</ul>
+
+                </div>
+                <hr class="line_seper" />
+                
+<div class="boxcat1">
+    <h2 class="tit"><a href="/di-choi.htm" title="Đi chơi">Đi chơi</a></h2>
+    <div class="ct">
+        <a class="img" href="/rop-troi-con-duong-hoa-phuong-do-o-vung-tau-20200613223250658.htm" title="R&#7907;p tr&#7901;i con đư&#7901;ng hoa phư&#7907;ng đ&#7887; &#7903; Vũng Tàu">
+            <img src="https://cdn.tuoitre.vn/zoom/442_285/2020/6/13/ttdvungtau-phuongdo2-15920613251471510574483-crop-1592062767871279248492.jpg" alt="R&#7907;p tr&#7901;i con đư&#7901;ng hoa phư&#7907;ng đ&#7887; &#7903; Vũng Tàu" /></a>
+        <div class="txt">
+            <h3><a href="/rop-troi-con-duong-hoa-phuong-do-o-vung-tau-20200613223250658.htm" title="R&#7907;p tr&#7901;i con đư&#7901;ng hoa phư&#7907;ng đ&#7887; &#7903; Vũng Tàu">Rợp trời con đường hoa phượng đỏ ở Vũng Tàu</a></h3>
+            <p class="fixline">TTO - Những ngày cuối tuần tháng 6 này, người dân Vũng Tàu và du khách từ TP.HCM, Đồng Nai, Long An... đổ xô đến đường Hải Đăng lên núi Nhỏ (TP Vũng Tàu), nơi có con đường rợp trời hoa phượng đỏ.</p>
+            
+                    <ul>
+                
+                    <li>
+                        <a class="img" href="/rung-gia-ta-xua-cuon-hut-den-quen-loi-ve-20200609075008697.htm" title="Rừng già Tà Xùa cuốn hút đến quên lối về">
+                            <img src="https://cdn.tuoitre.vn/zoom/64_40/2020/6/9/3-1591669198542937444472-crop-1591671132419994781272.jpg" alt="/rung-gia-ta-xua-cuon-hut-den-quen-loi-ve-20200609075008697.htm" /></a>
+                        <h3><a title="R&#7915;ng già Tà Xùa cu&#7889;n hút đ&#7871;n quên l&#7889;i v&#7873;" href="/rung-gia-ta-xua-cuon-hut-den-quen-loi-ve-20200609075008697.htm">Rừng già Tà Xùa cuốn hút đến quên lối về</a></h3>
+                    </li>
+                
+                    <li>
+                        <a class="img" href="/nhung-bai-cat-trang-min-nhu-nhung-tren-xa-dao-minh-chau-20200605161928869.htm" title="Những bãi cát trắng mịn như nhung trên xã đảo Minh Châu">
+                            <img src="https://cdn.tuoitre.vn/zoom/64_40/2020/6/5/rung-tram-o-minh-chau-15913488252961167607576-crop-1591582937250668161429.jpg" alt="/nhung-bai-cat-trang-min-nhu-nhung-tren-xa-dao-minh-chau-20200605161928869.htm" /></a>
+                        <h3><a title="Nh&#7919;ng bãi cát tr&#7855;ng m&#7883;n như nhung trên xã đ&#7843;o Minh Châu" href="/nhung-bai-cat-trang-min-nhu-nhung-tren-xa-dao-minh-chau-20200605161928869.htm">Những bãi cát trắng mịn như nhung trên xã đảo Minh Châu</a></h3>
+                    </li>
+                
+                    </ul>
+                
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+
+                <div class="clearfix"></div>
+                <hr class="line_seper" />
+                
+<ul class="lstnews ">
+    
+            <li data-id="20200618152855013">
+                <a class="img" title="Vi&#7879;t Nam đàm phán m&#7903; l&#7841;i đư&#7901;ng bay v&#7899;i Nh&#7853;t B&#7843;n, Hàn Qu&#7889;c và Trung Qu&#7889;c" href="/viet-nam-dam-phan-mo-lai-duong-bay-voi-nhat-ban-han-quoc-va-trung-quoc-20200618152855013.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_133/2019/12/27/may-bay-1577453663547552438662-crop-15924721708242109959252.jpg" alt="Vi&#7879;t Nam đàm phán m&#7903; l&#7841;i đư&#7901;ng bay v&#7899;i Nh&#7853;t B&#7843;n, Hàn Qu&#7889;c và Trung Qu&#7889;c" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/viet-nam-dam-phan-mo-lai-duong-bay-voi-nhat-ban-han-quoc-va-trung-quoc-20200618152855013.htm" title="Vi&#7879;t Nam đàm phán m&#7903; l&#7841;i đư&#7901;ng bay v&#7899;i Nh&#7853;t B&#7843;n, Hàn Qu&#7889;c và Trung Qu&#7889;c">Việt Nam đàm phán mở lại đường bay với Nhật Bản, Hàn Quốc và Trung Quốc</a>
+                    </h3>
+                    <p class="fixline">TTO - Theo nội dung đàm phán gần đây, các chuyên gia và nhà quản lý của Nhật Bản, Hàn Quốc và Trung Quốc đang được tạo điều kiện đến Việt Nam sau dịch bệnh do virus corona chủng mới gây ra (COVID-19).</p>
+                    <ul><li>
+                                <h3><a href='/phi-cong-nguoi-anh-va-chuyen-bay-dac-biet-tu-coi-chet-20200617160744999.htm' title='Phi công ngư&#7901;i Anh và &#39;chuy&#7871;n bay&#39; đ&#7863;c bi&#7879;t t&#7915; cõi ch&#7871;t'>Phi công người Anh và 'chuyến bay' đặc biệt từ cõi chết</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li data-id="20200618141901522">
+                <a class="img" title="Xem xét n&#7889;i l&#7841;i m&#7897;t s&#7889; tuy&#7871;n bay qu&#7889;c t&#7871;" href="/xem-xet-noi-lai-mot-so-tuyen-bay-quoc-te-20200618141901522.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_133/2020/6/18/photo-1-1592464083212482055396-crop-1592467540657222284377.jpg" alt="Xem xét n&#7889;i l&#7841;i m&#7897;t s&#7889; tuy&#7871;n bay qu&#7889;c t&#7871;" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/xem-xet-noi-lai-mot-so-tuyen-bay-quoc-te-20200618141901522.htm" title="Xem xét n&#7889;i l&#7841;i m&#7897;t s&#7889; tuy&#7871;n bay qu&#7889;c t&#7871;">Xem xét nối lại một số tuyến bay quốc tế</a>
+                    </h3>
+                    <p class="fixline">TTO - Trong bình thường mới, thực hiện mục tiêu kép nhưng nguy cơ bùng phát dịch trở lại rất cao, bởi nguồn bệnh từ bên ngoài khi làn sóng thứ 2 của dịch COVID-19 đã bùng phát.</p>
+                    <ul><li>
+                                <h3><a href='/dai-dich-keo-dai-con-nguoi-lieu-co-phat-trien-kha-nang-khang-virus-corona-khong-20200618115813858.htm' title='Đ&#7841;i d&#7883;ch kéo dài, con ngư&#7901;i li&#7879;u có phát tri&#7875;n kh&#7843; năng kháng virus corona?'>Đại dịch kéo dài, con người liệu có phát triển khả năng kháng virus corona?</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li data-id="20200618112852287">
+                <a class="img" title="Kh&#7843;o sát các đi&#7875;m du l&#7883;ch m&#7899;i n&#7893;i &#7903; &#39;nóc nhà mi&#7873;n Tây&#39;" href="/khao-sat-cac-diem-du-lich-moi-noi-o-noc-nha-mien-tay-20200618112852287.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_133/2020/6/18/ks2-1592454027525107955156-crop-15924544461591624401200.jpg" alt="Kh&#7843;o sát các đi&#7875;m du l&#7883;ch m&#7899;i n&#7893;i &#7903; &#39;nóc nhà mi&#7873;n Tây&#39;" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/khao-sat-cac-diem-du-lich-moi-noi-o-noc-nha-mien-tay-20200618112852287.htm" title="Kh&#7843;o sát các đi&#7875;m du l&#7883;ch m&#7899;i n&#7893;i &#7903; &#39;nóc nhà mi&#7873;n Tây&#39;">Khảo sát các điểm du lịch mới nổi ở 'nóc nhà miền Tây'</a>
+                    </h3>
+                    <p class="fixline">TTO - Lần khảo sát này giúp các công ty du lịch, lữ hành trong và ngoài tỉnh biết nhiều địa điểm mới để đưa khách về Núi Cấm (An Giang) tham quan, ngắm cảnh.</p>
+                    <ul><li>
+                                <h3><a href='/duong-ve-noc-nha-mien-tay-vua-chang-day-vua-lon-nhon-o-voi-20190911092636395.htm' title='Đư&#7901;ng v&#7873; &#39;nóc nhà mi&#7873;n Tây&#39; v&#7915;a giăng dây, v&#7915;a l&#7893;n nh&#7893;n &#7893; voi'>Đường về 'nóc nhà miền Tây' vừa giăng dây, vừa lổn nhổn ổ voi</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+</ul>
+
+            </div>
+            <div class="page_col_right" style="margin-top:-10px">
+                
+                
+
+
+<zone id="jmwv75gb"></zone>
+<script>
+        if (is_iPadScreen == null)
+
+          arfAsync.push("jmwv75gb");
+</script>
+                
+<div class="box_cohoidulich mgt12 mgb20">
+    <h2 class="tit"><a href="/co-hoi-du-lich.htm" title="Cơ hội du lịch">Cơ hội du lịch</a></h2>
+    <ul>
+        
+                <li>
+                    <h3><a href="/viet-nam-co-mot-ha-long-thu-hai-o-hai-phong-lan-ha-20200618180627226.htm" title="Vi&#7879;t Nam có m&#7897;t H&#7841; Long th&#7913; hai &#7903; H&#7843;i Phòng: Lan H&#7841;">Việt Nam có một Hạ Long thứ hai ở Hải Phòng: Lan Hạ</a></h3>
+                    
+                    <p>Vịnh Lan Hạ bao quanh đảo Cát Bà, TP Hải Phòng vừa được Hiệp hội Câu lạc bộ các vịnh đẹp nhất thế giới công nhận là một trong những vịnh biển đẹp của thế giới.</p>
+                </li>
+            
+                <li>
+                    <h3><a href="/ron-rang-tour-len-rung-xuong-bien-phuong-nam-20200609133524335.htm" title="R&#7897;n ràng tour lên r&#7915;ng xu&#7889;ng bi&#7875;n phương Nam">Rộn ràng tour lên rừng xuống biển phương Nam</a></h3>
+                    
+                    <p>TTO - Tour lên rừng xuống biển này đưa du khách đi qua những cung đường tưởng chừng đã cũ mòn, từ Vườn quốc gia Cát Tiên (Đồng Nai) tới Đa Mi (Bình Thuận), song mang đến những trải nghiệm mới mẻ.</p>
+                </li>
+            
+                <li>
+                    <h3><a href="/gan-80-doanh-nghiep-du-lich-ba-ria-vung-tau-giam-gia-de-kich-cau-20200605184823279.htm" title="G&#7847;n 80 doanh nghi&#7879;p du l&#7883;ch Bà R&#7883;a - Vũng Tàu gi&#7843;m giá đ&#7875; kích c&#7847;u">Gần 80 doanh nghiệp du lịch Bà Rịa - Vũng Tàu giảm giá để kích cầu</a></h3>
+                    
+                    <p>TTO - Đến nay đã có gần 80 doanh nghiệp là hội viên của Hiệp hội Du lịch tỉnh Bà Rịa - Vũng Tàu tham gia chương trình kích cầu sau đại dịch COVID-19, tung ra nhiều gói ưu đãi, giảm giá 10-50%.</p>
+                </li>
+            
+                <li>
+                    <h3><a href="/vua-mo-bai-tam-vung-tau-nguoi-dan-ao-ra-bien-du-khach-tranh-thu-dat-phong-20200507094341889.htm" title="V&#7915;a m&#7903; bãi t&#7855;m Vũng Tàu, ngư&#7901;i dân ào ra bi&#7875;n, du khách tranh th&#7911; đ&#7863;t phòng">Vừa mở bãi tắm Vũng Tàu, người dân ào ra biển, du khách tranh thủ đặt phòng</a></h3>
+                    
+                    <p>TTO - Việc UBND tỉnh Bà Rịa - Vũng Tàu có quyết định mở cửa bãi tắm từ 0h ngày 7-5 đã đem đến niềm vui cho cả người dân địa phương, du khách và doanh nghiệp kinh doanh dịch vụ du lịch. Tất cả đã sẵn sàng 'bung ra', chờ ngày bãi tắm mở cửa.</p>
+                </li>
+            
+                <li>
+                    <h3><a href="/ba-ria-vung-tau-chua-mo-bai-tam-nhung-du-khach-dat-kin-phong-20200428180720732.htm" title="Bà R&#7883;a - Vũng Tàu: chưa m&#7903; bãi t&#7855;m nhưng du khách đ&#7863;t kín phòng">Bà Rịa - Vũng Tàu: chưa mở bãi tắm nhưng du khách đặt kín phòng</a></h3>
+                    
+                    <p>TTO - Đến cuối chiều 28-4, UBND tỉnh Bà Rịa - Vũng Tàu vẫn chưa có quyết định chính thức về việc mở hay tiếp tục đóng cửa bãi tắm trong dịp lễ 30-4. Trong khi đó, các khách sạn, resort đã được du khách đặt phòng gần như kín hết.</p>
+                </li>
+            
+                <li>
+                    <h3><a href="/phu-quoc-van-don-hon-10-000-du-khach-nuoc-ngoai-20200311122158523.htm" title="Phú Qu&#7889;c v&#7851;n đón hơn 10.000 du khách nư&#7899;c ngoài">Phú Quốc vẫn đón hơn 10.000 du khách nước ngoài</a></h3>
+                    
+                    <p>TTO - Dù đang bị ảnh hưởng khá nặng nề từ dịch COVID-19, nhưng ngành du lịch Kiên Giang vẫn nỗ lực kích cầu và hiện có hơn 10.000 du khách quốc tế lưu trú tại đảo Phú Quốc.</p>
+                </li>
+            
+                <li>
+                    <h3><a href="/cafe-central-the-garden-mall-chinh-thuc-ra-mat-tai-quan-5-20200303144045678.htm" title="Café Central The Garden Mall chính th&#7913;c ra m&#7855;t t&#7841;i qu&#7853;n 5">Café Central The Garden Mall chính thức ra mắt tại quận 5</a></h3>
+                    
+                    <p>Thương hiệu Café Central từ lâu đã nổi tiếng với phong vị ẩm thực đa dạng và độc đáo, nay sẽ có mặt tại khu Chợ Lớn, quận 5, TP.HCM. Café Central The Garden Mall chính thức khai trương vào ngày 1-3-2020.</p>
+                </li>
+            
+                <li>
+                    <h3><a href="/du-lich-thuy-si-phap-luxembourg-ha-lan-tu-18-890-000-dong-20200228171849362.htm" title="Du lịch Th&#7909;y Sĩ, Pháp, Luxembourg, Hà Lan t&#7915; 18.890.000 đ&#7891;ng">Du lịch Thụy Sĩ, Pháp, Luxembourg, Hà Lan từ 18.890.000 đồng</a></h3>
+                    
+                    <p>Tour tham quan Thụy Sĩ, ngắm Rheinfall, núi tuyết trắng giữa mùa xuân ấm áp. Đến ba ngôi làng thiên thần Alsace gói gọn nét đẹp nước Pháp hoa mỹ. Khám phá Luxembourg.</p>
+                </li>
+            
+                <li>
+                    <h3><a href="/tour-thuy-si-phap-duc-ha-lan-bi-tu-24090000-dong-20200228153853036.htm" title="Tour Th&#7909;y Sĩ, Pháp, Đ&#7913;c, Hà Lan, B&#7881; t&#7915; 24.090.000 đ&#7891;ng">Tour Thụy Sĩ, Pháp, Đức, Hà Lan, Bỉ từ 24.090.000 đồng</a></h3>
+                    
+                    <p>Đến Thụy Sĩ - đất nước đáng sống nhất thế giới với đỉnh Alps tuyết trắng. Tới Pháp ngắm Paris - thành phố tráng lệ - niềm kiêu hãnh của kiến trúc và lịch sử anh hùng xứng đáng danh hiệu thủ đô nhân loại…</p>
+                </li>
+            
+                <li>
+                    <h3><a href="/tour-thuy-si-y-vatican-hy-lap-dao-santorini-tu-26990000-dong-20200117105717087.htm" title="Tour Th&#7909;y Sĩ, Ý, Vatican, Hy L&#7841;p, đ&#7843;o Santorini t&#7915; 26.990.000 đồng">Tour Thụy Sĩ, Ý, Vatican, Hy Lạp, đảo Santorini từ 26.990.000 đồng</a></h3>
+                    
+                    <p>Thụy Sĩ hùng vĩ soi bóng dãy Alps tuyết trắng, Ý lãng mạn, đấu trường La Mã - Rome kiên cố muôn đời...</p>
+                </li>
+            
+    </ul>
+</div>
+<script type="text/javascript">
+    (runinit = window.runinit || []).push(function () {
+        $(".box_cohoidulich ul").slimScroll({
+            height: '450px',
+            size: '3px'
+        });
+    });
+</script>
+
+                
+
+
+<zone id="jmwv7pvn"></zone>
+
+<script>
+        if (is_iPadScreen == null)
+
+          arfAsync.push("jmwv7pvn");
+</script>
+
+
+                
+                
+<div class="boxcat3 mgt12 bg_yellow 111">
+    <h2 class="tit"><a title="Diễn đàn Ấn tượng Việt Nam" href="/dien-dan-du-lich-an-tuong-viet-nam-e622.htm">Diễn đàn Ấn tượng Việt Nam</a></h2>
+    <ul>
+        
+                <li>
+                    <a class="img"  href="/cuoi-tuan-dap-xe-tam-suoi-giua-nui-rung-a-luoi-20200618105006136.htm" title="Cu&#7889;i tu&#7847;n đ&#7841;p xe, t&#7855;m su&#7889;i gi&#7919;a núi r&#7915;ng A Lư&#7899;i">
+                        <img src="https://cdn.tuoitre.vn/zoom/276_172/2020/6/18/du-lich-a-luoi-11-1592450725685586835687-crop-1592538782095774368117.jpg" alt="Cu&#7889;i tu&#7847;n đ&#7841;p xe, t&#7855;m su&#7889;i gi&#7919;a núi r&#7915;ng A Lư&#7899;i" /></a>
+                    <h3>
+                        <a href="/cuoi-tuan-dap-xe-tam-suoi-giua-nui-rung-a-luoi-20200618105006136.htm" title="Cu&#7889;i tu&#7847;n đ&#7841;p xe, t&#7855;m su&#7889;i gi&#7919;a núi r&#7915;ng A Lư&#7899;i" data-comment="20200618105006136">Cuối tuần đạp xe, tắm suối giữa núi rừng A Lưới</a>
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img"  href="/them-5-duong-bay-trong-nuoc-ket-noi-voi-da-nang-20200618141917856.htm" title="Thêm 5 đư&#7901;ng bay trong nư&#7899;c k&#7871;t n&#7889;i v&#7899;i Đà N&#7861;ng">
+                        <img src="https://cdn.tuoitre.vn/zoom/120_75/2020/6/18/san-bay-da-nang-42-15924655424191595576277-crop-15924705964952076973626.jpg" alt="Thêm 5 đư&#7901;ng bay trong nư&#7899;c k&#7871;t n&#7889;i v&#7899;i Đà N&#7861;ng" /></a>
+                    <h3>
+                        <a href="/them-5-duong-bay-trong-nuoc-ket-noi-voi-da-nang-20200618141917856.htm" title="Thêm 5 đư&#7901;ng bay trong nư&#7899;c k&#7871;t n&#7889;i v&#7899;i Đà N&#7861;ng" >Thêm 5 đường bay trong nước kết nối với Đà Nẵng</a>
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img"  href="/chu-s-viet-nam-la-smile-safe-va-save-20200617194737964.htm" title="Ch&#7919; S Vi&#7879;t Nam là Smile, Safe và Save">
+                        <img src="https://cdn.tuoitre.vn/zoom/120_75/2020/6/18/phu-nu-viet-nam-mac-ao-dai-anh-quang-dinh-15924439185041355055852-crop-15924439975911727373139.jpg" alt="Ch&#7919; S Vi&#7879;t Nam là Smile, Safe và Save" /></a>
+                    <h3>
+                        <a href="/chu-s-viet-nam-la-smile-safe-va-save-20200617194737964.htm" title="Ch&#7919; S Vi&#7879;t Nam là Smile, Safe và Save" >Chữ S Việt Nam là Smile, Safe và Save</a>
+                    </h3>
+                </li>
+            
+    </ul>
+</div>
+            </div>
+        </div>
+        <hr class="line_seper" />
+        
+<div class="boximage">
+    <div class="img">
+        <a title="Mang hình &#7843;nh đ&#7865;p Vi&#7879;t Nam ra th&#7871; gi&#7899;i"
+            href="/mang-hinh-anh-dep-viet-nam-ra-the-gioi-20200617094558899.htm"
+                            ><img src="https://cdn.tuoitre.vn/thumb_w/980/2020/6/17/5-1-1592364258475505385666-crop-15924408402381116655937.jpg" alt="Mang hình &#7843;nh đ&#7865;p Vi&#7879;t Nam ra th&#7871; gi&#7899;i"/></a>
+    </div>
+     <div class="txt">
+
+        <h3><a title="Mang hình &#7843;nh đ&#7865;p Vi&#7879;t Nam ra th&#7871; gi&#7899;i" class=""
+             data-objecttype="1"
+                    href="/mang-hinh-anh-dep-viet-nam-ra-the-gioi-20200617094558899.htm"
+                            >Mang hình ảnh đẹp Việt Nam ra thế giới</a></h3>
+        <p>TTO - Trần Tuấn Việt được biết đến với những bức ảnh mọi miền tươi đẹp của Việt Nam. Ảnh của tay máy này được đăng trên tạp chí và sách ảnh National Geographic, Google Arts & Culture.</p>
+    </div>
+    
+</div>
+        <hr class="line_seper" />
+        
+
+
+<div class="boxcat2">
+    <h2 class="tit"><a href="/an-gi.htm" title="Ăn gì">Ăn gì</a></h2>
+    <ul class="col_left">
+        
+                <li>
+                    <a class="img" href="/o-cho-noi-cai-rang-ai-cung-thich-cuoi-20200519153900282.htm" title="&#7902; ch&#7907; n&#7893;i Cái Răng ai cũng thích cư&#7901;i">
+                        <img src="https://cdn.tuoitre.vn/zoom/214_133/2020/5/29/cai-rang-1-1590722832500381632282-crop-1590722838901411066609.jpg" alt="&#7902; ch&#7907; n&#7893;i Cái Răng ai cũng thích cư&#7901;i" /></a>
+                    <h3>
+                        <a href="/o-cho-noi-cai-rang-ai-cung-thich-cuoi-20200519153900282.htm" title="&#7902; ch&#7907; n&#7893;i Cái Răng ai cũng thích cư&#7901;i">Ở chợ nổi Cái Răng ai cũng thích cười</a>
+                    </h3>
+                    <p class="fixline">TTO - Dì Bảy bán bún riêu ở chợ nổi Cái Răng hơn 30 năm rồi. Dì nói buôn bán ở chợ này cực dữ trần thân, nhưng cỡ nào cũng phải cười, để vui vẻ mua bán, và để thấy mình đỡ cực.</p>
+                </li>
+            
+                <li>
+                    <a class="img" href="/cap-doi-blogger-am-thuc-new-zealand-ve-nuoc-roi-van-nho-hoai-sup-cua-oc-heo-2020052714044185.htm" title="C&#7863;p đôi blogger &#7849;m th&#7921;c New Zealand: V&#7873; nư&#7899;c r&#7891;i v&#7851;n nh&#7899; hoài súp cua óc heo">
+                        <img src="https://cdn.tuoitre.vn/zoom/214_133/2020/5/27/untitled3-159056535314973438871-crop-1590566076525723270677.jpg" alt="C&#7863;p đôi blogger &#7849;m th&#7921;c New Zealand: V&#7873; nư&#7899;c r&#7891;i v&#7851;n nh&#7899; hoài súp cua óc heo" /></a>
+                    <h3>
+                        <a href="/cap-doi-blogger-am-thuc-new-zealand-ve-nuoc-roi-van-nho-hoai-sup-cua-oc-heo-2020052714044185.htm" title="C&#7863;p đôi blogger &#7849;m th&#7921;c New Zealand: V&#7873; nư&#7899;c r&#7891;i v&#7851;n nh&#7899; hoài súp cua óc heo">Cặp đôi blogger ẩm thực New Zealand: Về nước rồi vẫn nhớ hoài súp cua óc heo</a>
+                    </h3>
+                    <p class="fixline">TTO - 'Đến giờ chúng tôi vẫn cứ nhắc hoài về món súp cua óc heo ngon tuyệt ấy đấy', blogger ẩm thực người New Zealand Sheena Southam bày tỏ với Tuổi Trẻ Online khi đã rời Việt Nam được 5 tháng.</p>
+                </li>
+            
+                <li>
+                    <a class="img" href="/ngot-thom-xoai-trung-yen-chau-an-mot-lan-se-nho-mai-20200520091503566.htm" title="Ng&#7885;t thơm &#39;xoài tr&#7913;ng&#39; Yên Châu, ăn m&#7897;t l&#7847;n s&#7869; nh&#7899; mãi">
+                        <img src="https://cdn.tuoitre.vn/zoom/214_133/2020/5/20/logo-xoai-yen-chau-7-15899410008631447934459-crop-15899590175861950598952.jpg" alt="Ng&#7885;t thơm &#39;xoài tr&#7913;ng&#39; Yên Châu, ăn m&#7897;t l&#7847;n s&#7869; nh&#7899; mãi" /></a>
+                    <h3>
+                        <a href="/ngot-thom-xoai-trung-yen-chau-an-mot-lan-se-nho-mai-20200520091503566.htm" title="Ng&#7885;t thơm &#39;xoài tr&#7913;ng&#39; Yên Châu, ăn m&#7897;t l&#7847;n s&#7869; nh&#7899; mãi">Ngọt thơm 'xoài trứng' Yên Châu, ăn một lần sẽ nhớ mãi</a>
+                    </h3>
+                    <p class="fixline">TTO - Giống xoài đặc sản tựa hình trái tim nhỏ nhắn vừa tròn nắm tay, khiến ai đã ăn một lần sẽ nhớ mãi vị ngọt thơm, ruột vàng ươm.</p>
+                </li>
+            
+    </ul>
+    <div class="col_right">
+        
+
+
+<zone id="jmwv86ru"></zone>
+
+<script>
+        if (is_iPadScreen == null)
+
+          arfAsync.push("jmwv86ru");
+</script>
+    </div>
+</div>
+
+        <hr class="line_seper" />
+        
+<div id="videobox-t" class="tablet-only"><div class="tit"></div><ul></ul></div>
+<div class="boxvideo desktop-only">
+    <div class="tit">Videos</div>
+    <div class="ct">
+        <a class="img" title="S&#7911;ng C&#7887; thiên đư&#7901;ng hoang sơ nơi c&#7917;a v&#7883;nh Đà N&#7861;ng"
+            data-objecttype="1"
+            href="/sung-co-thien-duong-hoang-so-noi-cua-vinh-da-nang-20190806143538264.htm"
+            >
+            <img src="https://cdn.tuoitre.vn/zoom/664_415/2019/8/6/6-15650757045121991484961-crop-1565076578018241883920.jpg" alt="S&#7911;ng C&#7887; thiên đư&#7901;ng hoang sơ nơi c&#7917;a v&#7883;nh Đà N&#7861;ng" /></a>
+        <div class="txt">
+            <h3><a title="S&#7911;ng C&#7887; thiên đư&#7901;ng hoang sơ nơi c&#7917;a v&#7883;nh Đà N&#7861;ng" data-comment="20190806143538264"
+                href="/sung-co-thien-duong-hoang-so-noi-cua-vinh-da-nang-20190806143538264.htm"
+                >Sủng Cỏ thiên đường hoang sơ nơi cửa vịnh Đà Nẵng</a></h3>
+            <p>TTO - Nằm biệt lập với một bên là núi rừng Hải Vân và một bên là vịnh Đà Nẵng, bãi biển Sủng Cỏ, phường Hòa Hiệp Bắc, quận Liên Chiểu, Đà Nẵng vẫn còn là một bí ẩn với nhiều người.</p>
+            
+                    <div class="video_more">
+                        <div class="tit">Xem thêm videos</div>
+                        <ul>
+                
+                    <li>
+                        <a class="img" title="&#7902; sân bay Changi, thích c&#7843;m giác m&#7841;nh thì chui &#7889;ng trư&#7907;t ra... máy bay"
+                            data-objecttype="1"
+                            href="/o-san-bay-changi-thich-cam-giac-manh-thi-chui-ong-truot-ra-may-bay-20190710101817012.htm"
+                            >
+                            <img alt="&#7902; sân bay Changi, thích c&#7843;m giác m&#7841;nh thì chui &#7889;ng trư&#7907;t ra... máy bay" src="https://cdn.tuoitre.vn/zoom/100_62/2019/7/10/ong-truot-15627282086071698234428-15627282328071186062066-156272825877237503052-crop-1562728406152748244522.png" /></a>
+                        <h3><a title="&#7902; sân bay Changi, thích c&#7843;m giác m&#7841;nh thì chui &#7889;ng trư&#7907;t ra... máy bay"
+                            href="/o-san-bay-changi-thich-cam-giac-manh-thi-chui-ong-truot-ra-may-bay-20190710101817012.htm"
+                            >Ở sân bay Changi, thích cảm giác mạnh thì chui ống trượt ra... máy bay</a></h3>
+                    </li>
+                
+                    <li>
+                        <a class="img" title="Đ&#7871;n Đà L&#7841;t nh&#7845;t đ&#7883;nh ph&#7843;i ăn bánh căn"
+                            data-objecttype="1"
+                            href="/den-da-lat-nhat-dinh-phai-an-banh-can-2019070610410254.htm"
+                            >
+                            <img alt="Đ&#7871;n Đà L&#7841;t nh&#7845;t đ&#7883;nh ph&#7843;i ăn bánh căn" src="https://cdn.tuoitre.vn/zoom/100_62/2019/7/6/logo-banh-ccan-1-15623868910521971686972-crop-15623869244471248058333.jpg" /></a>
+                        <h3><a title="Đ&#7871;n Đà L&#7841;t nh&#7845;t đ&#7883;nh ph&#7843;i ăn bánh căn"
+                            href="/den-da-lat-nhat-dinh-phai-an-banh-can-2019070610410254.htm"
+                            >Đến Đà Lạt nhất định phải ăn bánh căn</a></h3>
+                    </li>
+                
+                    <li>
+                        <a class="img" title="Quán trà &#7903; nơi xa xôi nh&#7845;t th&#7871; gi&#7899;i"
+                            data-objecttype="1"
+                            href="/quan-tra-o-noi-xa-xoi-nhat-the-gioi-20190706102304984.htm"
+                            >
+                            <img alt="Quán trà &#7903; nơi xa xôi nh&#7845;t th&#7871; gi&#7899;i" src="https://cdn.tuoitre.vn/zoom/100_62/2019/7/6/hoa-son-1562383292392367800572-crop-1562383300873960675677.png" /></a>
+                        <h3><a title="Quán trà &#7903; nơi xa xôi nh&#7845;t th&#7871; gi&#7899;i"
+                            href="/quan-tra-o-noi-xa-xoi-nhat-the-gioi-20190706102304984.htm"
+                            >Quán trà ở nơi xa xôi nhất thế giới</a></h3>
+                    </li>
+                
+                    <li>
+                        <a class="img" title="Nhà hàng có dàn đ&#7847;u b&#7871;p toàn robot t&#7841;i Trung Qu&#7889;c"
+                            data-objecttype="1"
+                            href="/nha-hang-co-dan-dau-bep-toan-robot-tai-trung-quoc-20181123144624246.htm"
+                            >
+                            <img alt="Nhà hàng có dàn đ&#7847;u b&#7871;p toàn robot t&#7841;i Trung Qu&#7889;c" src="https://cdn.tuoitre.vn/zoom/100_62/2018/11/23/screen-shot-2018-11-23-at-23708-pm-1542958691144338081699-crop-1542958710681972747776.png" /></a>
+                        <h3><a title="Nhà hàng có dàn đ&#7847;u b&#7871;p toàn robot t&#7841;i Trung Qu&#7889;c"
+                            href="/nha-hang-co-dan-dau-bep-toan-robot-tai-trung-quoc-20181123144624246.htm"
+                            >Nhà hàng có dàn đầu bếp toàn robot tại Trung Quốc</a></h3>
+                    </li>
+                
+                    <li>
+                        <a class="img" title="Xem vũ h&#7897;i toàn di&#7877;n viên Tây c&#7921;c hoành tráng trên đ&#7881;nh Bà Nà"
+                            data-objecttype="1"
+                            href="/xem-vu-hoi-toan-dien-vien-tay-cuc-hoanh-trang-tren-dinh-ba-na-20190601083359429.htm"
+                            >
+                            <img alt="Xem vũ h&#7897;i toàn di&#7877;n viên Tây c&#7921;c hoành tráng trên đ&#7881;nh Bà Nà" src="https://cdn.tuoitre.vn/zoom/100_62/2019/6/1/moi-43-1559351894959789338195-crop-15593522767261499063665.jpg" /></a>
+                        <h3><a title="Xem vũ h&#7897;i toàn di&#7877;n viên Tây c&#7921;c hoành tráng trên đ&#7881;nh Bà Nà"
+                            href="/xem-vu-hoi-toan-dien-vien-tay-cuc-hoanh-trang-tren-dinh-ba-na-20190601083359429.htm"
+                            >Xem vũ hội toàn diễn viên Tây cực hoành tráng trên đỉnh Bà Nà</a></h3>
+                    </li>
+                
+                    </ul>
+            </div>
+                
+
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+
+        <hr class="line_seper" />
+        <div class="page_container">
+            <div class="page_col_left">
+                
+<ul class="lstnews ">
+    
+            <li data-id="20200618082918222">
+                <a class="img" title="Chàng trai Vi&#7879;t đi xe máy vòng quanh th&#7871; gi&#7899;i: H&#7885;c đư&#7907;c muôn ngàn bài h&#7885;c ý nghĩa" href="/chang-trai-viet-di-xe-may-vong-quanh-the-gioi-hoc-duoc-muon-ngan-bai-hoc-y-nghia-20200618082918222.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_133/2020/6/18/pakistan-16-15924418018722085353496-crop-15925504114291717411793.jpg" alt="Chàng trai Vi&#7879;t đi xe máy vòng quanh th&#7871; gi&#7899;i: H&#7885;c đư&#7907;c muôn ngàn bài h&#7885;c ý nghĩa" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/chang-trai-viet-di-xe-may-vong-quanh-the-gioi-hoc-duoc-muon-ngan-bai-hoc-y-nghia-20200618082918222.htm" title="Chàng trai Vi&#7879;t đi xe máy vòng quanh th&#7871; gi&#7899;i: H&#7885;c đư&#7907;c muôn ngàn bài h&#7885;c ý nghĩa">Chàng trai Việt đi xe máy vòng quanh thế giới: Học được muôn ngàn bài học ý nghĩa</a>
+                    </h3>
+                    <p class="fixline">TTO - Chàng trai du lịch nổi tiếng Trần Đặng Đăng Khoa vừa trở về nước sau 1.111 ngày hành trình kỳ lạ và đầy cảm hứng: chu du khắp thế giới trên chiếc xe máy biển số Việt Nam.</p>
+                    <ul><li>
+                                <h3><a href='/phuot-thu-dang-khoa-ve-nuoc-sau-hon-1-000-ngay-vong-quanh-the-gioi-bang-xe-may-2020061609513819.htm' title='Phư&#7907;t th&#7911; Đăng Khoa v&#7873; nư&#7899;c sau hơn 1.000 ngày vòng quanh th&#7871; gi&#7899;i b&#7857;ng xe máy'>Phượt thủ Đăng Khoa về nước sau hơn 1.000 ngày vòng quanh thế giới bằng xe máy</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li data-id="20200618162142427">
+                <a class="img" title="S&#7889;ng hi&#7879;n đ&#7841;i: ch&#7885;n k&#7923; ngh&#7881; dư&#7905;ng cho gia đình" href="/song-hien-dai-chon-ky-nghi-duong-cho-gia-dinh-20200618162142427.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_133/2020/6/18/photo-1-15924708145872130951222-crop-1592471027125750471245.jpg" alt="S&#7889;ng hi&#7879;n đ&#7841;i: ch&#7885;n k&#7923; ngh&#7881; dư&#7905;ng cho gia đình" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/song-hien-dai-chon-ky-nghi-duong-cho-gia-dinh-20200618162142427.htm" title="S&#7889;ng hi&#7879;n đ&#7841;i: ch&#7885;n k&#7923; ngh&#7881; dư&#7905;ng cho gia đình">Sống hiện đại: chọn kỳ nghỉ dưỡng cho gia đình</a>
+                    </h3>
+                    <p class="fixline">Mua những món đồ hiện đại, đắt tiền cho các thành viên cho gia đình hay cho con đi trung tâm thương mại liệu có nên là mục tiêu hướng đến? Hay chúng ta cần một lựa chọn giúp cân bằng lại sau nhịp sống và làm việc xô bồ?</p>
+                    <ul><li>
+                                <h3><a href='/khu-nghi-duong-alma-di-vao-van-hanh-cuoi-thang-12-2019-20191210155154048.htm' title='Khu ngh&#7881; dư&#7905;ng ALMA đi vào v&#7853;n hành cu&#7889;i tháng 12-2019'>Khu nghỉ dưỡng ALMA đi vào vận hành cuối tháng 12-2019</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li data-id="20200617191904925">
+                <a class="img" title="Ninh Bình đư&#7907;c đăng cai t&#7893; ch&#7913;c ti&#7871;p Năm du l&#7883;ch qu&#7889;c gia 2021" href="/ninh-binh-duoc-dang-cai-to-chuc-tiep-nam-du-lich-quoc-gia-2021-20200617191904925.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_133/2020/6/17/tam-coc-5-1591408502502752155766-1592396053766910108058-crop-1592396074906781454229.jpg" alt="Ninh Bình đư&#7907;c đăng cai t&#7893; ch&#7913;c ti&#7871;p Năm du l&#7883;ch qu&#7889;c gia 2021" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/ninh-binh-duoc-dang-cai-to-chuc-tiep-nam-du-lich-quoc-gia-2021-20200617191904925.htm" title="Ninh Bình đư&#7907;c đăng cai t&#7893; ch&#7913;c ti&#7871;p Năm du l&#7883;ch qu&#7889;c gia 2021">Ninh Bình được đăng cai tổ chức tiếp Năm du lịch quốc gia 2021</a>
+                    </h3>
+                    <p class="fixline">TTO - Không thể tổ chức các hoạt động của Năm du lịch quốc gia 2020 theo kế hoạch vì dịch COVID-19, UBND tỉnh Ninh Bình được Phó thủ tướng Vũ Đức Đam đồng ý giao tiếp tục phát động Năm du lịch quốc gia 2021.</p>
+                    <ul><li>
+                                <h3><a href='/ninh-binh-dang-cai-nam-du-lich-quoc-gia-2020-20191228222725379.htm' title='Ninh Bình đăng cai Năm du l&#7883;ch qu&#7889;c gia 2020'>Ninh Bình đăng cai Năm du lịch quốc gia 2020</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+            <li data-id="20200609133524335">
+                <a class="img" title="R&#7897;n ràng tour lên r&#7915;ng xu&#7889;ng bi&#7875;n phương Nam" href="/ron-rang-tour-len-rung-xuong-bien-phuong-nam-20200609133524335.htm">
+                    <img src="https://cdn.tuoitre.vn/zoom/214_133/2020/6/10/18-1591783878999340766459-crop-15919309338411637019906.jpg" alt="R&#7897;n ràng tour lên r&#7915;ng xu&#7889;ng bi&#7875;n phương Nam" /></a>
+                <div class="txt">
+                    <h3>
+                        <a href="/ron-rang-tour-len-rung-xuong-bien-phuong-nam-20200609133524335.htm" title="R&#7897;n ràng tour lên r&#7915;ng xu&#7889;ng bi&#7875;n phương Nam">Rộn ràng tour lên rừng xuống biển phương Nam</a>
+                    </h3>
+                    <p class="fixline">TTO - Tour lên rừng xuống biển này đưa du khách đi qua những cung đường tưởng chừng đã cũ mòn, từ Vườn quốc gia Cát Tiên (Đồng Nai) tới Đa Mi (Bình Thuận), song mang đến những trải nghiệm mới mẻ.</p>
+                    <ul><li>
+                                <h3><a href='/toi-ngo-ngang-voi-canh-dep-viet-nam-20200608235913102.htm' title='&#39;Tôi ng&#7905; ngàng v&#7899;i c&#7843;nh đ&#7865;p Vi&#7879;t Nam&#39;'>'Tôi ngỡ ngàng với cảnh đẹp Việt Nam'</a></h3>
+                            </li></ul>
+                </div>
+            </li>
+        
+</ul>
+
+                <div class="viewmore">
+                    <a class="fl" id="loadmore" href="javascript:void(0)">Xem thêm</a>
+                    <a class="fr" id="pickadate" href="javascript:void(0)">Xem theo thời gian</a>
+                    <input type="hidden" id="datepicker_value" />
+                </div>
+            </div>
+            <div class="page_col_right">
+                
+
+
+<zone id="jmwv8rpn"></zone>
+
+<script>
+        if (is_iPadScreen == null)
+
+          arfAsync.push("jmwv8rpn");
+</script>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        (runinit = window.runinit || []).push(function () {
+            dulich.initHomePage();
+        });
+    </script>
+
+                </section>
+                
+
+
+<div class="clearfix"></div>
+<div class="w980">
+     <zone id="jphs5rwl"></zone>
+
+    <script>
+       if (is_iPadScreen == null)
+        arfAsync.push("jphs5rwl");
+    </script>
+    <div class="bannerfooter1top">
+        
+
+
+<zone id="jmwv54w6"></zone>
+<script>
+        if (is_iPadScreen == null)
+
+          arfAsync.push("jmwv54w6");
+</script>
+    </div>
+    <div class="bannerfooter1">
+        
+
+<div class="clearfix">
+    <iframe width="100%" height="460px" src="https://quangcao.tuoitre.vn/customer/banner/2019/P/PhanQuang/20190707/PC/index.html" scrolling="no" frameborder="0">Browser not supported</iframe>
+</div>
+
+    </div>
+</div>
+
+
+<footer>
+    <div class="footer-icon">
+        <div class="w980">
+            <div class="top-footer">
+                <ul>
+                    <li><a title="Tuổi trẻ TV" href="https://tv.tuoitre.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTTV.png" alt="logo tuổi trẻ TV" style="width: 80px; height: 26px;" /></a></li>
+                    <li><a title="Tuổi Trẻ cuối tuần" href="https://cuoituan.tuoitre.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTCT.png" alt="logo tuổi trẻ cuối tuần" style="width: 80px; height: 26px;" /></a></li>
+                    <li><a title="Tuổi Trẻ News" href="https://tuoitrenews.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTNews.png" alt="logo tuổi trẻ news" style="width: 80px; height: 26px;" /></a></li>
+                <li class="logo-ttc"><a title="Tuổi Trẻ Cười" href="https://cuoi.tuoitre.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/thumb_w/75/tuoitre/web_images/logo_tuoitrecuoi-01.png" alt="Tuổi Trẻ Cười" /></a></li>
+              </ul>
+            </div>
+            <ul class="list-icon-footer fr">
+                <li><a href="https://www.facebook.com/baotuoitre" title="Quan tâm Tuổi Trẻ trên Facebook" target="_blank" rel="nofollow" class="icon-facebook-footer sprite16"></a></li>
+                <li><a href="https://www.instagram.com/baotuoitre" title="Quan tâm Tuổi Trẻ trên Instagram" target="_blank" rel="nofollow" class="icon-camera-footer sprite16"></a></li>
+                <li><a href="https://plus.google.com/107706664902384479582" title="Quan tâm Tuổi Trẻ trên Google Plus" target="_blank" rel="nofollow" class="icon-google-footer sprite16"></a></li>
+                <li><a href="https://www.youtube.com/channel/UCrwJa6KRHWnJpJPZNeKKcvA" title="Quan tâm Tuổi Trẻ trên Youtube" target="_blank" rel="nofollow" class="icon-youtube-footer sprite16"></a></li>
+            </ul>
+            <p class="textfollow fr">Theo dõi Tuổi Trẻ Online: </p>
+
+        </div>
+    </div>
+    <div class="bottom-footer">
+        <div class="w980">
+            <div class="wrapper-footer">
+                <ul>
+                    <li>
+                        <a href="https://tuoitre.vn/media.htm" title="MEDIA" rel="nofollow" target="_blank">MEDIA</a>
+                        <a href="https://tuoitre.vn/thoi-su.htm" title="THỜI SỰ" rel="nofollow" target="_blank">THỜI SỰ</a>
+                        <a href="https://tuoitre.vn/the-gioi.htm" title="THẾ GIỚI" rel="nofollow" target="_blank">THẾ GIỚI</a>
+                        <a href="https://tuoitre.vn/phap-luat.htm" title="PHÁP LUẬT" rel="nofollow" target="_blank">PHÁP LUẬT</a>
+                    </li>
+                    <li>
+                        <a href="https://tuoitre.vn/kinh-doanh.htm" title="KINH DOANH" rel="nofollow" target="_blank">KINH DOANH</a>
+                        <a href="https://congnghe.tuoitre.vn" title="CÔNG NGHỆ" rel="nofollow" target="_blank">CÔNG NGHỆ</a>
+                        <a href="https://tuoitre.vn/xe.htm" title="XE" rel="nofollow" target="_blank">XE</a>
+                        <a href="https://dulich.tuoitre.vn" title="DU LỊCH">DU LỊCH</a>
+                    </li>
+                    <li>
+                        <a href="https://tuoitre.vn/nhip-song-tre.htm" title="NHỊP SỐNG TRẺ" rel="nofollow" target="_blank">NHỊP SỐNG TRẺ</a>
+                        <a href="https://tuoitre.vn/van-hoa.htm" title="VĂN HÓA" rel="nofollow" target="_blank">VĂN HÓA</a>
+                        <a href="https://tuoitre.vn/giai-tri.htm" title="GIẢI TRÍ" rel="nofollow" target="_blank">GIẢI TRÍ</a>
+                    </li>
+                    <li>
+                        <a href="https://thethao.tuoitre.vn" title="THỂ THAO" rel="nofollow" target="_blank">THỂ THAO</a>
+                        <a href="https://tuoitre.vn/khoa-hoc.htm" title="KHOA HỌC" rel="nofollow" target="_blank">KHOA HỌC</a>
+                        <a href="https://tuoitre.vn/suc-khoe.htm" title="SỨC KHỎE" rel="nofollow" target="_blank">SỨC KHỎE</a>
+                    </li>
+                    <li>
+                        <a href="https://tuoitre.vn/giao-duc.htm" title="GIÁO DỤC" rel="nofollow" target="_blank">GIÁO DỤC</a>
+                        <a href="https://tuoitre.vn/ban-doc-lam-bao.htm" title="BẠN ĐỌC" rel="nofollow" target="_blank">BẠN ĐỌC</a>
+                        <a href="https://tuoitre.vn/gia-that.htm" title="THẬT GIẢ" rel="nofollow" target="_blank">THẬT GIẢ</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+    </div>
+    <div class="footer-end clearfix">
+        <div class="w980">
+            <a class="logo-footer" href="https://tuoitre.vn/" rel="nofollow" target="_blank" title="Tuổi Trẻ Online"></a>
+            <p class="float-l">
+                © Copyright 2020 TuoiTre Online, All rights reserved
+                            <br>
+                ® Tuổi Trẻ Online giữ bản quyền nội dung trên website này
+            </p>
+             <a href="http://www.thanhdoan.hochiminhcity.gov.vn" title="Thành Đoàn TP.HCM" rel="nofollow" target="_blank" class="fr thongtin">&nbsp;Thành Đoàn TP.HCM</a>
+            <a href="https://tuoitre.vn/thong-tin-toa-soan.htm" title="Thông tin Tòa soạn" class="thongtin fr" target="_blank">Thông tin Tòa soạn - </a>
+            <ul class="float-r">
+                <li>
+                    <a rel="nofollow" target="_blank" href=" https://quangcao.tuoitre.vn" title="Liên hệ Quảng cáo">Liên hệ Quảng cáo</a>
+                </li>
+                <li>
+                    <a href="javascript:;" title="Điều khoản bảo mật">Điều khoản bảo mật</a>
+                </li>
+                <li>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScSRj-Bxm1t6roko_ocQlUSZCnei3a03IdoOpPQ9-lp2McaKw/viewform" title="Liên hệ góp ý" rel="nofollow" target="_blank">Liên hệ góp ý</a>
+                </li>
+                <li>
+                    <a title="Hotline" href="tel:0918033133" rel="nofollow" class="textunset">Hotline: 0918.033.133</a>
+                </li>
+            </ul>
+        </div>
+        <div class="bannerballoon">
+            
+
+
+
+<zone id="jmwv6lsm"></zone>
+<script>
+    if (is_iPadScreen == null)
+
+        arfAsync.push("jmwv6lsm");
+</script>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</footer>
+
+<div class="wrapPopup" id="infoForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Thông tin của bạn</p>
+                    <a href="javascript:void(0);" title="Đóng" class="closepp" onclick="comment.closePopup('infoForm')"></a>
+                </header>
+                <div class="content">
+                    <div class="frm-1" id="frm-comment">
+                        <div class="form-group">
+                            <span>Email</span>
+                            <input id="cm-email" name="cm-email" type="email" class="form-control" placeholder="E-mail (*)">
+                            <p class="warning email-warning1">Vui lòng nhập Email</p>
+                            <p class="warning email-warning2">Email Không đúng định dạng</p>
+                        </div>
+                        <div class="form-group">
+                            <span>Họ và tên</span>
+                            <input id="cm-name" type="text" name="cm-name" class="form-control" placeholder="Họ &amp; tên (*)">
+                            <p class="warning name-warning">Vui lòng nhập Họ &amp; Tên.</p>
+                        </div>
+                        
+
+                        <div class="form-group clboth">
+                            <button type="button" id="btn-info" name="btn-info" class="btn btn-danger">Gửi bình luận</button>
+                            <input type="hidden" id="cm-content" name="cm-content" value="" />
+                            
+                            <input type="hidden" id="cm-pid" name="cm-pid" value="0" />
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<div class="wrapPopup" id="errorForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Thông báo</p>
+                    <a href="javascript:;" title="Đóng" class="closepp" onclick="closePopup('errorForm')"></a>
+                </header>
+                <div class="content">
+                    Bạn vui lòng đợi <span class="timeout">0</span>s để tiếp tục comment
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<div class="wrapPopup" id="successForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Thông báo</p>
+                    <a href="javascript:;" title="Đóng" class="closepp" onclick="comment.closePopup('successForm')"></a>
+                </header>
+                <div class="content">
+                    Bình luận được gửi thành công
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<div class="wrapPopup" id="loginForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <div class="content">
+                    <div class="frm-1" id="frm-login">
+                        <ul class="nav nav-tabs">
+                            <li class="nav-item section-guest">
+                                <a class="nav-link" data-item="tab-guest" href="javascript:;" rel="nofollow">Bình luận</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" data-item="tab-login" href="javascript:;" rel="nofollow"><i class="icon-reg-user"></i>Đăng nhập</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-item="tab-register" href="javascript:;" rel="nofollow"><i class="icon-reg-user"></i>Đăng ký</a>
+                            </li>
+                            <li class="nav-close">
+                                <a href="javascript:void(0);" title="Đóng" class="closepp" onclick="comment.closePopup('loginForm')">Đóng lại x</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content tab-guest" id="tabGuest">
+                            <div class="form-group guest-desc">
+                                <div class="guest-icon"><i class="icon-guest"></i></div>
+                                <span class="guest-desc-header">Thông tin bạn đọc</span>
+                                <span class="guest-desc-content">Thông tin của bạn đọc sẽ được bảo mật an toàn và chỉ sử dụng trong trường hợp toà soạn cần thiết để liên lạc với bạn.</span>
+                            </div>
+                            <div class="form-group">
+                                <input id="cm-guestname" type="text" name="rg-name" class="form-control" data-elementtype="name" data-input="cm-guestname" placeholder="Tên hiển thị">
+                                <p class="warning name-warning">Vui lòng nhập Tên hiển thị</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="cm-guestemail" name="rg-email" type="email" class="form-control" data-elementtype="email" data-input="cm-guestemail" placeholder="Email">
+                                <p class="warning email-warning1">Vui lòng nhập Email</p>
+                                <p class="warning email-warning2">Email Không đúng định dạng</p>
+                            </div>
+                            <div class="form-group">
+                                
+                                <div id="cm-recaptcha" class="g-recaptcha" data-sitekey="6Lc4B5cUAAAAABTaoFOfZRnC2aPkXYAWoVuP1NIS" data-size="invisible"></div>
+                                <input id="cm-guesstcaptcha" type="hidden" data-input="cm-guestcaptcha" />
+                            </div>
+                            <div class="form-group mgt8 clearfix">
+                                <button type="button" id="btn-send-comment" name="btn-send-comment" class="btn btn-secondary" data-elementtype="send-comment" data-act="guestsend">Gửi bình luận</button>
+                                <button type="button" id="btn-close-comment" name="btn-close-comment" class="btn btn-secondary" onclick="comment.closePopup('loginForm')">Đóng</button>
+                            </div>
+                            <div class="form-group guest-bottom">
+                                <button type="button" id="btn-focus-login" onclick="tuoitreId.activeTabLogin()" class="btn btn-link">Bạn đã có tài khoản? <b>Đăng nhập</b> ngay</button>
+                            </div>
+                        </div>
+                        <div class="tab-content tab-login active" id="tabLogin">
+                            <div class="form-group">
+                                <input id="lg-email" name="lg-email" type="email" class="form-control" placeholder="Email đăng nhập" data-elementtype="email">
+                                <p class="warning email-warning1">Vui lòng nhập Email</p>
+                                <p class="warning email-warning2">Email Không đúng định dạng</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="lg-password" type="password" name="lg-password" class="form-control" data-elementtype="password" placeholder="Mật khẩu">
+                                <p class="warning password-warning">Mật khẩu không đúng.</p>
+                                <p class="warning invalid_info">Thông tin đăng nhập không đúng.</p>
+                                <p class="warning blocked-warning">Tài khoản bị khóa, vui lòng liên hệ quản trị viên.</p>
+                                <p class="warning common-warning">Có lỗi phát sinh. Vui lòng thử lại sau.</p>
+                            </div>
+                            <div class="form-group">
+                                <a href="http://id.tuoitre.vn/quen-mat-khau.htm" target="_blank" rel="nofollow" id="btn-lost-password" class="btn btn-link">Quên mật khẩu?</a>
+                                <button type="button" id="btn-login" name="btn-login" class="btn btn-secondary" data-elementtype="login">Đăng nhập</button>
+                            </div>
+                            <div class="form-group mgt8 content-social">
+                                <span>Hoặc đăng nhập bằng:</span>
+                                <button type="button" class="btn btn-danger btn-google-plus" data-elementtype="logingoogle"></button>
+                                <button type="button" class="btn btn-primary btn-facebook" data-elementtype="loginfb"></button>
+                            </div>
+                            
+                        </div>
+                        <div class="tab-content tab-register" id="tabRegister">
+                            <div class="form-group">
+                                <input id="rg-name" type="text" name="rg-name" class="form-control" data-elementtype="name" placeholder="Tên của bạn">
+                                <p class="warning name-warning">Vui lòng nhập Tên của bạn.</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="rg-email" name="rg-email" type="email" class="form-control" data-elementtype="email" placeholder="Email">
+                                <p class="warning email-warning1">Vui lòng nhập Email</p>
+                                <p class="warning email-warning2">Email Không đúng định dạng</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="rg-password" type="password" name="rg-password" class="form-control" data-elementtype="password" placeholder="Mật khẩu">
+                                <p class="warning password-warning">Mật khẩu phải có ít nhất 6 kí tự.</p>
+                            </div>
+                            <div class="form-group">
+                                
+                                <input id="rg-re-password" type="password" name="rg-re-password" class="form-control" data-elementtype="repassword" placeholder="Xác nhận mật khẩu">
+                                <p class="warning repassword-warning">Xác nhận mật khẩu không khớp.</p>
+                            </div>
+                            <div class="form-group">
+                                
+                                <input id="rg-re-captcha" class="form-control" data-elementtype="captcha" placeholder="Mã xác nhận">
+                                <img id="img-captcha" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="captcha" />
+                                <a id="refresh-captcha">Lấy mã mới</a>
+                                <p class="warning captcha-warning">Mã xác nhận không đúng.</p>
+                                <p class="warning common-warning">Có lỗi phát sinh. Vui lòng thử lại sau.</p>
+                            </div>
+                            <div class="form-group">
+                                <button type="button" id="btn-notify-register" class="btn btn-link">Khi bấm "Đăng ký" đồng thời bạn đã đồng ý với <b>điều khoản</b> của toà soạn</button>
+                            </div>
+                            <div class="form-group clearfix">
+                                <button type="button" id="btn-register" name="btn-login" class="btn btn-secondary" data-elementtype="register">Đăng ký</button>
+                            </div>
+                            <div class="form-group mgt8 content-social">
+                                <span>Hoặc đăng ký bằng:</span>
+                                <button type="button" class="btn btn-danger btn-google-plus" data-elementtype="logingoogle"></button>
+                                <button type="button" class="btn btn-primary btn-facebook" data-elementtype="loginfb"></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<style>
+    #vote-re-captcha {
+        float: left;
+        width: 100px;
+        margin-right: 10px;
+    }
+
+    #vote-img-captcha {
+        width: 100px;
+        height: 34px;
+        cursor: pointer;
+        float: left;
+        margin-right: 10px;
+    }
+
+    #vote-refresh-captcha {
+        float: left;
+        font-size: 12px;
+        line-height: 34px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    #btn-send-vote {
+        width: 125px;
+        font-family: Roboto;
+        font-size: 14px;
+        float: right;
+    }
+
+    #voteCatpchaForm .popup {
+        width: 375px;
+    }
+
+    .nav-link {
+        padding: 12px 24px;
+    }
+
+    /*.grecaptcha-badge {
+        display: none !important;
+    }*/
+
+    #voteCatpchaForm header {
+        position: relative;
+    }
+
+    #voteCatpchaForm .closepp {
+        font-size: 16px;
+        font-family: Roboto;
+        color: #220;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }
+</style>
+<script>
+    (runinit = window.runinit || []).push(function () {
+        $("#vote-img-captcha").click(function () {
+            $("#vote-img-captcha").attr("src", appSettings.apiDomain + "/captcha.htm?time=" + new Date().getTime());
+        });
+        $("#vote-refresh-captcha").click(function () {
+            $("#vote-img-captcha").attr("src", appSettings.apiDomain + "/captcha.htm?time=" + new Date().getTime());
+        });
+    });
+
+    function openPopupCaptcha(id, element, callback) {
+        $('#voteCatpchaForm .captcha-warning').hide();
+        $("#" + id).fadeIn(100);
+
+        $("#vote-img-captcha").attr("src", appSettings.apiDomain + "/captcha.htm?time=" + new Date().getTime());
+        $('#btn-send-vote').off("click").click(function (e) {
+            if ($('#vote-re-captcha').val() == '') {
+                $('#voteCatpchaForm .captcha-warning').show();
+                return;
+            }
+
+            if (typeof callback == "function") {
+                callback(element);
+            }
+        });
+    }
+</script>
+<div class="wrapPopup" id="voteCatpchaForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Nhập mã xác nhận</p>
+                    <a href="javascript:;" title="Đóng" class="closepp" onclick="comment.closePopup('voteCatpchaForm')">Đóng lại</a>
+                </header>
+                <div class="content">
+                    <div class="form-group">
+                        <input id="vote-re-captcha" class="form-control" data-elementtype="captcha">
+                        <img id="vote-img-captcha" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="captcha" />
+                        <a id="vote-refresh-captcha">Lấy mã mới</a>
+                        <p class="warning captcha-warning">Mã xác nhận không đúng.</p>
+                        <p class="warning common-warning">Có lỗi phát sinh. Vui lòng thử lại sau.</p>
+                    </div>
+                    <div class="form-group clearfix">
+                        <button type="button" id="btn-send-vote" class="btn btn-secondary">Hoàn tất</button>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+
+<style>
+    .footer-end .float-r{width:auto; margin-left:0;}
+    .float-r li:last-child{padding-right:0;}
+</style>
+            </div>
+        </div>
+        
+    
+    
+    <script>
+        (runinit = window.runinit || []).push(function () {
+            comment.init();
+        });
+    </script>
+</body>
+</html>
+</asp:placeholder>
+<!--/--><!--u: 6/20/2020 1:39:44 PM-->

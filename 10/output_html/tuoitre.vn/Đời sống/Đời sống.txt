@@ -1,0 +1,1729 @@
+
+    <!DOCTYPE html>
+    <html id="mainHtml" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+    <head prefix="og:&#32;http://ogp.me/ns#&#32;fb:&#32;http://ogp.me/ns/fb#&#32;website:&#32;http://ogp.me/ns/website#"><link rel="dns-prefetch" href="https://cdn.tuoitre.vn" /><link rel="dns-prefetch" href="https://cdn1.tuoitre.vn" /><link rel="dns-prefetch" href="https://statictuoitre.mediacdn.vn" /><title>Đời sống - Tin tức, tin nóng, đọc báo điện tử - Tuổi Trẻ Online</title><meta name="keywords" content="Đời sống, tin tức, báo tuổi trẻ, tuổi trẻ online, báo, tin hot, báo điện tử, tin nhanh, đọc báo, báo 24h, tuổi trẻ, tin tức mới nhất, tin tức trong ngày" />
+<meta name="news_keywords" content="Đời sống, tin tức, báo tuổi trẻ, tuổi trẻ online, báo, tin hot, báo điện tử, tin nhanh, đọc báo, báo 24h, tuổi trẻ, tin tức mới nhất, tin tức trong ngày" />
+<meta name="description" content="Đời sống - Tin tức nhanh - mới - nóng nhất đang diễn ra về: kinh tế, chính trị, xã hội, thế giới, giáo dục, thể thao, văn hóa, giải trí, công nghệ." />
+<meta id="metaRobots" name="robots" content="index,follow,all" /><meta name="viewport" content="width=device-width,&#32;initial-scale=1.0,&#32;maximum-scale=1.0,&#32;user-scalable=1" />
+
+<meta name="author" content="TUOI TRE ONLINE" />
+<meta name="copyright" content="Copyright © 2020 by TUOITRE.VN" />
+<meta name="RATING" content="GENERAL" />
+<meta name="GENERATOR" content="TUOI TRE ONLINE" />
+
+<meta name="google-site-verification" content="y8PMKPH-UzpVdjHXzQjJ4oUEPfqLSWZl_EyOz5P02vc" />
+        <!-- Open Graph data -->
+        <meta property="og:type" content="website" />
+<meta property="og:site_name" content="TUOI TRE ONLINE" />
+<meta property="og:title" content="Đời sống - Tin tức, tin nóng, đọc báo điện tử - Tuổi Trẻ Online" />
+<meta property="og:url" content="https://tuoitre.vn/can-biet/doi-song.htm" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="Đời sống - Tin tức nhanh - mới - nóng nhất đang diễn ra về: kinh tế, chính trị, xã hội, thế giới, giáo dục, thể thao, văn hóa, giải trí, công nghệ." />
+<meta property="article:tag" content="tin tức, báo tuổi trẻ, tuổi trẻ online, báo, tin hot, báo điện tử, tin nhanh, đọc báo, báo 24h, tuổi trẻ, tin tức mới nhất, tin tức trong ngày" />
+<meta content="tin tức, báo tuổi trẻ, tuổi trẻ online, báo, tin hot, báo điện tử, tin nhanh, đọc báo, báo 24h, tuổi trẻ, tin tức mới nhất, tin tức trong ngày" />
+<meta property="article:author" content="baotuoitre" />
+
+        <!--end Open Graph data -->
+        <meta property="fb:app_id" content="787960244659509" /><meta name="distribution" content="Global" /><meta property="fb:pages" content="214610578564918" /><meta property="fb:pages" content="131539760743" /><meta name="msvalidate.01" content="E52E0AECFFC89B1959FC75D368D4B11E" /><link rel="shortcut&#32;icon" href="https://statictuoitre.mediacdn.vn/web_images/favicon.ico" type="image/x-icon" /><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><meta http-equiv="Content-Language" content="vi" /><meta name="Language" content="vi" /><meta http-equiv="REFRESH" content="1800" /><meta name="REVISIT-AFTER" content="1&#32;DAYS" /><script type="text/javascript">var _ADM_Channel = '%2Fcan-biet%2Fdoi-song%2F';</script><script>dataLayer=[{'pageCategory':'/can-biet/doi-song/'}];</script>
+<link rel="stylesheet" type="text/css" href="https://statictuoitre.mediacdn.vn/web_css/font.2017.11.28.1.min.css" />
+
+<script type="text/javascript">
+    var appSettings = {
+        domain: "https://tuoitre.vn",        
+        apiDomain: "https://s5.tuoitre.vn",
+        ajaxDomain: "https://s5.tuoitre.vn",
+        idDomain: "https://id.tuoitre.vn",
+        urlJsId:"https://statictuoitre.mediacdn.vn/web_js/kcb.plugin.min.20190520.1.js",
+        
+        sharefbApiDomain:"https://sharefb.cnnd.vn",
+        videoplayer:"https://vcplayer.mediacdn.vn",
+        imageStorage:"https://cdn.tuoitre.vn",
+        videoImageDomain: "https://video-thumbs.tuoitre.vn",
+        domain_TVO: "https://tv.tuoitre.vn",
+        playerSecureToken: "L3NlY3VyZS92ZXJpZnkveHZxcmNhZGhlYmZpMHY1dm5zM2Ywd3d3a3Y2MDdkMDgvMTAwMjI1L2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUp5WldZaU9pSWlMQ0poY0hCclpYa2lPaUo0ZG5GeVkyRmthR1ZpWm1rd2RqVjJibk16WmpCM2QzZHJkall3TjJRd09DSXNJbkJzWVhsbGNpSTZJakV3TURJeU5TSXNJbWxuYm05eVpVVjRjR2x5WVhScGIyNGlPblJ5ZFdVc0ltbGhkQ0k2TVRVek9UVTNNVEE1TVN3aVpYaHdJam94TlRNNU5UY3hNakV4ZlEuVVZUWUxLNkROcjF1TG9vMDYzNVJ2TXNpeU1wUFJvYVJCa0tva3VhWC03OA=="
+        
+        
+    };
+</script>
+
+<!-- adm tracking -->
+<script async type="text/javascript" src="//media1.admicro.vn/core/adm_tracking.js"></script>
+
+<!-- Google Analytics -->
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-KFJP3N');</script>
+
+
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+
+   
+
+
+        <!--AdAsia-->
+        
+        <!--End AdAsia-->
+        
+    
+
+
+
+
+
+<link href="https://static.mediacdn.vn/tuoitre/web_css/tuoitre.list.25022020v1.min.css" rel="stylesheet" />
+<style>
+.bread-crumbs ul li {
+    margin-right: 14px;
+    margin-top: 8px;
+}
+</style>
+
+
+
+
+<script src="https://static.mediacdn.vn/tuoitre/web_js/tuoitre.list.31102019v1.min.js"></script>
+
+    
+<link rel="stylesheet" type="text/css" href="https://quangcao.tuoitre.vn/static/js/cms_ads.css" />
+<script async type="text/javascript" src="//quangcao.tuoitre.vn/static/js/cms_ads.js"></script>
+
+<script>
+    var arfAsync = arfAsync || [];
+</script>
+
+<script async src="https://static.amcdn.vn/tka/cdn.js" type="text/javascript"></script>
+<script id="arf-core-js" onerror="window.arferrorload=true;" src="//media1.admicro.vn/cms/Arf.min.js" async></script>
+
+<script>
+    var is_iPadScreen = navigator.userAgent.match(/iPad/i);
+    var widthScreen;
+    (runinit = window.runinit || []).push(function () {
+        widthScreen = $(window).width();
+    });
+
+</script><link rel="canonical" href="https://tuoitre.vn/can-biet/doi-song.htm" /></head>
+    <body class="">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFJP3N" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        
+            <div id="admWrapsite">
+                <div class="wapper">
+                    
+
+
+
+<header>
+    <div class="header-top">
+        <div class="w980">
+            <ul>
+                <li class="fl"><a title="Tuổi trẻ TV" href="https://tv.tuoitre.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTTV.png" alt="logo tuổi trẻ TV" style="width: 80px; height: 26px;" /></a></li>
+                <li class="fl"><a title="Tuổi Trẻ cuối tuần" href="https://cuoituan.tuoitre.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTCT.png" alt="logo tuổi trẻ cuối tuần" style="width: 80px; height: 26px;" /></a></li>
+                <li class="fl"><a title="Tuổi Trẻ News" href="https://tuoitrenews.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTNews.png" alt="logo tuổi trẻ news" style="width: 80px; height: 26px;" /></a></li>
+                <li class="fl logo-ttc"><a title="Tuổi Trẻ Cười" href="https://cuoi.tuoitre.vn/" rel="nofollow" target="_blank">
+                    <img src="https://static.mediacdn.vn/thumb_w/75/tuoitre/web_images/logo_tuoitrecuoi-01.png" alt="Tuổi Trẻ Cười" /></a></li>
+                <li class="fr pos-rlt iconhumman hidden tto-id-info">
+                    <a title="Tên đăng nhập" href="javascript:;" rel="nofollow" class="textunset donelogin tto-id-username-a">
+                        <img src="https://static.mediacdn.vn/zoom/15_15/tuoitre/web_images/tto_default_avatar.png" class="img14x14 fl tto-id-useravatar" />
+                        <span class="tto-id-username"></span></a>
+
+                    <div class="expandMenu" style="display: none">
+                        <ul class="information-humman">
+                            <li><a class="news-save active showandhide" target="_blank" href="javascript:void(0)" title="" rel="nofollow">Tin đã lưu</a></li>
+                            <li><a class="comment-setup showandhide comment" target="_blank" href="javascript:void(0)" title="" rel="nofollow">Bình luận của bạn</a></li>
+                            
+                            <li><a class="comment-setup showandhide setup" href="javascript:void(0)" target="_blank" title="" rel="nofollow">Cài đặt tài khoản</a></li>
+                            <li><a href="javascript:void(0)" title="Đăng xuất" class="logout" rel="nofollow">Đăng xuất</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="fr tto-id-login">
+                    <a title="Đăng nhập" href="javascript:;" onclick="openPopup('loginForm','tab-login')" rel="nofollow" class="textunset loginlogout fl">Đăng nhập&nbsp;|</a>
+                    <a title="Đăng ký" href="javascript:;" onclick="openPopup('loginForm','tab-register')" rel="nofollow" class="textunset fl">&nbsp;Đăng ký</a>
+                </li>
+                
+                <li class="fr"><a title="Liên hệ Quảng cáo" href="https://quangcao.tuoitre.vn/" rel="nofollow" target="_blank" class="textunset adver">Quảng cáo</a></li>
+                <li class="fr"><a href="http://pay.tuoitre.vn/dat-bao" target="_blank" rel="nofollow" class="textunset setnewspaper" title="Đặt báo Tuổi Trẻ">Đặt báo</a></li>
+                <li class="fr"><a title="Hotline" href="tel:0918033133" rel="nofollow" class="textunset hotline">Hotline: 0918.033.133</a></li>
+            </ul>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="header-middle">
+        <div class="menu-category" style="display: none;">
+            <ul class="menu-ul">
+                <li class="menu-li1"><a class="hidearrow" title="Media" href="/media.htm" rel="nofollow" target="_blank">Media</a></li>
+                <li class="menu-li1"><a title="Thời sự" href="/thoi-su.htm" data-id="3">Thời sự</a></li>
+                <li class="menu-li1"><a title="Thế giới" href="/the-gioi.htm" data-id="2">Thế giới</a></li>
+                <li class="menu-li1"><a title="Pháp luật" href="/phap-luat.htm" data-id="6">Pháp luật</a></li>
+                <li class="menu-li1"><a title="Kinh doanh" href="/kinh-doanh.htm" data-id="11">Kinh doanh</a></li>
+                <li class="menu-li1"><a title="Công nghệ" rel="nofollow" target="_blank" href="https://congnghe.tuoitre.vn" data-id="200029">Công nghệ</a></li>
+                <li class="menu-li1"><a title="Xe" href="/xe.htm" data-id="659">Xe</a></li>
+                <li class="menu-li1"><a title="Du lịch" rel="nofollow" target="_blank" href="https://dulich.tuoitre.vn" data-id="100">Du lịch</a></li>
+                <li class="menu-li1"><a title="Nhịp sống trẻ" href="/nhip-song-tre.htm" data-id="7">Nhịp sống trẻ</a></li>
+                <li class="menu-li1"><a title="Văn hóa" href="/van-hoa.htm" data-id="200017">Văn hóa</a></li>
+                <li class="menu-li1"><a title="Giải trí" href="/giai-tri.htm" data-id="10">Giải trí</a></li>
+                <li class="menu-li1"><a title="Thể thao" rel="nofollow" target="_blank" href="https://thethao.tuoitre.vn" data-id="1209">Thể thao</a></li>
+                <li class="menu-li1"><a title="Giáo dục" href="/giao-duc.htm" data-id="13">Giáo dục</a></li>
+                <li class="menu-li1"><a title="Khoa học" href="/khoa-hoc.htm" data-id="661">Khoa học</a></li>
+                <li class="menu-li1"><a title="Sức khỏe" href="/suc-khoe.htm" data-id="12">Sức khỏe</a></li>
+                <li class="menu-li1"><a title="Giả-thật" href="/gia-that.htm" data-id="200015">Giả-thật</a></li>
+                <li class="menu-li1"><a href="/ban-doc-lam-bao.htm" title="Bạn đọc" data-id="118">Bạn đọc</a></li>
+            </ul>
+        </div>
+        <div class="w980">
+            
+            <a href='/' title='Tin tức, tin nóng, đọc báo điện tử - Tuổi Trẻ Online' class='logo-header fl'></a>
+            
+            <div title="Menu Ipad" rel="nofollow" class="menu-ipad">
+                <div style="float: right;">
+                    <span class="line1 linemn"></span>
+                    <span class="line2 linemn"></span>
+                    <span class="line3 linemn"></span>
+                </div>
+            </div>
+            <a href="tel:0918.033.133" title="Phone" class="callbyphone"></a>
+            <div class="frm-search fr" id="search-frm">
+                <input class="txt-search" type="text" readonly onfocus="this.removeAttribute('readonly');" placeholder="Tìm kiếm tin tức">
+                <a class="icon icon-search btn-search sprite16" href="javascript:void" title="Tìm kiếm" rel="nofollow">&nbsp;</a>
+            </div>
+            <ul class="list-cate fr">
+                <li>
+                    <a href="https://www.youtube.com/channel/UC47WI-kZXFf0H_f7pvaNCEQ" target="_blank" rel="nofollow" title="YOUTUBE BÁO TUỔI TRẺ">YOUTUBE BÁO TUỔI TRẺ</a>
+                </li>
+                <li>
+                    <a href="/giao-duc/tuyen-sinh.htm" title="TUYỂN SINH">TUYỂN SINH</a>
+                </li>
+                <li>
+                    <a href="https://nhadat.tuoitre.vn" target="_blank" rel="nofollow" title="NHÀ ĐẤT">NHÀ ĐẤT</a>
+                </li>
+                <li>
+                    <a href="https://tuoitre.vn/can-biet.htm" title="CẦN BIẾT">CẦN BIẾT</a>
+                </li>
+                
+            </ul>
+
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="banner-top w980">
+        
+
+
+<zone id="jmg15j90"></zone>
+<script>
+          arfAsync.push("jmg15j90");
+</script>
+    </div>
+    <div class="header-bottom">
+        <div class="w980">
+            <ul class="menu-ul">
+                <li class="menu-li"><a class="iconhome hidearrow" title="Trang chủ" href="/"></a></li>
+                <li class="menu-li"><a class="hidearrow" title="Media" href="/media.htm">Media</a></li>
+                <li class="menu-li"><a title="Thời sự" href="/thoi-su.htm" data-id="3">Thời sự</a></li>
+                <li class="menu-li"><a title="Thế giới" href="/the-gioi.htm" data-id="2">Thế giới</a></li>
+                <li class="menu-li"><a title="Pháp luật" href="/phap-luat.htm" data-id="6">Pháp luật</a></li>
+                <li class="menu-li"><a title="Kinh doanh" href="/kinh-doanh.htm" data-id="11">Kinh doanh</a></li>
+                <li class="menu-li"><a title="Công nghệ" rel="nofollow" target="_blank" href="https://congnghe.tuoitre.vn" data-id="200029">Công nghệ</a></li>
+                <li class="menu-li"><a title="Xe" href="/xe.htm" data-id="659">Xe</a></li>
+                <li class="menu-li"><a title="Du lịch" rel="nofollow" target="_blank" href="https://dulich.tuoitre.vn" data-id="100">Du lịch</a></li>
+                <li class="menu-li"><a title="Nhịp sống trẻ" href="/nhip-song-tre.htm" data-id="7">Nhịp sống trẻ</a></li>
+                <li class="menu-li"><a title="Văn hóa" href="/van-hoa.htm" data-id="200017">Văn hóa</a></li>
+                <li class="menu-li"><a title="Giải trí" href="/giai-tri.htm" data-id="10">Giải trí</a></li>
+                <li class="menu-li"><a title="Thể thao" rel="nofollow" target="_blank" href="https://thethao.tuoitre.vn" data-id="1209">Thể thao</a></li>
+                <li class="menu-li"><a title="Giáo dục" href="/giao-duc.htm" data-id="13">Giáo dục</a></li>
+                <li class="menu-li"><a title="Khoa học" href="/khoa-hoc.htm" data-id="661">Khoa học</a></li>
+                <li class="menu-li"><a title="Sức khỏe" href="/suc-khoe.htm" data-id="12">Sức khỏe</a></li>
+                <li class="menu-li"><a title="Giả-thật" href="/gia-that.htm" data-id="200015">Giả-thật</a></li>
+                <li class="menu-li"><a href="/ban-doc-lam-bao.htm" title="Bạn đọc" data-id="118">Bạn đọc</a></li>
+            </ul>
+        </div>
+        <div class="menu-expand">
+            <div class="menu-expand-wrapper clearfix">
+                <div class="w980 mgt15">
+                    <div class="menu-expand-left fl">
+                        <a class="menu-expand-title" href="javascript:;" title="Vào chuyên mục">Vào chuyên mục</a>
+                        <ul class="menu-expand-ul clearfix">
+                            <li class="menu-expand-li active" data-item="lastest">
+                                <a href="javascript:;" rel="nofollow" class="menu-expand-li-title" title="Mới nhất">Mới nhất</a>
+                            </li>
+                            <li class="menu-expand-li" data-item="focus">
+                                <a href="javascript:;" rel="nofollow" class="menu-expand-li-title" title="Tiêu điểm">Tiêu điểm</a>
+                            </li>
+                            <li class="menu-expand-li" data-item="mostview">
+                                <a href="javascript:;" rel="nofollow" class="menu-expand-li-title" title="Xem nhiều">Xem nhiều</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="menu-expand-right fr">
+                        <ul class="list-news lastest active">
+                        </ul>
+                        <ul class="list-news focus">
+                        </ul>
+                        <ul class="list-news mostview">
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="arrow"></div>
+    </div>
+
+    <script>
+        (runinit = window.runinit || []).push(function () {
+            hoverMenuDoneLogin();
+            $('.menu-ipad').click(function () {
+                $(this).toggleClass('active');
+                $(this).closest(".header-middle").find(".menu-category").toggleClass('active');
+            });
+        });
+    </script>
+</header>
+
+                    <section id="content">
+                        
+    <div class="content w980 list doi-song can-biet">
+        <div class="title-content clearfix">
+            <div class="content-left fl">
+                
+<div class="bread-crumbs fl">
+    <ul>
+        <li class="fl">
+            
+            <a href="/can-biet.htm" title="C&#7847;n bi&#7871;t">Cần biết</a>
+            
+        </li>
+        
+                <li class="fl" data-zoneid="735">
+                    
+                    
+                    <a href="/can-biet/thi-truong-247.htm"  title="Thị trường 247">Thị trường 247</a>
+                    
+                </li>
+            
+                <li class="fl" data-zoneid="736">
+                    
+                    
+                    <a href="/can-biet/hoc-hanh.htm"  title="Học hành">Học hành</a>
+                    
+                </li>
+            
+                <li class="fl" data-zoneid="738">
+                    
+                    
+                    <a href="/can-biet/dia-oc.htm"  title="Địa ốc">Địa ốc</a>
+                    
+                </li>
+            
+                <li class="fl" data-zoneid="737">
+                    
+                    
+                    <a href="/can-biet/giai-tri-cb.htm"  title="Giải trí">Giải trí</a>
+                    
+                </li>
+            
+                <li class="fl" data-zoneid="740">
+                    <h1>
+                    
+                    <a href="/can-biet/doi-song.htm"  title="Đời sống">Đời sống</a>
+                    </h1>
+                </li>
+            
+                <li class="fl" data-zoneid="741">
+                    
+                    
+                    <a href="/can-biet/san-pham.htm"  title="Sản phẩm">Sản phẩm</a>
+                    
+                </li>
+            
+    </ul>
+</div>
+            </div>
+            <p class="title-time-home fr">
+                Thứ 6, ngày 19 tháng 6 năm 2020
+            </p>
+        </div>
+        <div class="title-content clearfix">
+            <div class="content-left fl">
+                
+<ul class="trending"  box-type="trendingboxhome" data-value="videoposition-334-4" data-count="3">
+    
+            <li><a href="/ky-hop-9-quoc-hoi-khoa-xiv-e624.htm" title="Kỳ họp 9 Quốc hội khóa XIV">Kỳ họp 9 Quốc hội khóa XIV</a></li>            
+        
+            <li><a href="/tu-van-tuyen-sinh-huong-nghiep-2020-e631.htm" title="Tư vấn tuyển sinh - hướng nghiệp 2020">Tư vấn tuyển sinh - hướng nghiệp 2020</a></li>            
+        
+            <li><a href="/ngay-khong-tien-mat-2020-e626.htm" title="Ngày không tiền mặt 2020">Ngày không tiền mặt 2020</a></li>            
+        
+    
+</ul>
+
+            </div>
+        </div>
+        
+
+
+
+
+<div class="list-top clearfix mgt8">
+    <div class="w664 fl">
+        
+                <div class="focus-top clearfix" data-boxtype="zonenewsposition" data-order="1" box-type="newspositionboxhome" data-value="homenewsposition-740-3" data-count="1">
+                    <div class="fl focus-top-box-left">
+                        <a   class="img324x202 pos-rlt" href="/su-dung-radar-quet-xuyen-dat-phat-hien-mot-thanh-pho-co-thoi-la-ma-20200610140356034.htm" title="S&#7917; d&#7909;ng radar quét xuyên đ&#7845;t, phát hi&#7879;n m&#7897;t thành ph&#7889; c&#7893; th&#7901;i La Mã" data-objecttype="1 " >
+                            <img class="img324x202" src="https://cdn.tuoitre.vn/zoom/392_245/2020/6/10/photo-1-15917723841011356344673-crop-1591772468749779593269.jpg" data-src="https://cdn.tuoitre.vn/zoom/392_245/2020/6/10/photo-1-15917723841011356344673-crop-1591772468749779593269.jpg" alt="S&#7917; d&#7909;ng radar quét xuyên đ&#7845;t, phát hi&#7879;n m&#7897;t thành ph&#7889; c&#7893; th&#7901;i La Mã" />
+                        </a>
+                    </div>
+                    <div class="fr focus-top-box-right">
+                        <a class='focus-category' href='/can-biet.htm' title='C&#7847;n bi&#7871;t'>Cần biết</a>
+                        <h2>
+                            <a data-displayinslide="0" class="focus-top-title" href="/su-dung-radar-quet-xuyen-dat-phat-hien-mot-thanh-pho-co-thoi-la-ma-20200610140356034.htm" title="S&#7917; d&#7909;ng radar quét xuyên đ&#7845;t, phát hi&#7879;n m&#7897;t thành ph&#7889; c&#7893; th&#7901;i La Mã" data-linktype="newsdetail" data-newsid="20200610140356034"  data-id="20200610140356034" data-comment="20200610140356034"  data-objecttype="1">Sử dụng radar quét xuyên đất, phát hiện một thành phố cổ thời La Mã</a>
+                        </h2>
+                        <p class="sapo need-trimline" rel="3">Sự nguy nga của thành phố Falerii Novi bị vùi lấp từ lâu tại khu vực thung lũng Sông Tiber đã 'lộ diện' mà không cần phải lật mở bất kỳ một viên gạch nào.</p>
+                        <div class="focus-top-box-relation"><h3><a class='focus-top-box-relation-title fl ' href='https://tv.tuoitre.vn/nhat-mo-tram-radar-gan-quan-dao-senkaku-dieu-ngu-1074934.htm' title='&#8203;Nh&#7853;t m&#7903; tr&#7841;m radar g&#7847;n qu&#7847;n đ&#7843;o Senkaku/Đi&#7871;u Ngư' class='name-title' target='_blank' rel='nofollow'>​Nhật mở trạm radar gần quần đảo Senkaku/Điếu Ngư</a></h3><h3><a class='focus-top-box-relation-title fl ' href='https://tv.tuoitre.vn/giai-ma-su-truong-ton-cua-de-bien-thoi-la-ma-1343539.htm' title='&#8203;Gi&#7843;i mã s&#7921; trư&#7901;ng t&#7891;n c&#7911;a đê bi&#7875;n th&#7901;i La Mã' class='name-title' target='_blank' rel='nofollow'>​Giải mã sự trường tồn của đê biển thời La Mã</a></h3></div>
+                    </div>
+                </div>
+            
+        
+        
+                <span class="line mgt8"></span>
+                <div class="focus-bottom mgt10 clearfix"  box-type="newspositionboxhome" data-value="homenewsposition-740-3" data-count="5">
+                    <ul class="focus-bottom-ul">
+            
+                <li class="focus-bottom-li" data-boxtype="zonenewsposition" data-newsposition="zonenewspositionbottom" data-order="7">
+                    <a href="/nha-may-elipsport-chi-10-trieu-usd-tap-trung-san-xuat-20200608142357695.htm" title="Nhà máy Elipsport chi 10 tri&#7879;u USD t&#7853;p trung s&#7843;n xu&#7845;t" class="img124x77 pos-rlt" data-displayinslide="0" data-comment="20200608142357695"  data-objecttype="1">
+                        <img class="img124x77" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/8/hinh-5-1591601501858171223937-crop-15916015173191373255453.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/8/hinh-5-1591601501858171223937-crop-15916015173191373255453.jpg" alt="Nhà máy Elipsport chi 10 tri&#7879;u USD t&#7853;p trung s&#7843;n xu&#7845;t" />
+                    </a>
+                    <h2>
+                        <a class="focus-middle-title" href="/nha-may-elipsport-chi-10-trieu-usd-tap-trung-san-xuat-20200608142357695.htm" title="Nhà máy Elipsport chi 10 tri&#7879;u USD t&#7853;p trung s&#7843;n xu&#7845;t"  data-linktype="newsdetail" data-newsid="20200608142357695" data-id="20200608142357695" data-objecttype="1">Nhà máy Elipsport chi 10 triệu USD tập trung sản xuất</a>
+                        
+                    </h2>
+                </li>
+            
+                <li class="focus-bottom-li" data-boxtype="zonenewsposition" data-newsposition="zonenewspositionbottom" data-order="8">
+                    <a href="/phat-trien-phuong-phap-dieu-tri-ung-thu-phoi-moi-day-hua-hen-20200610135831849.htm" title="Phát tri&#7875;n phương pháp đi&#7873;u tr&#7883; ung thư ph&#7893;i m&#7899;i đ&#7847;y h&#7913;a h&#7865;n" class="img124x77 pos-rlt" data-displayinslide="0" data-comment="20200610135831849"  data-objecttype="1">
+                        <img class="img124x77" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/10/photo-1-1591772188428547142478-crop-159177224633763591291.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/10/photo-1-1591772188428547142478-crop-159177224633763591291.jpg" alt="Phát tri&#7875;n phương pháp đi&#7873;u tr&#7883; ung thư ph&#7893;i m&#7899;i đ&#7847;y h&#7913;a h&#7865;n" />
+                    </a>
+                    <h2>
+                        <a class="focus-middle-title" href="/phat-trien-phuong-phap-dieu-tri-ung-thu-phoi-moi-day-hua-hen-20200610135831849.htm" title="Phát tri&#7875;n phương pháp đi&#7873;u tr&#7883; ung thư ph&#7893;i m&#7899;i đ&#7847;y h&#7913;a h&#7865;n"  data-linktype="newsdetail" data-newsid="20200610135831849" data-id="20200610135831849" data-objecttype="1">Phát triển phương pháp điều trị ung thư phổi mới đầy hứa hẹn</a>
+                        
+                    </h2>
+                </li>
+            
+                <li class="focus-bottom-li" data-boxtype="zonenewsposition" data-newsposition="zonenewspositionbottom" data-order="9">
+                    <a href="/cong-nghe-dot-pha-giup-lam-sach-nguon-nuoc-tren-toan-cau-20200610135206388.htm" title="Công ngh&#7879; đ&#7897;t phá giúp làm s&#7841;ch ngu&#7891;n nư&#7899;c trên toàn c&#7847;u" class="img124x77 pos-rlt" data-displayinslide="0" data-comment="20200610135206388"  data-objecttype="1">
+                        <img class="img124x77" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/10/photo-1-15917717849461484077430-crop-1591771843156310413332.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/10/photo-1-15917717849461484077430-crop-1591771843156310413332.jpg" alt="Công ngh&#7879; đ&#7897;t phá giúp làm s&#7841;ch ngu&#7891;n nư&#7899;c trên toàn c&#7847;u" />
+                    </a>
+                    <h2>
+                        <a class="focus-middle-title" href="/cong-nghe-dot-pha-giup-lam-sach-nguon-nuoc-tren-toan-cau-20200610135206388.htm" title="Công ngh&#7879; đ&#7897;t phá giúp làm s&#7841;ch ngu&#7891;n nư&#7899;c trên toàn c&#7847;u"  data-linktype="newsdetail" data-newsid="20200610135206388" data-id="20200610135206388" data-objecttype="1">Công nghệ đột phá giúp làm sạch nguồn nước trên toàn cầu</a>
+                        
+                    </h2>
+                </li>
+            
+                <li class="focus-bottom-li" data-boxtype="zonenewsposition" data-newsposition="zonenewspositionbottom" data-order="10">
+                    <a href="/6800-tan-vang-trong-rac-thai-nhat-ban-thoai-mai-san-xuat-huy-chuong-olympic-20200610134830593.htm" title="6.800 t&#7845;n vàng trong rác th&#7843;i, Nh&#7853;t B&#7843;n &#39;tho&#7843;i mái&#39; s&#7843;n xu&#7845;t huy chương Olympic" class="img124x77 pos-rlt" data-displayinslide="0" data-comment="20200610134830593"  data-objecttype="1">
+                        <img class="img124x77" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/10/photo-1-15917715484721542116317-crop-15917716432561486787529.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/10/photo-1-15917715484721542116317-crop-15917716432561486787529.jpg" alt="6.800 t&#7845;n vàng trong rác th&#7843;i, Nh&#7853;t B&#7843;n &#39;tho&#7843;i mái&#39; s&#7843;n xu&#7845;t huy chương Olympic" />
+                    </a>
+                    <h2>
+                        <a class="focus-middle-title" href="/6800-tan-vang-trong-rac-thai-nhat-ban-thoai-mai-san-xuat-huy-chuong-olympic-20200610134830593.htm" title="6.800 t&#7845;n vàng trong rác th&#7843;i, Nh&#7853;t B&#7843;n &#39;tho&#7843;i mái&#39; s&#7843;n xu&#7845;t huy chương Olympic"  data-linktype="newsdetail" data-newsid="20200610134830593" data-id="20200610134830593" data-objecttype="1">6.800 tấn vàng trong rác thải, Nhật Bản 'thoải mái' sản xuất huy chương Olympic</a>
+                        
+                    </h2>
+                </li>
+            
+                <li class="focus-bottom-li" data-boxtype="zonenewsposition" data-newsposition="zonenewspositionbottom" data-order="11">
+                    <a href="/suy-nghi-tieu-cuc-de-dan-den-benh-alzheimer-20200609141157933.htm" title="Suy nghĩ tiêu c&#7921;c d&#7877; d&#7851;n đ&#7871;n b&#7879;nh Alzheimer" class="img124x77 pos-rlt" data-displayinslide="0" data-comment="20200609141157933"  data-objecttype="1">
+                        <img class="img124x77" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/9/photo-1-1591686580276281688779-crop-15916866601861851752264.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/9/photo-1-1591686580276281688779-crop-15916866601861851752264.jpg" alt="Suy nghĩ tiêu c&#7921;c d&#7877; d&#7851;n đ&#7871;n b&#7879;nh Alzheimer" />
+                    </a>
+                    <h2>
+                        <a class="focus-middle-title" href="/suy-nghi-tieu-cuc-de-dan-den-benh-alzheimer-20200609141157933.htm" title="Suy nghĩ tiêu c&#7921;c d&#7877; d&#7851;n đ&#7871;n b&#7879;nh Alzheimer"  data-linktype="newsdetail" data-newsid="20200609141157933" data-id="20200609141157933" data-objecttype="1">Suy nghĩ tiêu cực dễ dẫn đến bệnh Alzheimer</a>
+                        
+                    </h2>
+                </li>
+            
+                </ul>
+        </div>
+            
+        
+<div class="box-block-2 fl boxtag-list mgt12" box-type="videopositionbox" data-value="videoposition-740-5" data-count="3">
+    <h2><a class="title-box mgt16" href="/brand-magazine-e240.htm" title="Brand Magazine">Brand Magazine</a></h2>
+    <a href="/brand-magazine-e240.htm" title="Xem thêm" class="fr mgr12 mgt12 box-view-more">Xem thêm</a>
+    <ul class="box-block-2-list-news">
+        
+                <li class="w206">
+                    <a href="/uu-dai-khung-chao-he-tai-cac-khu-nghi-duong-cao-cap-do-mikgroup-phat-trien-20200610221626372.htm" title="Ưu đãi &#39;kh&#7911;ng&#39; chào hè t&#7841;i các khu ngh&#7881; dư&#7905;ng cao c&#7845;p do MIKGroup phát tri&#7875;n" class="img206x128 pos-rlt">
+                        <img class="img206x128" src="https://cdn.tuoitre.vn/zoom/206_128/2020/6/10/movenpickphuquoc-15918015479361236825860-crop-1591801646099689174223.jpg" data-src="https://cdn.tuoitre.vn/zoom/206_128/2020/6/10/movenpickphuquoc-15918015479361236825860-crop-1591801646099689174223.jpg" alt="Ưu đãi &#39;kh&#7911;ng&#39; chào hè t&#7841;i các khu ngh&#7881; dư&#7905;ng cao c&#7845;p do MIKGroup phát tri&#7875;n">
+                    </a>
+                    <h3 class="title-name">
+                        <a href="/uu-dai-khung-chao-he-tai-cac-khu-nghi-duong-cao-cap-do-mikgroup-phat-trien-20200610221626372.htm" title="Ưu đãi &#39;kh&#7911;ng&#39; chào hè t&#7841;i các khu ngh&#7881; dư&#7905;ng cao c&#7845;p do MIKGroup phát tri&#7875;n" data-comment="20200610221626372">Ưu đãi 'khủng' chào hè tại các khu nghỉ dưỡng cao cấp do MIKGroup phát triển</a>
+                    </h3>
+                </li>
+            
+                <li class="w206">
+                    <a href="/hoc-thac-si-khoi-nganh-ky-thuat-cong-nghe-o-truong-nao-20200610203718939.htm" title="H&#7885;c th&#7841;c sĩ kh&#7889;i ngành k&#7929; thu&#7853;t công ngh&#7879; &#7903; trư&#7901;ng nào?" class="img206x128 pos-rlt">
+                        <img class="img206x128" src="https://cdn.tuoitre.vn/zoom/206_128/2020/6/10/photo-1-1591795764504509207222-crop-15917960656691604296440.jpg" data-src="https://cdn.tuoitre.vn/zoom/206_128/2020/6/10/photo-1-1591795764504509207222-crop-15917960656691604296440.jpg" alt="H&#7885;c th&#7841;c sĩ kh&#7889;i ngành k&#7929; thu&#7853;t công ngh&#7879; &#7903; trư&#7901;ng nào?">
+                    </a>
+                    <h3 class="title-name">
+                        <a href="/hoc-thac-si-khoi-nganh-ky-thuat-cong-nghe-o-truong-nao-20200610203718939.htm" title="H&#7885;c th&#7841;c sĩ kh&#7889;i ngành k&#7929; thu&#7853;t công ngh&#7879; &#7903; trư&#7901;ng nào?" data-comment="20200610203718939">Học thạc sĩ khối ngành kỹ thuật công nghệ ở trường nào?</a>
+                    </h3>
+                </li>
+            
+                <li class="w206">
+                    <a href="/tuyen-sinh-lop-10-o-tphcm-nam-2020-huong-di-nao-cho-cac-em-khong-dau-cong-lap-20200603143934569.htm" title="Tuy&#7875;n sinh l&#7899;p 10 &#7903; TP.HCM năm 2020: Hư&#7899;ng đi nào cho các em không đ&#7853;u công l&#7853;p?" class="img206x128 pos-rlt">
+                        <img class="img206x128" src="https://cdn.tuoitre.vn/zoom/206_128/2020/6/3/photo-1-15911697376391890214837-crop-15911698607761908344075.jpg" data-src="https://cdn.tuoitre.vn/zoom/206_128/2020/6/3/photo-1-15911697376391890214837-crop-15911698607761908344075.jpg" alt="Tuy&#7875;n sinh l&#7899;p 10 &#7903; TP.HCM năm 2020: Hư&#7899;ng đi nào cho các em không đ&#7853;u công l&#7853;p?">
+                    </a>
+                    <h3 class="title-name">
+                        <a href="/tuyen-sinh-lop-10-o-tphcm-nam-2020-huong-di-nao-cho-cac-em-khong-dau-cong-lap-20200603143934569.htm" title="Tuy&#7875;n sinh l&#7899;p 10 &#7903; TP.HCM năm 2020: Hư&#7899;ng đi nào cho các em không đ&#7853;u công l&#7853;p?" data-comment="20200603143934569">Tuyển sinh lớp 10 ở TP.HCM năm 2020: Hướng đi nào cho các em không đậu công lập?</a>
+                    </h3>
+                </li>
+            
+    </ul>
+</div>
+
+        <div class="clearfix"></div>
+    </div>
+    <div class="w300 fr">
+        
+<zone id="jmgdxnkl"></zone>
+<script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+          arfAsync.push("jmgdxnkl");
+</script>
+    </div>
+</div>
+
+        <div class="clearfix"></div>
+
+        <span class="line mgt20"></span>
+        <div class="list-middle">
+            
+            <div class="list-middle-block">
+                <div class="w479 fl stream-home list-middle-content">
+                    
+<div class="box-news-latest isstream">
+    
+    <p class="title-box">Tin mới</p>
+    
+   
+    <ul class="list-news-content">
+        
+
+
+            <li class="news-item" data-newsid="20200619134921832" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Shopee: Ngư&#7901;i tiêu dùng Vi&#7879;t có xu hư&#7899;ng mua th&#7921;c ph&#7849;m qua kênh Online" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/shopee-nguoi-tieu-dung-viet-co-xu-huong-mua-thuc-pham-qua-kenh-online-20200619134921832.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/hinh-1592549240069406931831-crop-1592549247970709992162.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/hinh-1592549240069406931831-crop-1592549247970709992162.jpg" alt="Shopee: Ngư&#7901;i tiêu dùng Vi&#7879;t có xu hư&#7899;ng mua th&#7921;c ph&#7849;m qua kênh Online" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Shopee: Ngư&#7901;i tiêu dùng Vi&#7879;t có xu hư&#7899;ng mua th&#7921;c ph&#7849;m qua kênh Online" data-objecttype="" data-id="20200619134921832" data-linktype="newsdetail" data-comment="20200619134921832"
+                        href="/shopee-nguoi-tieu-dung-viet-co-xu-huong-mua-thuc-pham-qua-kenh-online-20200619134921832.htm"
+                        >Shopee: Người tiêu dùng Việt có xu hướng mua thực phẩm qua kênh Online</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Shopee ghi nhận sự thay đổi đáng chú ý đối với danh mục sản phẩm thực phẩm và ngành hàng Bách hóa trong bối cảnh người tiêu dùng Việt có xu hướng chọn mua sắm trực tuyến để đáp ứng nhu cầu về thực phẩm.</p>
+                    <div class="news-extra-one no-thumb"><a href='/35-trieu-luot-xem-truc-tuyen-chuong-trinh-shopee-live-trong-thang-4-20200604163207823.htm' title='35 tri&#7879;u lư&#7907;t xem tr&#7921;c tuy&#7871;n chương trình Shopee Live trong tháng 4' class='name-title'>35 triệu lượt xem trực tuyến chương trình Shopee Live trong tháng 4</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619141437578" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Xu&#7845;t hi&#7879;n v&#7853;t th&#7875; bí &#7849;n trên b&#7847;u tr&#7901;i Nh&#7853;t B&#7843;n" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/xuat-hien-vat-the-bi-an-tren-bau-troi-nhat-ban-20200619141437578.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/photo-1-1592550771384696527532-crop-15925508218991656423382.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/photo-1-1592550771384696527532-crop-15925508218991656423382.jpg" alt="Xu&#7845;t hi&#7879;n v&#7853;t th&#7875; bí &#7849;n trên b&#7847;u tr&#7901;i Nh&#7853;t B&#7843;n" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Xu&#7845;t hi&#7879;n v&#7853;t th&#7875; bí &#7849;n trên b&#7847;u tr&#7901;i Nh&#7853;t B&#7843;n" data-objecttype="" data-id="20200619141437578" data-linktype="newsdetail" data-comment="20200619141437578"
+                        href="/xuat-hien-vat-the-bi-an-tren-bau-troi-nhat-ban-20200619141437578.htm"
+                        >Xuất hiện vật thể bí ẩn trên bầu trời Nhật Bản</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Một vật thể bay không xác định (UFO) có hình dáng giống quả bóng trắng đã xuất hiện trên bầu trời thành phố Sendai, tỉnh Miyagi, miền Bắc Nhật Bản.</p>
+                    <div class="news-extra-one no-thumb"><a href='/gioi-khoa-hoc-ngo-ngang-truoc-vat-the-sang-bong-bi-an-tren-sao-hoa-20181203170204433.htm' title='Gi&#7899;i khoa h&#7885;c ng&#7905; ngàng trư&#7899;c v&#7853;t th&#7875; sáng bóng bí &#7849;n trên sao H&#7887;a' class='name-title'>Giới khoa học ngỡ ngàng trước vật thể sáng bóng bí ẩn trên sao Hỏa</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619140017736" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Phát hi&#7879;n hóa th&#7841;ch qu&#7843; tr&#7913;ng th&#7857;n l&#7857;n l&#7899;n nh&#7845;t trong th&#7901;i đ&#7841;i kh&#7911;ng long" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/phat-hien-hoa-thach-qua-trung-than-lan-lon-nhat-trong-thoi-dai-khung-long-20200619140017736.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/photo-1-15925498394632037189648-crop-15925498927421393929184.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/photo-1-15925498394632037189648-crop-15925498927421393929184.jpg" alt="Phát hi&#7879;n hóa th&#7841;ch qu&#7843; tr&#7913;ng th&#7857;n l&#7857;n l&#7899;n nh&#7845;t trong th&#7901;i đ&#7841;i kh&#7911;ng long" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Phát hi&#7879;n hóa th&#7841;ch qu&#7843; tr&#7913;ng th&#7857;n l&#7857;n l&#7899;n nh&#7845;t trong th&#7901;i đ&#7841;i kh&#7911;ng long" data-objecttype="" data-id="20200619140017736" data-linktype="newsdetail" data-comment="20200619140017736"
+                        href="/phat-hien-hoa-thach-qua-trung-than-lan-lon-nhat-trong-thoi-dai-khung-long-20200619140017736.htm"
+                        >Phát hiện hóa thạch quả trứng thằn lằn lớn nhất trong thời đại khủng long</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Quả trứng này có thể là từ loài Mosasaur (thương long), một loài thằn lằn biển sống cách đây hơn 66 triệu năm.</p>
+                    <div class="news-extra-one no-thumb"><a href='/phat-hien-ky-sinh-trung-trong-hoa-thach-512-trieu-nam-20200609140517168.htm' title='Phát hi&#7879;n ký sinh trùng trong hóa th&#7841;ch 512 tri&#7879;u năm' class='name-title'>Phát hiện ký sinh trùng trong hóa thạch 512 triệu năm</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200619135608057" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Nh&#7853;t B&#7843;n b&#7855;t đ&#7847;u d&#7905; b&#7887; h&#7841;n ch&#7871; đi l&#7841;i gi&#7919;a các đ&#7883;a phương" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/nhat-ban-bat-dau-do-bo-han-che-di-lai-giua-cac-dia-phuong-20200619135608057.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/photo-1-1592549609116456345158-crop-15925496678162091687637.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/19/photo-1-1592549609116456345158-crop-15925496678162091687637.jpg" alt="Nh&#7853;t B&#7843;n b&#7855;t đ&#7847;u d&#7905; b&#7887; h&#7841;n ch&#7871; đi l&#7841;i gi&#7919;a các đ&#7883;a phương" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Nh&#7853;t B&#7843;n b&#7855;t đ&#7847;u d&#7905; b&#7887; h&#7841;n ch&#7871; đi l&#7841;i gi&#7919;a các đ&#7883;a phương" data-objecttype="" data-id="20200619135608057" data-linktype="newsdetail" data-comment="20200619135608057"
+                        href="/nhat-ban-bat-dau-do-bo-han-che-di-lai-giua-cac-dia-phuong-20200619135608057.htm"
+                        >Nhật Bản bắt đầu dỡ bỏ hạn chế đi lại giữa các địa phương</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Nhật Bản quyết định dỡ bỏ hạn chế đi lại giữa các địa phương, đồng thời chuẩn bị cho phép nhập cảnh đối với công dân từ những quốc gia đã khống chế được dịch COVID-19.</p>
+                    <div class="news-extra-one no-thumb"><a href='/dich-covid-19-chieu-6-5-who-canh-bao-phong-toa-tro-lai-neu-do-bo-han-che-khong-tot-2020050613452241.htm' title='D&#7883;ch COVID-19 chi&#7873;u 6-5: WHO c&#7843;nh báo phong t&#7887;a tr&#7903; l&#7841;i n&#7871;u d&#7905; b&#7887; h&#7841;n ch&#7871; không t&#7889;t' class='name-title'>Dịch COVID-19 chiều 6-5: WHO cảnh báo phong tỏa trở lại nếu dỡ bỏ hạn chế không tốt</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200618163733716" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="B&#7879;nh vi&#7879;n Ung bư&#7899;u TP.HCM h&#7907;p tác cùng Công ty Sanofi-Aventis Vi&#7879;t Nam" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/benh-vien-ung-buou-tphcm-hop-tac-cung-cong-ty-sanofi-aventis-viet-nam-20200618163733716.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/18/hinh-1-1592472917047315006344-crop-1592472926825157331175.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/18/hinh-1-1592472917047315006344-crop-1592472926825157331175.jpg" alt="B&#7879;nh vi&#7879;n Ung bư&#7899;u TP.HCM h&#7907;p tác cùng Công ty Sanofi-Aventis Vi&#7879;t Nam" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="B&#7879;nh vi&#7879;n Ung bư&#7899;u TP.HCM h&#7907;p tác cùng Công ty Sanofi-Aventis Vi&#7879;t Nam" data-objecttype="" data-id="20200618163733716" data-linktype="newsdetail" data-comment="20200618163733716"
+                        href="/benh-vien-ung-buou-tphcm-hop-tac-cung-cong-ty-sanofi-aventis-viet-nam-20200618163733716.htm"
+                        >Bệnh viện Ung bướu TP.HCM hợp tác cùng Công ty Sanofi-Aventis Việt Nam</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Ngày 17-6, Bệnh viện Ung bướu TP.HCM đã ký kết thỏa thuận hợp tác với Công ty TNHH Sanofi-Aventis Việt Nam.</p>
+                    <div class="news-extra-one no-thumb"><a href='/shopee-nguoi-tieu-dung-viet-co-xu-huong-mua-thuc-pham-qua-kenh-online-20200619134921832.htm' title='Shopee: Ngư&#7901;i tiêu dùng Vi&#7879;t có xu hư&#7899;ng mua th&#7921;c ph&#7849;m qua kênh Online' class='name-title'>Shopee: Người tiêu dùng Việt có xu hướng mua thực phẩm qua kênh Online</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200618153718909" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Ra m&#7855;t h&#7879; th&#7889;ng gi&#7843;i quy&#7871;t tranh ch&#7845;p tr&#7921;c tuy&#7871;n tiên phong t&#7841;i Vi&#7879;t Nam" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/ra-mat-he-thong-giai-quyet-tranh-chap-truc-tuyen-tien-phong-tai-viet-nam-20200618153718909.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/18/photo-1-1592468823696718836369-crop-15924690905441507900520.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/18/photo-1-1592468823696718836369-crop-15924690905441507900520.jpg" alt="Ra m&#7855;t h&#7879; th&#7889;ng gi&#7843;i quy&#7871;t tranh ch&#7845;p tr&#7921;c tuy&#7871;n tiên phong t&#7841;i Vi&#7879;t Nam" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Ra m&#7855;t h&#7879; th&#7889;ng gi&#7843;i quy&#7871;t tranh ch&#7845;p tr&#7921;c tuy&#7871;n tiên phong t&#7841;i Vi&#7879;t Nam" data-objecttype="" data-id="20200618153718909" data-linktype="newsdetail" data-comment="20200618153718909"
+                        href="/ra-mat-he-thong-giai-quyet-tranh-chap-truc-tuyen-tien-phong-tai-viet-nam-20200618153718909.htm"
+                        >Ra mắt hệ thống giải quyết tranh chấp trực tuyến tiên phong tại Việt Nam</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Sau hơn 1 năm đi vào hoạt động, Trung tâm Trọng tài quốc tế Hà Nội vừa khởi động Hệ thống giải quyết tranh chấp trực tuyến (ODR) của mình trên website www.hiac.vn.</p>
+                    <div class="news-extra-one no-thumb"><a href='/shopee-nguoi-tieu-dung-viet-co-xu-huong-mua-thuc-pham-qua-kenh-online-20200619134921832.htm' title='Shopee: Ngư&#7901;i tiêu dùng Vi&#7879;t có xu hư&#7899;ng mua th&#7921;c ph&#7849;m qua kênh Online' class='name-title'>Shopee: Người tiêu dùng Việt có xu hướng mua thực phẩm qua kênh Online</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200618142626201" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Indonesia c&#7843;i t&#7841;o đ&#7845;t than bùn thành đ&#7845;t canh tác lúa" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/indonesia-cai-tao-dat-than-bun-thanh-dat-canh-tac-lua-20200618142626201.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/18/photo-1-15924649761961915819009-crop-15924650333471867796808.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/18/photo-1-15924649761961915819009-crop-15924650333471867796808.jpg" alt="Indonesia c&#7843;i t&#7841;o đ&#7845;t than bùn thành đ&#7845;t canh tác lúa" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Indonesia c&#7843;i t&#7841;o đ&#7845;t than bùn thành đ&#7845;t canh tác lúa" data-objecttype="" data-id="20200618142626201" data-linktype="newsdetail" data-comment="20200618142626201"
+                        href="/indonesia-cai-tao-dat-than-bun-thanh-dat-canh-tac-lua-20200618142626201.htm"
+                        >Indonesia cải tạo đất than bùn thành đất canh tác lúa</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Chính phủ Indonesia đang thúc đẩy kế hoạch chuyển đổi 1,4 triệu héc-ta diện tích đất than bùn thành đất canh tác lúa trong bối cảnh Indonesia đang đối mặt với nguy cơ mất an ninh lương thực.</p>
+                    <div class="news-extra-one no-thumb"><a href='/dien-tich-dat-than-bun-dang-giam-manh-941.htm' title='Di&#7879;n tích đ&#7845;t than bùn đang gi&#7843;m m&#7841;nh' class='name-title'>Diện tích đất than bùn đang giảm mạnh</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200618141815658" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Nhà n&#7893;i in b&#7857;ng công ngh&#7879; in 3D t&#7841;i CH Séc" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/nha-noi-in-bang-cong-nghe-in-3d-tai-ch-sec-20200618141815658.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/18/photo-1-1592464492701764844860-crop-15924646097181596177510.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/18/photo-1-1592464492701764844860-crop-15924646097181596177510.jpg" alt="Nhà n&#7893;i in b&#7857;ng công ngh&#7879; in 3D t&#7841;i CH Séc" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Nhà n&#7893;i in b&#7857;ng công ngh&#7879; in 3D t&#7841;i CH Séc" data-objecttype="" data-id="20200618141815658" data-linktype="newsdetail" data-comment="20200618141815658"
+                        href="/nha-noi-in-bang-cong-nghe-in-3d-tai-ch-sec-20200618141815658.htm"
+                        >Nhà nổi in bằng công nghệ in 3D tại CH Séc</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Nghệ nhân điêu khắc người Cộng hòa Séc Michal Trpak đang phối hợp cùng một nhóm kiến trúc sư để cho ra đời một ngôi nhà nổi từ công nghệ in 3D.</p>
+                    <div class="news-extra-one no-thumb"><a href='/australia-tao-dot-pha-trong-san-xuat-stent-nho-cong-nghe-in-3d-20200608135110499.htm' title='Australia t&#7841;o đ&#7897;t phá trong s&#7843;n xu&#7845;t stent nh&#7901; công ngh&#7879; in 3D' class='name-title'>Australia tạo đột phá trong sản xuất stent nhờ công nghệ in 3D</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200617145020356" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="Hàng không M&#7929; có th&#7875; c&#7845;m bay nh&#7919;ng hành khách không đeo kh&#7849;u trang" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/hang-khong-my-co-the-cam-bay-nhung-hanh-khach-khong-deo-khau-trang-20200617145020356.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/17/photo-1-1592380007006610150208-crop-1592380139482840937133.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/17/photo-1-1592380007006610150208-crop-1592380139482840937133.jpg" alt="Hàng không M&#7929; có th&#7875; c&#7845;m bay nh&#7919;ng hành khách không đeo kh&#7849;u trang" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="Hàng không M&#7929; có th&#7875; c&#7845;m bay nh&#7919;ng hành khách không đeo kh&#7849;u trang" data-objecttype="" data-id="20200617145020356" data-linktype="newsdetail" data-comment="20200617145020356"
+                        href="/hang-khong-my-co-the-cam-bay-nhung-hanh-khach-khong-deo-khau-trang-20200617145020356.htm"
+                        >Hàng không Mỹ có thể cấm bay những hành khách không đeo khẩu trang</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Những hành khách sử dụng dịch vụ hàng không của Mỹ nhưng từ chối đeo khẩu trang trong khi đại dịch COVID-19 vẫn còn tiếp diễn có thể bị tước quyền bay.</p>
+                    <div class="news-extra-one no-thumb"><a href='/my-yeu-cau-4-hang-hang-khong-trung-quoc-nop-lich-bay-20200523112218946.htm' title='M&#7929; yêu c&#7847;u 4 hãng hàng không Trung Qu&#7889;c n&#7897;p l&#7883;ch bay' class='name-title'>Mỹ yêu cầu 4 hãng hàng không Trung Quốc nộp lịch bay</a></div>
+                </div>
+            </li>
+        
+            <li class="news-item" data-newsid="20200617144540975" data-boxtype="timelineposition" box-type="newstimelinestreamcate">
+                
+                <a title="D&#7883;ch COVID-19 gây thi&#7879;t h&#7841;i n&#7863;ng n&#7873; cho ngành nông nghi&#7879;p &#7903; nhi&#7873;u nư&#7899;c" class="img212x132 pos-rlt" data-displayinslide="0" data-objecttype=""
+                    href="/dich-covid-19-gay-thiet-hai-nang-ne-cho-nganh-nong-nghiep-o-nhieu-nuoc-20200617144540975.htm"
+                    >
+                    <img class="img212x132" src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/17/photo-1-1592379818017765402346-crop-1592379874569839829435.jpg" data-src="https://cdn.tuoitre.vn/zoom/212_132/2020/6/17/photo-1-1592379818017765402346-crop-1592379874569839829435.jpg" alt="D&#7883;ch COVID-19 gây thi&#7879;t h&#7841;i n&#7863;ng n&#7873; cho ngành nông nghi&#7879;p &#7903; nhi&#7873;u nư&#7899;c" />
+                </a>
+                
+                <div class="name-news">
+                    <h3 class="title-news">
+                    <a title="D&#7883;ch COVID-19 gây thi&#7879;t h&#7841;i n&#7863;ng n&#7873; cho ngành nông nghi&#7879;p &#7903; nhi&#7873;u nư&#7899;c" data-objecttype="" data-id="20200617144540975" data-linktype="newsdetail" data-comment="20200617144540975"
+                        href="/dich-covid-19-gay-thiet-hai-nang-ne-cho-nganh-nong-nghiep-o-nhieu-nuoc-20200617144540975.htm"
+                        >Dịch COVID-19 gây thiệt hại nặng nề cho ngành nông nghiệp ở nhiều nước</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Nhu cầu của người dân đối với sản phẩm nông nghiệp giảm sút trong thời kỳ dịch bệnh COVID-19 đã khiến ngành nông nghiệp ở nhiều nước tổn thất nghiêm trọng.</p>
+                    <div class="news-extra-one no-thumb"><a href='/nhat-ban-thieu-1000-thuc-tap-sinh-nuoc-ngoai-trong-nganh-nong-nghiep-20200319104828251.htm' title='Nh&#7853;t B&#7843;n thi&#7871;u 1.000 th&#7921;c t&#7853;p sinh nư&#7899;c ngoài trong ngành nông nghi&#7879;p' class='name-title'>Nhật Bản thiếu 1.000 thực tập sinh nước ngoài trong ngành nông nghiệp</a></div>
+                </div>
+            </li>
+        
+
+
+
+    </ul>
+    
+    <div class="list-news-bottom mgt10 clearfix">
+        <div class="readmore fl">
+            <a class="btn-readmore" href="javascript:void(0);" title="Xem thêm">Xem thêm</a>
+        </div>
+        <input type="hidden" id="datepicker_value" value="">
+        <a class="btn-calendar calendar fr" href="javascript:;" title="Xem theo ngày" id="datepicker_cate"><span class="icon icon-calendar"></span>Xem theo thời gian</a>
+    </div>
+    
+</div>
+
+
+                </div>
+                <div class="w500 fr list-middle-content">
+                    
+
+                    <div class="bgcd8 clearfix pdt15 pdb15">
+                        <div class="banner-right fr">
+                            
+
+
+<zone id="jmgdsrp8"></zone>
+
+<script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+          arfAsync.push("jmgdsrp8");
+</script>
+
+                        </div>
+                        
+                    </div>
+
+
+                    <div class="clearfix"></div>
+                    <span class="line"></span>
+
+                    
+
+                    <div class="clearfix"></div>
+                    <span class="line"></span>
+
+                    
+<div class="box-block-1 w490 pdb15 fr">
+    <h2><a href="/can-biet/thi-truong-247.htm" class="title-box" title="Thị trường 247">Thị trường 247</a></h2>
+    <ul class="box-block-1-list-news mgt8 clearfix">
+        
+                <li class="box-block-1-news w156">
+                    <a class="img156x97 pos-rlt" href="/chinatown-tai-london-kho-co-the-tru-vung-sau-con-bao-covid-19-20200619142319602.htm" title="Chinatown t&#7841;i London khó có th&#7875; tr&#7909; v&#7919;ng sau &#39;cơn bão&#39; COVID-19" data-displayinslide="0">
+                        <img class="img156x97" src="https://cdn.tuoitre.vn/zoom/156_97/2020/6/19/photo-1-15925512141201234224322-crop-15925513226401513307477.jpg" data-src="https://cdn.tuoitre.vn/zoom/156_97/2020/6/19/photo-1-15925512141201234224322-crop-15925513226401513307477.jpg" alt="Chinatown t&#7841;i London khó có th&#7875; tr&#7909; v&#7919;ng sau &#39;cơn bão&#39; COVID-19" />
+                    </a>
+                    <h3 class="title-name-newsvideo w156">
+                        <a class="title-name w156" href="/chinatown-tai-london-kho-co-the-tru-vung-sau-con-bao-covid-19-20200619142319602.htm" title="Chinatown t&#7841;i London khó có th&#7875; tr&#7909; v&#7919;ng sau &#39;cơn bão&#39; COVID-19" data-comment="20200619142319602">Chinatown tại London khó có thể trụ vững sau 'cơn bão' COVID-19</a>
+                    </h3>
+                </li>
+            
+                <li class="box-block-1-news w156">
+                    <a class="img156x97 pos-rlt" href="/campuchia-va-trung-quoc-su-dung-dong-noi-te-trong-giao-dich-lua-gao-20200619141906179.htm" title="Campuchia và Trung Qu&#7889;c s&#7917; d&#7909;ng đ&#7891;ng n&#7897;i t&#7879; trong giao d&#7883;ch lúa g&#7841;o" data-displayinslide="0">
+                        <img class="img156x97" src="https://cdn.tuoitre.vn/zoom/156_97/2020/6/19/photo-1-1592550943088505715539-crop-15925510139921381375607.jpg" data-src="https://cdn.tuoitre.vn/zoom/156_97/2020/6/19/photo-1-1592550943088505715539-crop-15925510139921381375607.jpg" alt="Campuchia và Trung Qu&#7889;c s&#7917; d&#7909;ng đ&#7891;ng n&#7897;i t&#7879; trong giao d&#7883;ch lúa g&#7841;o" />
+                    </a>
+                    <h3 class="title-name-newsvideo w156">
+                        <a class="title-name w156" href="/campuchia-va-trung-quoc-su-dung-dong-noi-te-trong-giao-dich-lua-gao-20200619141906179.htm" title="Campuchia và Trung Qu&#7889;c s&#7917; d&#7909;ng đ&#7891;ng n&#7897;i t&#7879; trong giao d&#7883;ch lúa g&#7841;o" data-comment="20200619141906179">Campuchia và Trung Quốc sử dụng đồng nội tệ trong giao dịch lúa gạo</a>
+                    </h3>
+                </li>
+            
+                <li class="box-block-1-news w156">
+                    <a class="img156x97 pos-rlt" href="/thai-lan-phat-hanh-trai-phieu-tiet-kiem-1-baht-qua-vi-dien-tu-ktb-20200618144603754.htm" title="Thái Lan phát hành trái phi&#7871;u ti&#7871;t ki&#7879;m 1 baht qua ví đi&#7879;n t&#7917; KTB" data-displayinslide="0">
+                        <img class="img156x97" src="https://cdn.tuoitre.vn/zoom/156_97/2020/6/18/photo-1-1592466217632599103767-crop-15924662972562131599482.jpg" data-src="https://cdn.tuoitre.vn/zoom/156_97/2020/6/18/photo-1-1592466217632599103767-crop-15924662972562131599482.jpg" alt="Thái Lan phát hành trái phi&#7871;u ti&#7871;t ki&#7879;m 1 baht qua ví đi&#7879;n t&#7917; KTB" />
+                    </a>
+                    <h3 class="title-name-newsvideo w156">
+                        <a class="title-name w156" href="/thai-lan-phat-hanh-trai-phieu-tiet-kiem-1-baht-qua-vi-dien-tu-ktb-20200618144603754.htm" title="Thái Lan phát hành trái phi&#7871;u ti&#7871;t ki&#7879;m 1 baht qua ví đi&#7879;n t&#7917; KTB" data-comment="20200618144603754">Thái Lan phát hành trái phiếu tiết kiệm 1 baht qua ví điện tử KTB</a>
+                    </h3>
+                </li>
+            
+    </ul>
+</div>
+
+                    <div class="clearfix"></div>
+                    <span class="line"></span>
+                    
+                    <div class="clearfix">
+                        <div class="coldrscate fl pdt15 bgcd8">
+                            
+<div class="box-category4 pdl9 fl">
+    <h2><a href="javascript:;" class="title-box" title="Xem nhiều">Xem nhiều</a></h2>
+    <ul class="clearfix" id="mostview-cate">
+        
+                <li>
+                    <h3><a class="box-category4-news-title" href="/dung-nham-lan-giua-vay-tin-chap-va-tin-dung-den-20200616113837589.htm" title="Đ&#7915;ng nh&#7847;m l&#7851;n gi&#7919;a vay tín ch&#7845;p và tín d&#7909;ng đen">Đừng nhầm lẫn giữa vay tín chấp và tín dụng đen</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/he-lo-anh-chup-ro-net-tang-bang-troi-da-gay-tham-hoa-chim-tau-titanic-20200616135451285.htm" title="Hé l&#7897; &#7843;nh ch&#7909;p rõ nét t&#7843;ng băng trôi đã gây th&#7843;m h&#7885;a chìm tàu Titanic">Hé lộ ảnh chụp rõ nét tảng băng trôi đã gây thảm họa chìm tàu Titanic</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/hang-khong-my-co-the-cam-bay-nhung-hanh-khach-khong-deo-khau-trang-20200617145020356.htm" title="Hàng không M&#7929; có th&#7875; c&#7845;m bay nh&#7919;ng hành khách không đeo kh&#7849;u trang">Hàng không Mỹ có thể cấm bay những hành khách không đeo khẩu trang</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/ca-sau-tien-su-20200615134249317.htm" title="Cá s&#7845;u ti&#7873;n s&#7917;">Cá sấu tiền sử</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/quyen-sach-giup-ban-hieu-ve-su-phuc-hoi-ky-dieu-cho-nguoi-benh-ung-thu-20200615073651481.htm" title="Quy&#7875;n sách giúp b&#7841;n hi&#7875;u v&#7873; s&#7921; ph&#7909;c h&#7891;i k&#7923; di&#7879;u cho ngư&#7901;i b&#7879;nh ung thư">Quyển sách giúp bạn hiểu về sự phục hồi kỳ diệu cho người bệnh ung thư</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/dich-covid-19-gay-thiet-hai-nang-ne-cho-nganh-nong-nghiep-o-nhieu-nuoc-20200617144540975.htm" title="D&#7883;ch COVID-19 gây thi&#7879;t h&#7841;i n&#7863;ng n&#7873; cho ngành nông nghi&#7879;p &#7903; nhi&#7873;u nư&#7899;c">Dịch COVID-19 gây thiệt hại nặng nề cho ngành nông nghiệp ở nhiều nước</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/thieu-nien-17-tuoi-kien-chinh-quyen-ban-hanh-quy-dinh-cam-choi-game-20200616140251205.htm" title="Thi&#7871;u niên 17 tu&#7893;i ki&#7879;n chính quy&#7873;n ban hành quy đ&#7883;nh c&#7845;m chơi game">Thiếu niên 17 tuổi kiện chính quyền ban hành quy định cấm chơi game</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/tiem-nang-cua-vac-xin-tu-nuoc-bot-muoi-20200615135342225.htm" title="Ti&#7873;m năng c&#7911;a v&#7855;cxin t&#7915; nư&#7899;c b&#7885;t mu&#7895;i">Tiềm năng của vắcxin từ nước bọt muỗi</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/nha-noi-in-bang-cong-nghe-in-3d-tai-ch-sec-20200618141815658.htm" title="Nhà n&#7893;i in b&#7857;ng công ngh&#7879; in 3D t&#7841;i CH Séc">Nhà nổi in bằng công nghệ in 3D tại CH Séc</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/indonesia-cai-tao-dat-than-bun-thanh-dat-canh-tac-lua-20200618142626201.htm" title="Indonesia c&#7843;i t&#7841;o đ&#7845;t than bùn thành đ&#7845;t canh tác lúa">Indonesia cải tạo đất than bùn thành đất canh tác lúa</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/thanh-pho-seoul-khuyen-khich-nguoi-dan-su-dung-xe-dap-20200616135835224.htm" title="Thành ph&#7889; Seoul khuy&#7871;n khích ngư&#7901;i dân s&#7917; d&#7909;ng xe đ&#7841;p">Thành phố Seoul khuyến khích người dân sử dụng xe đạp</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/israel-phat-minh-da-dien-tu-co-the-tu-chua-lanh-20200615134651055.htm" title="Israel phát minh da đi&#7879;n t&#7917; có th&#7875; t&#7921; ch&#7919;a lành">Israel phát minh da điện tử có thể tự chữa lành</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/timvieccomvn-dia-chi-tin-cay-cho-moi-ung-vien-20200615144100915.htm" title="Timviec.com.vn - Đ&#7883;a ch&#7881; tin c&#7853;y cho m&#7885;i &#7913;ng viên">Timviec.com.vn - Địa chỉ tin cậy cho mọi ứng viên</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/ra-mat-he-thong-giai-quyet-tranh-chap-truc-tuyen-tien-phong-tai-viet-nam-20200618153718909.htm" title="Ra m&#7855;t h&#7879; th&#7889;ng gi&#7843;i quy&#7871;t tranh ch&#7845;p tr&#7921;c tuy&#7871;n tiên phong t&#7841;i Vi&#7879;t Nam">Ra mắt hệ thống giải quyết tranh chấp trực tuyến tiên phong tại Việt Nam</a></h3>
+                </li>
+            
+                <li>
+                    <h3><a class="box-category4-news-title" href="/benh-vien-ung-buou-tphcm-hop-tac-cung-cong-ty-sanofi-aventis-viet-nam-20200618163733716.htm" title="B&#7879;nh vi&#7879;n Ung bư&#7899;u TP.HCM h&#7907;p tác cùng Công ty Sanofi-Aventis Vi&#7879;t Nam">Bệnh viện Ung bướu TP.HCM hợp tác cùng Công ty Sanofi-Aventis Việt Nam</a></h3>
+                </li>
+            
+    </ul>
+</div>
+
+<script>
+    (runinit = window.runinit || []).push(function () {
+        $("#mostview-cate").slimscroll({ height: 400, color: 'rgba(0,0,0,.5)', size: '5px', opacity: 0.7, alwaysVisible: true, railVisible: true, railColor: 'rgba(0,0,0,.1)', allowPageScroll: false });
+    });
+</script>
+                            
+                                <div class="bannerwidesky1 mgt15">
+                                    
+
+
+    <zone id="jmgdyw67"></zone>
+
+ <script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+          arfAsync.push("jmgdyw67");
+</script>
+
+                                </div>
+                                
+                                    <div class="bannerwidesky1">
+                                        
+
+
+    <zone id="jmge0d1p"></zone>
+
+ <script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+          arfAsync.push("jmge0d1p");
+</script>
+
+                                    </div>
+                                
+
+                                <div class="bannerwidesky1">
+                                    
+
+
+    <zone id="jmge1ds4"></zone>
+ <script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+          arfAsync.push("jmge1ds4");
+</script>
+
+                                </div>
+                            
+                        </div>
+                        <div class="w300 bgcff fr">
+                            
+
+
+<zone id="jmgdujzj"></zone>
+
+<script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+    arfAsync.push("jmgdujzj");
+</script>
+
+
+                            
+<div class="box-category2 ">
+    <h2><a href="/can-biet/hoc-hanh.htm" class="title-box" title="Học hành">Học hành</a></h2>
+    <ul class="list-news w290">
+        
+                <li>
+                    <a class="img290x181 pos-rlt" href="/tu-tin-vao-dai-hoc-bang-tong-diem-trung-binh-3-hoc-ky-20200616110905363.htm" title="T&#7921; tin vào đ&#7841;i h&#7885;c b&#7857;ng t&#7893;ng đi&#7875;m trung bình 3 h&#7885;c k&#7923;" data-displayinslide="0">
+                        <img class="img290x181" src="https://cdn.tuoitre.vn/zoom/290_181/2020/6/16/photo-1-1592279635853406507639-crop-15922802739101007586150.jpg" data-src="https://cdn.tuoitre.vn/zoom/290_181/2020/6/16/photo-1-1592279635853406507639-crop-15922802739101007586150.jpg" alt="T&#7921; tin vào đ&#7841;i h&#7885;c b&#7857;ng t&#7893;ng đi&#7875;m trung bình 3 h&#7885;c k&#7923;" />
+                    </a>
+                    <div class="description clearfix mgt8">
+                        <h3 class="name-title">
+                            <a href="/tu-tin-vao-dai-hoc-bang-tong-diem-trung-binh-3-hoc-ky-20200616110905363.htm" title="T&#7921; tin vào đ&#7841;i h&#7885;c b&#7857;ng t&#7893;ng đi&#7875;m trung bình 3 h&#7885;c k&#7923;" data-comment="20200616110905363">Tự tin vào đại học bằng tổng điểm trung bình 3 học kỳ</a>
+                        </h3>
+                    </div>
+                    <span class="line-2 mgt10"></span>
+                </li>
+            
+        
+                <li>
+                    <div class="clearfix">
+                        <a class="img90x56 pos-rlt" href="/nhan-bang-cu-nhan-truyen-thong-chat-luong-quoc-te-20200618153727208.htm" title="Nh&#7853;n b&#7857;ng c&#7917; nhân Truy&#7873;n thông ch&#7845;t lư&#7907;ng qu&#7889;c t&#7871;" data-displayinslide="0">
+                            <img class="img90x56" src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/18/hinh-1-15924695258101845773868-crop-15924695346751940518529.jpg" data-src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/18/hinh-1-15924695258101845773868-crop-15924695346751940518529.jpg" alt="Nh&#7853;n b&#7857;ng c&#7917; nhân Truy&#7873;n thông ch&#7845;t lư&#7907;ng qu&#7889;c t&#7871;" />
+                        </a>
+                        <h3>
+                            <a class="title-name" href="/nhan-bang-cu-nhan-truyen-thong-chat-luong-quoc-te-20200618153727208.htm" title="Nh&#7853;n b&#7857;ng c&#7917; nhân Truy&#7873;n thông ch&#7845;t lư&#7907;ng qu&#7889;c t&#7871;" data-comment="20200618153727208">Nhận bằng cử nhân Truyền thông chất lượng quốc tế</a>
+                        </h3>
+                    </div>
+                    <span class="line-2 mgt10"></span>
+                </li>
+            
+                <li>
+                    <div class="clearfix">
+                        <a class="img90x56 pos-rlt" href="/nhung-dieu-thi-sinh-can-biet-khi-vao-phong-thi-tot-nghiep-thpt-2020-2020061814383037.htm" title="Nh&#7919;ng đi&#7873;u thí sinh c&#7847;n bi&#7871;t khi vào phòng thi t&#7889;t nghi&#7879;p THPT 2020" data-displayinslide="0">
+                            <img class="img90x56" src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/18/photo-1-15924657783162045033902-crop-15924658305201322131741.jpg" data-src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/18/photo-1-15924657783162045033902-crop-15924658305201322131741.jpg" alt="Nh&#7919;ng đi&#7873;u thí sinh c&#7847;n bi&#7871;t khi vào phòng thi t&#7889;t nghi&#7879;p THPT 2020" />
+                        </a>
+                        <h3>
+                            <a class="title-name" href="/nhung-dieu-thi-sinh-can-biet-khi-vao-phong-thi-tot-nghiep-thpt-2020-2020061814383037.htm" title="Nh&#7919;ng đi&#7873;u thí sinh c&#7847;n bi&#7871;t khi vào phòng thi t&#7889;t nghi&#7879;p THPT 2020" data-comment="2020061814383037">Những điều thí sinh cần biết khi vào phòng thi tốt nghiệp THPT 2020</a>
+                        </h3>
+                    </div>
+                    <span class="line-2 mgt10"></span>
+                </li>
+            
+    </ul>
+</div>
+<span class="line"></span>
+<div class="box-category2 linespan">
+    <h2><a href="/can-biet/dia-oc.htm" class="title-box" title="Địa ốc">Địa ốc</a></h2>
+    <ul class="list-news w290">
+        
+                <li>
+                    <a class="img290x181 pos-rlt" href="/co-gi-o-nam-phan-khu-chuc-nang-cua-thanh-pho-ben-song-waterpoint-20200618143028314.htm" title="Có gì &#7903; năm phân khu ch&#7913;c năng c&#7911;a thành ph&#7889; bên sông Waterpoint?" data-displayinslide="0">
+                        <img class="img290x181" src="https://cdn.tuoitre.vn/zoom/290_181/2020/6/18/hinh-1-1592465611740528703420-crop-15924656246881475937312.jpg" data-src="https://cdn.tuoitre.vn/zoom/290_181/2020/6/18/hinh-1-1592465611740528703420-crop-15924656246881475937312.jpg" alt="Có gì &#7903; năm phân khu ch&#7913;c năng c&#7911;a thành ph&#7889; bên sông Waterpoint?" />
+                    </a>
+                    <div class="description clearfix mgt8">
+                        <h3 class="name-title">
+                            <a href="/co-gi-o-nam-phan-khu-chuc-nang-cua-thanh-pho-ben-song-waterpoint-20200618143028314.htm" title="Có gì &#7903; năm phân khu ch&#7913;c năng c&#7911;a thành ph&#7889; bên sông Waterpoint?" data-comment="20200618143028314">Có gì ở năm phân khu chức năng của thành phố bên sông Waterpoint?</a>
+                        </h3>
+                    </div>
+                    <span class="line-2 mgt10"></span>
+                </li>
+            
+        
+                <li>
+                    <div class="clearfix">
+                        <a class="img90x56 pos-rlt" href="/mikgroup-day-manh-phat-trien-chung-cu-cao-cap-tay-ha-noi-20200617221113347.htm" title="MIKGroup đ&#7849;y m&#7841;nh phát tri&#7875;n chung cư cao c&#7845;p Tây Hà N&#7897;i" data-displayinslide="0">
+                            <img class="img90x56" src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/17/200410miktmdmf4bird-view06-15924063343721370633875-crop-1592406428575682854212.jpg" data-src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/17/200410miktmdmf4bird-view06-15924063343721370633875-crop-1592406428575682854212.jpg" alt="MIKGroup đ&#7849;y m&#7841;nh phát tri&#7875;n chung cư cao c&#7845;p Tây Hà N&#7897;i" />
+                        </a>
+                        <h3>
+                            <a class="title-name" href="/mikgroup-day-manh-phat-trien-chung-cu-cao-cap-tay-ha-noi-20200617221113347.htm" title="MIKGroup đ&#7849;y m&#7841;nh phát tri&#7875;n chung cư cao c&#7845;p Tây Hà N&#7897;i" data-comment="20200617221113347">MIKGroup đẩy mạnh phát triển chung cư cao cấp Tây Hà Nội</a>
+                        </h3>
+                    </div>
+                    <span class="line-2 mgt10"></span>
+                </li>
+            
+                <li>
+                    <div class="clearfix">
+                        <a class="img90x56 pos-rlt" href="/cau-long-kieng-hoan-thanh-som-nha-be-se-thang-hang-20200616183725458.htm" title="C&#7847;u Long Ki&#7875;ng hoàn thành s&#7899;m, Nhà Bè s&#7869; &#39;thăng h&#7841;ng&#39;" data-displayinslide="0">
+                            <img class="img90x56" src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/16/photo-1-15923071250101988056394-crop-1592307251272574231932.jpg" data-src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/16/photo-1-15923071250101988056394-crop-1592307251272574231932.jpg" alt="C&#7847;u Long Ki&#7875;ng hoàn thành s&#7899;m, Nhà Bè s&#7869; &#39;thăng h&#7841;ng&#39;" />
+                        </a>
+                        <h3>
+                            <a class="title-name" href="/cau-long-kieng-hoan-thanh-som-nha-be-se-thang-hang-20200616183725458.htm" title="C&#7847;u Long Ki&#7875;ng hoàn thành s&#7899;m, Nhà Bè s&#7869; &#39;thăng h&#7841;ng&#39;" data-comment="20200616183725458">Cầu Long Kiểng hoàn thành sớm, Nhà Bè sẽ 'thăng hạng'</a>
+                        </h3>
+                    </div>
+                    <span class="line-2 mgt10"></span>
+                </li>
+            
+    </ul>
+</div>
+<span class="line"></span>
+<div class="box-category2 linespan">
+    <h2><a href="/can-biet/giai-tri-cb.htm" class="title-box" title="Giải trí">Giải trí</a></h2>
+    <ul class="list-news w290">
+        
+                <li>
+                    <a class="img290x181 pos-rlt" href="/khach-du-lich-quoc-te-chua-the-vao-australia-truoc-nam-2021-20200618143505885.htm" title="Khách du l&#7883;ch qu&#7889;c t&#7871; chưa th&#7875; vào Australia trư&#7899;c năm 2021" data-displayinslide="0">
+                        <img class="img290x181" src="https://cdn.tuoitre.vn/zoom/290_181/2020/6/18/photo-1-15924654668262081819077-crop-1592465596733503956143.jpg" data-src="https://cdn.tuoitre.vn/zoom/290_181/2020/6/18/photo-1-15924654668262081819077-crop-1592465596733503956143.jpg" alt="Khách du l&#7883;ch qu&#7889;c t&#7871; chưa th&#7875; vào Australia trư&#7899;c năm 2021" />
+                    </a>
+                    <div class="description clearfix mgt8">
+                        <h3 class="name-title">
+                            <a href="/khach-du-lich-quoc-te-chua-the-vao-australia-truoc-nam-2021-20200618143505885.htm" title="Khách du l&#7883;ch qu&#7889;c t&#7871; chưa th&#7875; vào Australia trư&#7899;c năm 2021" data-comment="20200618143505885">Khách du lịch quốc tế chưa thể vào Australia trước năm 2021</a>
+                        </h3>
+                    </div>
+                    <span class="line-2 mgt10"></span>
+                </li>
+            
+        
+                <li>
+                    <div class="clearfix">
+                        <a class="img90x56 pos-rlt" href="/cap-nhat-thong-tin-da-chieu-ve-kinh-te-cung-chuyen-dong-thi-truong-20200617192349798.htm" title="C&#7853;p nh&#7853;t thông tin đa chi&#7873;u v&#7873; kinh t&#7871; cùng &#39;Chuy&#7875;n đ&#7897;ng th&#7883; trư&#7901;ng&#39;" data-displayinslide="0">
+                            <img class="img90x56" src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/18/thumb-trailer-15924492721241344540608-crop-1592449443157418822869.jpg" data-src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/18/thumb-trailer-15924492721241344540608-crop-1592449443157418822869.jpg" alt="C&#7853;p nh&#7853;t thông tin đa chi&#7873;u v&#7873; kinh t&#7871; cùng &#39;Chuy&#7875;n đ&#7897;ng th&#7883; trư&#7901;ng&#39;" />
+                        </a>
+                        <h3>
+                            <a class="title-name" href="/cap-nhat-thong-tin-da-chieu-ve-kinh-te-cung-chuyen-dong-thi-truong-20200617192349798.htm" title="C&#7853;p nh&#7853;t thông tin đa chi&#7873;u v&#7873; kinh t&#7871; cùng &#39;Chuy&#7875;n đ&#7897;ng th&#7883; trư&#7901;ng&#39;" data-comment="20200617192349798">Cập nhật thông tin đa chiều về kinh tế cùng 'Chuyển động thị trường'</a>
+                        </h3>
+                    </div>
+                    <span class="line-2 mgt10"></span>
+                </li>
+            
+                <li>
+                    <div class="clearfix">
+                        <a class="img90x56 pos-rlt" href="/lap-truyen-hinh-mytv-don-he-cuc-dinh-voi-kho-qua-tang-hon-2-ti-dong-20200617145515836.htm" title="L&#7855;p truy&#7873;n hình MyTV, đón hè c&#7921;c đ&#7881;nh v&#7899;i kho quà t&#7863;ng hơn 2 t&#7881; đ&#7891;ng" data-displayinslide="0">
+                            <img class="img90x56" src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/17/hinh-1-1592380548805636178672-crop-15923805596411343866374.jpg" data-src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/17/hinh-1-1592380548805636178672-crop-15923805596411343866374.jpg" alt="L&#7855;p truy&#7873;n hình MyTV, đón hè c&#7921;c đ&#7881;nh v&#7899;i kho quà t&#7863;ng hơn 2 t&#7881; đ&#7891;ng" />
+                        </a>
+                        <h3>
+                            <a class="title-name" href="/lap-truyen-hinh-mytv-don-he-cuc-dinh-voi-kho-qua-tang-hon-2-ti-dong-20200617145515836.htm" title="L&#7855;p truy&#7873;n hình MyTV, đón hè c&#7921;c đ&#7881;nh v&#7899;i kho quà t&#7863;ng hơn 2 t&#7881; đ&#7891;ng" data-comment="20200617145515836">Lắp truyền hình MyTV, đón hè cực đỉnh với kho quà tặng hơn 2 tỉ đồng</a>
+                        </h3>
+                    </div>
+                    <span class="line-2 mgt10"></span>
+                </li>
+            
+    </ul>
+</div>
+<span class="line"></span>
+<div class="box-category2 linespan">
+    <h2><a href="/can-biet/san-pham.htm" class="title-box" title="Sản phẩm">Sản phẩm</a></h2>
+    <ul class="list-news w290">
+        
+                <li>
+                    <a class="img290x181 pos-rlt" href="/hitachi-ra-mat-tu-lanh-4-cua-r-wb640vgv0-voi-ngan-chan-khong-doc-dao-2020061713382506.htm" title="Hitachi ra m&#7855;t t&#7911; l&#7841;nh 4 c&#7917;a R-WB640VGV0 v&#7899;i Ngăn Chân Không đ&#7897;c đáo" data-displayinslide="0">
+                        <img class="img290x181" src="https://cdn.tuoitre.vn/zoom/290_181/2020/6/17/hinh-1-15923759795962136266834-crop-15923759930601415604866.jpg" data-src="https://cdn.tuoitre.vn/zoom/290_181/2020/6/17/hinh-1-15923759795962136266834-crop-15923759930601415604866.jpg" alt="Hitachi ra m&#7855;t t&#7911; l&#7841;nh 4 c&#7917;a R-WB640VGV0 v&#7899;i Ngăn Chân Không đ&#7897;c đáo" />
+                    </a>
+                    <div class="description clearfix mgt8">
+                        <h3 class="name-title">
+                            <a href="/hitachi-ra-mat-tu-lanh-4-cua-r-wb640vgv0-voi-ngan-chan-khong-doc-dao-2020061713382506.htm" title="Hitachi ra m&#7855;t t&#7911; l&#7841;nh 4 c&#7917;a R-WB640VGV0 v&#7899;i Ngăn Chân Không đ&#7897;c đáo" data-comment="2020061713382506">Hitachi ra mắt tủ lạnh 4 cửa R-WB640VGV0 với Ngăn Chân Không độc đáo</a>
+                        </h3>
+                    </div>
+                    <span class="line-2 mgt10"></span>
+                </li>
+            
+        
+                <li>
+                    <div class="clearfix">
+                        <a class="img90x56 pos-rlt" href="/mot-che-do-dinh-duong-hop-ly-khong-the-thieu-doi-voi-benh-nhan-ung-thu-20200616143950652.htm" title="M&#7897;t ch&#7871; đ&#7897; dinh dư&#7905;ng h&#7907;p lý không th&#7875; thi&#7871;u đ&#7889;i v&#7899;i b&#7879;nh nhân ung thư" data-displayinslide="0">
+                            <img class="img90x56" src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/16/reo12027030803-1592293234710279204687-crop-15922932501601521048704.jpg" data-src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/16/reo12027030803-1592293234710279204687-crop-15922932501601521048704.jpg" alt="M&#7897;t ch&#7871; đ&#7897; dinh dư&#7905;ng h&#7907;p lý không th&#7875; thi&#7871;u đ&#7889;i v&#7899;i b&#7879;nh nhân ung thư" />
+                        </a>
+                        <h3>
+                            <a class="title-name" href="/mot-che-do-dinh-duong-hop-ly-khong-the-thieu-doi-voi-benh-nhan-ung-thu-20200616143950652.htm" title="M&#7897;t ch&#7871; đ&#7897; dinh dư&#7905;ng h&#7907;p lý không th&#7875; thi&#7871;u đ&#7889;i v&#7899;i b&#7879;nh nhân ung thư" data-comment="20200616143950652">Một chế độ dinh dưỡng hợp lý không thể thiếu đối với bệnh nhân ung thư</a>
+                        </h3>
+                    </div>
+                    <span class="line-2 mgt10"></span>
+                </li>
+            
+                <li>
+                    <div class="clearfix">
+                        <a class="img90x56 pos-rlt" href="/trao-nguoc-da-day-thuc-quan-benh-loi-song-dang-gia-tang-20200616135007224.htm" title="&#39;Trào ngư&#7907;c d&#7841; dày th&#7921;c qu&#7843;n&#39; - b&#7879;nh l&#7889;i s&#7889;ng đang gia tăng" data-displayinslide="0">
+                            <img class="img90x56" src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/16/hinh-3-159228998153455107935-crop-15922899890691282160363.jpg" data-src="https://cdn.tuoitre.vn/zoom/90_56/2020/6/16/hinh-3-159228998153455107935-crop-15922899890691282160363.jpg" alt="&#39;Trào ngư&#7907;c d&#7841; dày th&#7921;c qu&#7843;n&#39; - b&#7879;nh l&#7889;i s&#7889;ng đang gia tăng" />
+                        </a>
+                        <h3>
+                            <a class="title-name" href="/trao-nguoc-da-day-thuc-quan-benh-loi-song-dang-gia-tang-20200616135007224.htm" title="&#39;Trào ngư&#7907;c d&#7841; dày th&#7921;c qu&#7843;n&#39; - b&#7879;nh l&#7889;i s&#7889;ng đang gia tăng" data-comment="20200616135007224">'Trào ngược dạ dày thực quản' - bệnh lối sống đang gia tăng</a>
+                        </h3>
+                    </div>
+                    <span class="line-2 mgt10"></span>
+                </li>
+            
+    </ul>
+</div>
+
+                            
+
+
+<zone id="jmgdwhr7"></zone>
+
+<script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+    arfAsync.push("jmgdwhr7");
+</script>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        <div class="clearfix"></div>
+        <span class="line line-video"></span>
+        <div class="list-bottom">
+            
+
+<div class="box-category1 pdt15 no-index"  >
+    <h2 class="title-box">Có thể bạn quan tâm</h2>
+    <div class="fr">
+        
+<ul class="trending"  box-type="trendingboxhome" data-value="videoposition-0-4" data-count="3">
+    
+            <li><a href="/ky-hop-9-quoc-hoi-khoa-xiv-e624.htm" title="Kỳ họp 9 Quốc hội khóa XIV">Kỳ họp 9 Quốc hội khóa XIV</a></li>            
+        
+            <li><a href="/tu-van-tuyen-sinh-huong-nghiep-2020-e631.htm" title="Tư vấn tuyển sinh - hướng nghiệp 2020">Tư vấn tuyển sinh - hướng nghiệp 2020</a></li>            
+        
+            <li><a href="/ngay-khong-tien-mat-2020-e626.htm" title="Ngày không tiền mặt 2020">Ngày không tiền mặt 2020</a></li>            
+        
+    
+</ul>
+
+    </div>
+    <ul class="list-news" box-type="mostviewbox" data-value="mostviewnews-0-">
+        
+                <li>
+                    <a class="img188x117 pos-rlt" href="/hang-khong-my-co-the-cam-bay-nhung-hanh-khach-khong-deo-khau-trang-20200617145020356.htm" title="Hàng không M&#7929; có th&#7875; c&#7845;m bay nh&#7919;ng hành khách không đeo kh&#7849;u trang" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/17/photo-1-1592380007006610150208-crop-1592380139482840937133.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/17/photo-1-1592380007006610150208-crop-1592380139482840937133.jpg" alt="Hàng không M&#7929; có th&#7875; c&#7845;m bay nh&#7919;ng hành khách không đeo kh&#7849;u trang" />
+                    </a>
+                    <span class="number">1</span>
+                    <a class='category-name' href='/can-biet.htm' title='C&#7847;n bi&#7871;t'>Cần biết</a>
+                    <h3 class="name-title">
+                        <a href="/hang-khong-my-co-the-cam-bay-nhung-hanh-khach-khong-deo-khau-trang-20200617145020356.htm" title="Hàng không M&#7929; có th&#7875; c&#7845;m bay nh&#7919;ng hành khách không đeo kh&#7849;u trang">Hàng không Mỹ có thể cấm bay những hành khách không đeo khẩu trang</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Những hành khách sử dụng dịch vụ hàng không của Mỹ nhưng từ chối đeo khẩu trang trong khi đại dịch COVID-19 vẫn còn tiếp diễn có thể bị tước quyền bay.</p>
+                    <span class="timeago need-get-timeago" title="2020-06-17T14:46:00"></span>
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/dich-covid-19-gay-thiet-hai-nang-ne-cho-nganh-nong-nghiep-o-nhieu-nuoc-20200617144540975.htm" title="D&#7883;ch COVID-19 gây thi&#7879;t h&#7841;i n&#7863;ng n&#7873; cho ngành nông nghi&#7879;p &#7903; nhi&#7873;u nư&#7899;c" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/17/photo-1-1592379818017765402346-crop-1592379874569839829435.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/17/photo-1-1592379818017765402346-crop-1592379874569839829435.jpg" alt="D&#7883;ch COVID-19 gây thi&#7879;t h&#7841;i n&#7863;ng n&#7873; cho ngành nông nghi&#7879;p &#7903; nhi&#7873;u nư&#7899;c" />
+                    </a>
+                    <span class="number">2</span>
+                    <a class='category-name' href='/can-biet.htm' title='C&#7847;n bi&#7871;t'>Cần biết</a>
+                    <h3 class="name-title">
+                        <a href="/dich-covid-19-gay-thiet-hai-nang-ne-cho-nganh-nong-nghiep-o-nhieu-nuoc-20200617144540975.htm" title="D&#7883;ch COVID-19 gây thi&#7879;t h&#7841;i n&#7863;ng n&#7873; cho ngành nông nghi&#7879;p &#7903; nhi&#7873;u nư&#7899;c">Dịch COVID-19 gây thiệt hại nặng nề cho ngành nông nghiệp ở nhiều nước</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Nhu cầu của người dân đối với sản phẩm nông nghiệp giảm sút trong thời kỳ dịch bệnh COVID-19 đã khiến ngành nông nghiệp ở nhiều nước tổn thất nghiêm trọng.</p>
+                    <span class="timeago need-get-timeago" title="2020-06-17T14:43:00"></span>
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/nha-noi-in-bang-cong-nghe-in-3d-tai-ch-sec-20200618141815658.htm" title="Nhà n&#7893;i in b&#7857;ng công ngh&#7879; in 3D t&#7841;i CH Séc" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/18/photo-1-1592464492701764844860-crop-15924646097181596177510.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/18/photo-1-1592464492701764844860-crop-15924646097181596177510.jpg" alt="Nhà n&#7893;i in b&#7857;ng công ngh&#7879; in 3D t&#7841;i CH Séc" />
+                    </a>
+                    <span class="number">3</span>
+                    <a class='category-name' href='/can-biet.htm' title='C&#7847;n bi&#7871;t'>Cần biết</a>
+                    <h3 class="name-title">
+                        <a href="/nha-noi-in-bang-cong-nghe-in-3d-tai-ch-sec-20200618141815658.htm" title="Nhà n&#7893;i in b&#7857;ng công ngh&#7879; in 3D t&#7841;i CH Séc">Nhà nổi in bằng công nghệ in 3D tại CH Séc</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Nghệ nhân điêu khắc người Cộng hòa Séc Michal Trpak đang phối hợp cùng một nhóm kiến trúc sư để cho ra đời một ngôi nhà nổi từ công nghệ in 3D.</p>
+                    <span class="timeago need-get-timeago" title="2020-06-18T14:14:00"></span>
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/indonesia-cai-tao-dat-than-bun-thanh-dat-canh-tac-lua-20200618142626201.htm" title="Indonesia c&#7843;i t&#7841;o đ&#7845;t than bùn thành đ&#7845;t canh tác lúa" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/18/photo-1-15924649761961915819009-crop-15924650333471867796808.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/18/photo-1-15924649761961915819009-crop-15924650333471867796808.jpg" alt="Indonesia c&#7843;i t&#7841;o đ&#7845;t than bùn thành đ&#7845;t canh tác lúa" />
+                    </a>
+                    <span class="number">4</span>
+                    <a class='category-name' href='/can-biet.htm' title='C&#7847;n bi&#7871;t'>Cần biết</a>
+                    <h3 class="name-title">
+                        <a href="/indonesia-cai-tao-dat-than-bun-thanh-dat-canh-tac-lua-20200618142626201.htm" title="Indonesia c&#7843;i t&#7841;o đ&#7845;t than bùn thành đ&#7845;t canh tác lúa">Indonesia cải tạo đất than bùn thành đất canh tác lúa</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Chính phủ Indonesia đang thúc đẩy kế hoạch chuyển đổi 1,4 triệu héc-ta diện tích đất than bùn thành đất canh tác lúa trong bối cảnh Indonesia đang đối mặt với nguy cơ mất an ninh lương thực.</p>
+                    <span class="timeago need-get-timeago" title="2020-06-18T14:22:00"></span>
+                </li>
+            
+                <li>
+                    <a class="img188x117 pos-rlt" href="/ra-mat-he-thong-giai-quyet-tranh-chap-truc-tuyen-tien-phong-tai-viet-nam-20200618153718909.htm" title="Ra m&#7855;t h&#7879; th&#7889;ng gi&#7843;i quy&#7871;t tranh ch&#7845;p tr&#7921;c tuy&#7871;n tiên phong t&#7841;i Vi&#7879;t Nam" data-displayinslide="0">
+                        <img class="img188x117" src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/18/photo-1-1592468823696718836369-crop-15924690905441507900520.jpg" data-src="https://cdn.tuoitre.vn/zoom/188_117/2020/6/18/photo-1-1592468823696718836369-crop-15924690905441507900520.jpg" alt="Ra m&#7855;t h&#7879; th&#7889;ng gi&#7843;i quy&#7871;t tranh ch&#7845;p tr&#7921;c tuy&#7871;n tiên phong t&#7841;i Vi&#7879;t Nam" />
+                    </a>
+                    <span class="number">5</span>
+                    <a class='category-name' href='/can-biet.htm' title='C&#7847;n bi&#7871;t'>Cần biết</a>
+                    <h3 class="name-title">
+                        <a href="/ra-mat-he-thong-giai-quyet-tranh-chap-truc-tuyen-tien-phong-tai-viet-nam-20200618153718909.htm" title="Ra m&#7855;t h&#7879; th&#7889;ng gi&#7843;i quy&#7871;t tranh ch&#7845;p tr&#7921;c tuy&#7871;n tiên phong t&#7841;i Vi&#7879;t Nam">Ra mắt hệ thống giải quyết tranh chấp trực tuyến tiên phong tại Việt Nam</a>
+                    </h3>
+                    <p class="sapo need-trimline" rel="3">Sau hơn 1 năm đi vào hoạt động, Trung tâm Trọng tài quốc tế Hà Nội vừa khởi động Hệ thống giải quyết tranh chấp trực tuyến (ODR) của mình trên website www.hiac.vn.</p>
+                    <span class="timeago need-get-timeago" title="2020-06-18T16:30:00"></span>
+                </li>
+            
+        
+    </ul>
+</div>
+
+        </div>
+        <div class="most-view-ipad">
+            
+<div class="box-category3">
+    <h2 class="title-box">XEM NHIỀU</h2>
+   
+    <ul class="list-news">
+        
+                <li>
+                    <a class="img170x106 pos-rlt" href="/dung-nham-lan-giua-vay-tin-chap-va-tin-dung-den-20200616113837589.htm" title="Đ&#7915;ng nh&#7847;m l&#7851;n gi&#7919;a vay tín ch&#7845;p và tín d&#7909;ng đen" data-displayinslide="0">
+                        <img class="img170x106" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/16/dsc7878-1592281558138699223352-crop-1592282235235272889944.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/16/dsc7878-1592281558138699223352-crop-1592282235235272889944.jpg" alt="Đ&#7915;ng nh&#7847;m l&#7851;n gi&#7919;a vay tín ch&#7845;p và tín d&#7909;ng đen" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/dung-nham-lan-giua-vay-tin-chap-va-tin-dung-den-20200616113837589.htm" title="Đ&#7915;ng nh&#7847;m l&#7851;n gi&#7919;a vay tín ch&#7845;p và tín d&#7909;ng đen">Đừng nhầm lẫn giữa vay tín chấp và tín dụng đen</a>
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img170x106 pos-rlt" href="/he-lo-anh-chup-ro-net-tang-bang-troi-da-gay-tham-hoa-chim-tau-titanic-20200616135451285.htm" title="Hé l&#7897; &#7843;nh ch&#7909;p rõ nét t&#7843;ng băng trôi đã gây th&#7843;m h&#7885;a chìm tàu Titanic" data-displayinslide="0">
+                        <img class="img170x106" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/16/photo-1-1592290366878500503634-crop-1592290449031669023878.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/16/photo-1-1592290366878500503634-crop-1592290449031669023878.jpg" alt="Hé l&#7897; &#7843;nh ch&#7909;p rõ nét t&#7843;ng băng trôi đã gây th&#7843;m h&#7885;a chìm tàu Titanic" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/he-lo-anh-chup-ro-net-tang-bang-troi-da-gay-tham-hoa-chim-tau-titanic-20200616135451285.htm" title="Hé l&#7897; &#7843;nh ch&#7909;p rõ nét t&#7843;ng băng trôi đã gây th&#7843;m h&#7885;a chìm tàu Titanic">Hé lộ ảnh chụp rõ nét tảng băng trôi đã gây thảm họa chìm tàu Titanic</a>
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img170x106 pos-rlt" href="/hang-khong-my-co-the-cam-bay-nhung-hanh-khach-khong-deo-khau-trang-20200617145020356.htm" title="Hàng không M&#7929; có th&#7875; c&#7845;m bay nh&#7919;ng hành khách không đeo kh&#7849;u trang" data-displayinslide="0">
+                        <img class="img170x106" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/17/photo-1-1592380007006610150208-crop-1592380139482840937133.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/17/photo-1-1592380007006610150208-crop-1592380139482840937133.jpg" alt="Hàng không M&#7929; có th&#7875; c&#7845;m bay nh&#7919;ng hành khách không đeo kh&#7849;u trang" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/hang-khong-my-co-the-cam-bay-nhung-hanh-khach-khong-deo-khau-trang-20200617145020356.htm" title="Hàng không M&#7929; có th&#7875; c&#7845;m bay nh&#7919;ng hành khách không đeo kh&#7849;u trang">Hàng không Mỹ có thể cấm bay những hành khách không đeo khẩu trang</a>
+                    </h3>
+                </li>
+            
+                <li>
+                    <a class="img170x106 pos-rlt" href="/ca-sau-tien-su-20200615134249317.htm" title="Cá s&#7845;u ti&#7873;n s&#7917;" data-displayinslide="0">
+                        <img class="img170x106" src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/15/photo-1-15922032223411426244432-crop-1592203302320529302701.jpg" data-src="https://cdn.tuoitre.vn/zoom/170_106/2020/6/15/photo-1-15922032223411426244432-crop-1592203302320529302701.jpg" alt="Cá s&#7845;u ti&#7873;n s&#7917;" />
+                    </a>
+                    <h3 class="name-title">
+                        <a href="/ca-sau-tien-su-20200615134249317.htm" title="Cá s&#7845;u ti&#7873;n s&#7917;">Cá sấu tiền sử</a>
+                    </h3>
+                </li>
+            
+        
+    </ul>
+</div>
+
+        </div>
+        <input type="hidden" name="hdZoneId" id="hdZoneId" value="740" />
+        <input type="hidden" name="hdZoneUrl" id="hdZoneUrl" value="doi-song" />
+        <input type="hidden" name="hdZoneParentUrl" id="hdZoneParentUrl" value="can-biet" />
+        <input type="hidden" name="hdFullZoneUrl" id="hdFullZoneUrl" value="/can-biet/doi-song" />
+        <input type="hidden" name="hdPageIndex" id="hdPageIndex" value="1" />
+        <input type="hidden" name="hdOrgTitle" id="hdOrgTitle" value="Tin tức, tin nóng, đọc báo điện tử - Tuổi Trẻ Online" />
+    </div>
+    <script>
+        var orgUrl = String.format('{0}{1}', document.location.origin, $('#hdFullZoneUrl').val());
+        (runinit = window.runinit || []).push(function () {
+            timeline.init();
+        });
+    </script>
+
+                    </section>
+                    
+
+
+<div class="clearfix"></div>
+<div class="w980">
+    
+        <zone id="jphs5rwl"></zone>
+        <script>
+            if (is_iPadScreen == null)
+                arfAsync.push("jphs5rwl");
+        </script>
+
+
+        <div class="bannerfooter1top">
+            
+
+
+<zone id="jmgdp1wg"></zone>
+<script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+          arfAsync.push("jmgdp1wg");
+</script>
+        </div>
+        <div class="bannerfooter1">
+            
+
+<div class="clearfix">
+    <iframe width="100%" height="460px" src="https://quangcao.tuoitre.vn/customer/banner/2019/P/PhanQuang/20190707/PC/index.html" scrolling="no" frameborder="0">Browser not supported</iframe>
+</div>
+
+        </div>
+    
+    
+</div>
+
+
+<footer>
+    <div class="footer-icon">
+        <div class="w980">
+            <div class="top-footer">
+                <ul>
+                    <li><a title="Tuổi trẻ TV" href="https://tv.tuoitre.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTTV.png" alt="logo tuổi trẻ TV" style="width: 80px; height: 26px;" /></a></li>
+                    <li><a title="Tuổi Trẻ cuối tuần" href="https://cuoituan.tuoitre.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTCT.png" alt="logo tuổi trẻ cuối tuần" style="width: 80px; height: 26px;" /></a></li>
+                    <li><a title="Tuổi Trẻ News" href="https://tuoitrenews.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/tuoitre/web_images/LogoTTNews.png" alt="logo tuổi trẻ news" style="width: 80px; height: 26px;" /></a></li>
+                    <li class="logo-ttc"><a title="Tuổi Trẻ Cười" href="https://cuoi.tuoitre.vn/" rel="nofollow" target="_blank">
+                        <img src="https://static.mediacdn.vn/thumb_w/75/tuoitre/web_images/logo_tuoitrecuoi-01.png" alt="Tuổi Trẻ Cười" /></a></li>
+                </ul>
+            </div>
+            <ul class="list-icon-footer fr">
+                <li><a href="https://www.facebook.com/baotuoitre" title="Quan tâm Tuổi Trẻ trên Facebook" target="_blank" rel="nofollow" class="icon-facebook-footer sprite16"></a></li>
+                <li><a href="https://www.instagram.com/baotuoitre" title="Quan tâm Tuổi Trẻ trên Instagram" target="_blank" rel="nofollow" class="icon-camera-footer sprite16"></a></li>
+                <li><a href="https://plus.google.com/107706664902384479582" title="Quan tâm Tuổi Trẻ trên Google Plus" target="_blank" rel="nofollow" class="icon-google-footer sprite16"></a></li>
+                <li><a href="https://www.youtube.com/channel/UCrwJa6KRHWnJpJPZNeKKcvA" title="Quan tâm Tuổi Trẻ trên Youtube" target="_blank" rel="nofollow" class="icon-youtube-footer sprite16"></a></li>
+            </ul>
+            <p class="textfollow fr">Theo dõi Tuổi Trẻ Online: </p>
+
+        </div>
+    </div>
+    <div class="bottom-footer">
+        <div class="w980">
+            <div class="wrapper-footer">
+                <ul>
+                    <li>
+                        <a href="/media.htm" title="MEDIA" rel="nofollow" target="_blank">MEDIA</a>
+                        <a href="/thoi-su.htm" title="THỜI SỰ">THỜI SỰ</a>
+                        <a href="/the-gioi.htm" title="THẾ GIỚI">THẾ GIỚI</a>
+                        <a href="/phap-luat.htm" title="PHÁP LUẬT">PHÁP LUẬT</a>
+                    </li>
+                    <li>
+                        <a href="/kinh-doanh.htm" title="KINH DOANH">KINH DOANH</a>
+                        <a href="https://congnghe.tuoitre.vn" title="CÔNG NGHỆ" rel="nofollow" target="_blank">CÔNG NGHỆ</a>
+                        <a href="/xe.htm" title="XE">XE</a>
+                        <a href="https://dulich.tuoitre.vn" title="DU LỊCH" rel="nofollow" target="_blank">DU LỊCH</a>
+                    </li>
+                    <li>
+                        <a href="/nhip-song-tre.htm" title="NHỊP SỐNG TRẺ">NHỊP SỐNG TRẺ</a>
+                        <a href="/van-hoa.htm" title="VĂN HÓA">VĂN HÓA</a>
+                        <a href="/giai-tri.htm" title="GIẢI TRÍ">GIẢI TRÍ</a>
+                    </li>
+                    <li>
+                        <a href="https://thethao.tuoitre.vn" title="THỂ THAO" rel="nofollow" target="_blank">THỂ THAO</a>
+                        <a href="/khoa-hoc.htm" title="KHOA HỌC">KHOA HỌC</a>
+                        <a href="/suc-khoe.htm" title="SỨC KHỎE">SỨC KHỎE</a>
+                    </li>
+                    <li>
+                        <a href="/giao-duc.htm" title="GIÁO DỤC">GIÁO DỤC</a>
+                        <a href="/ban-doc-lam-bao.htm" title="BẠN ĐỌC">BẠN ĐỌC</a>
+                        <a href="/gia-that.htm" title="THẬT GIẢ">THẬT GIẢ</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+    </div>
+    <div class="footer-end clearfix">
+        <div class="w980">
+            <a class="logo-footer" href="/" title="Tuổi Trẻ Online"></a>
+            <p class="float-l">
+                © Copyright 2020 TuoiTre Online, All rights reserved
+                            <br>
+                ® Tuổi Trẻ Online giữ bản quyền nội dung trên website này
+            </p>
+            <a href="http://www.thanhdoan.hochiminhcity.gov.vn" title="Thành Đoàn TP.HCM" rel="nofollow" target="_blank" class="fr thongtin">&nbsp;Thành Đoàn TP.HCM</a>
+            <a href="/thong-tin-toa-soan.htm" title="Thông tin Tòa soạn" class="thongtin fr">Thông tin Tòa soạn - </a>
+            <ul class="float-r">
+                <li>
+                    <a rel="nofollow" target="_blank" href=" https://quangcao.tuoitre.vn" title="Liên hệ Quảng cáo">Liên hệ Quảng cáo</a>
+                </li>
+                <li>
+                    <a href="javascript:;" title="Điều khoản bảo mật">Điều khoản bảo mật</a>
+                </li>
+                <li>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScSRj-Bxm1t6roko_ocQlUSZCnei3a03IdoOpPQ9-lp2McaKw/viewform" rel="nofollow" target="_blank" title="Liên hệ góp ý">Liên hệ góp ý</a>
+                </li>
+                <li>
+                    <a title="Hotline" href="tel:0918033133" rel="nofollow" class="textunset">Hotline: 0918.033.133</a>
+                </li>
+            </ul>
+        </div>
+        <div class="bannerballoon">
+            
+
+
+
+<zone id="jmg1jsy2"></zone>
+<script>
+    if (is_iPadScreen != null && widthScreen < 1024) { } else
+        arfAsync.push("jmg1jsy2");
+</script>
+
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</footer>
+<style>
+    .footer-end .float-r {
+        width: auto;
+        margin-left: 0;
+    }
+
+    .float-r li:last-child {
+        padding-right: 0;
+    }
+</style>
+
+<div class="wrapPopup" id="infoForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Thông tin của bạn</p>
+                    <a href="javascript:void(0);" title="Đóng" class="closepp" onclick="comment.closePopup('infoForm')"></a>
+                </header>
+                <div class="content">
+                    <div class="frm-1" id="frm-comment">
+                        <div class="form-group">
+                            <span>Email</span>
+                            <input id="cm-email" name="cm-email" type="email" class="form-control" placeholder="E-mail (*)">
+                            <p class="warning email-warning1">Vui lòng nhập Email</p>
+                            <p class="warning email-warning2">Email Không đúng định dạng</p>
+                        </div>
+                        <div class="form-group">
+                            <span>Họ và tên</span>
+                            <input id="cm-name" type="text" name="cm-name" class="form-control" placeholder="Họ &amp; tên (*)">
+                            <p class="warning name-warning">Vui lòng nhập Họ &amp; Tên.</p>
+                        </div>
+                        
+
+                        <div class="form-group clboth">
+                            <button type="button" id="btn-info" name="btn-info" class="btn btn-danger">Gửi bình luận</button>
+                            <input type="hidden" id="cm-content" name="cm-content" value="" />
+                            
+                            <input type="hidden" id="cm-pid" name="cm-pid" value="0" />
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<div class="wrapPopup" id="errorForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Thông báo</p>
+                    <a href="javascript:;" title="Đóng" class="closepp" onclick="closePopup('errorForm')"></a>
+                </header>
+                <div class="content">
+                    Bạn vui lòng đợi <span class="timeout">0</span>s để tiếp tục comment
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<div class="wrapPopup" id="successForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Thông báo</p>
+                    <a href="javascript:;" title="Đóng" class="closepp" onclick="comment.closePopup('successForm')"></a>
+                </header>
+                <div class="content">
+                    Bình luận được gửi thành công
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<div class="wrapPopup" id="loginForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <div class="content">
+                    <div class="frm-1" id="frm-login">
+                        <ul class="nav nav-tabs">
+                            <li class="nav-item section-guest">
+                                <a class="nav-link" data-item="tab-guest" href="javascript:;" rel="nofollow">Bình luận</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" data-item="tab-login" href="javascript:;" rel="nofollow"><i class="icon-reg-user"></i>Đăng nhập</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-item="tab-register" href="javascript:;" rel="nofollow"><i class="icon-reg-user"></i>Đăng ký</a>
+                            </li>
+                            <li class="nav-close">
+                                <a href="javascript:void(0);" title="Đóng" class="closepp" onclick="comment.closePopup('loginForm')">Đóng lại x</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content tab-guest" id="tabGuest">
+                            <div class="form-group guest-desc">
+                                <div class="guest-icon"><i class="icon-guest"></i></div>
+                                <span class="guest-desc-header">Thông tin bạn đọc</span>
+                                <span class="guest-desc-content">Thông tin của bạn đọc sẽ được bảo mật an toàn và chỉ sử dụng trong trường hợp toà soạn cần thiết để liên lạc với bạn.</span>
+                            </div>
+                            <div class="form-group">
+                                <input id="cm-guestname" type="text" name="rg-name" class="form-control" data-elementtype="name" data-input="cm-guestname" placeholder="Tên hiển thị">
+                                <p class="warning name-warning">Vui lòng nhập Tên hiển thị</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="cm-guestemail" name="rg-email" type="email" class="form-control" data-elementtype="email" data-input="cm-guestemail" placeholder="Email">
+                                <p class="warning email-warning1">Vui lòng nhập Email</p>
+                                <p class="warning email-warning2">Email Không đúng định dạng</p>
+                            </div>
+                            <div class="form-group">
+                                
+                                <div id="cm-recaptcha" class="g-recaptcha" data-sitekey="6Lc4B5cUAAAAABTaoFOfZRnC2aPkXYAWoVuP1NIS" data-size="invisible"></div>
+                                <input id="cm-guesstcaptcha" type="hidden" data-input="cm-guestcaptcha" />
+                            </div>
+                            <div class="form-group mgt8 clearfix">
+                                <button type="button" id="btn-send-comment" name="btn-send-comment" class="btn btn-secondary" data-elementtype="send-comment" data-act="guestsend">Gửi bình luận</button>
+                                <button type="button" id="btn-close-comment" name="btn-close-comment" class="btn btn-secondary" onclick="comment.closePopup('loginForm')">Đóng</button>
+                            </div>
+                            <div class="form-group guest-bottom">
+                                <button type="button" id="btn-focus-login" onclick="tuoitreId.activeTabLogin()" class="btn btn-link">Bạn đã có tài khoản? <b>Đăng nhập</b> ngay</button>
+                            </div>
+                        </div>
+                        <div class="tab-content tab-login active" id="tabLogin">
+                            <div class="form-group">
+                                <input id="lg-email" name="lg-email" type="email" class="form-control" placeholder="Email đăng nhập" data-elementtype="email">
+                                <p class="warning email-warning1">Vui lòng nhập Email</p>
+                                <p class="warning email-warning2">Email Không đúng định dạng</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="lg-password" type="password" name="lg-password" class="form-control" data-elementtype="password" placeholder="Mật khẩu">
+                                <p class="warning password-warning">Mật khẩu không đúng.</p>
+                                <p class="warning invalid_info">Thông tin đăng nhập không đúng.</p>
+                                <p class="warning blocked-warning">Tài khoản bị khóa, vui lòng liên hệ quản trị viên.</p>
+                                <p class="warning common-warning">Có lỗi phát sinh. Vui lòng thử lại sau.</p>
+                            </div>
+                            <div class="form-group">
+                                <a href="http://id.tuoitre.vn/quen-mat-khau.htm" target="_blank" rel="nofollow" id="btn-lost-password" class="btn btn-link">Quên mật khẩu?</a>
+                                <button type="button" id="btn-login" name="btn-login" class="btn btn-secondary" data-elementtype="login">Đăng nhập</button>
+                            </div>
+                            <div class="form-group mgt8 content-social">
+                                <span>Hoặc đăng nhập bằng:</span>
+                                <button type="button" class="btn btn-danger btn-google-plus" data-elementtype="logingoogle"></button>
+                                <button type="button" class="btn btn-primary btn-facebook" data-elementtype="loginfb"></button>
+                            </div>
+                            
+                        </div>
+                        <div class="tab-content tab-register" id="tabRegister">
+                            <div class="form-group">
+                                <input id="rg-name" type="text" name="rg-name" class="form-control" data-elementtype="name" placeholder="Tên của bạn">
+                                <p class="warning name-warning">Vui lòng nhập Tên của bạn.</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="rg-email" name="rg-email" type="email" class="form-control" data-elementtype="email" placeholder="Email">
+                                <p class="warning email-warning1">Vui lòng nhập Email</p>
+                                <p class="warning email-warning2">Email Không đúng định dạng</p>
+                            </div>
+                            <div class="form-group">
+                                <input id="rg-password" type="password" name="rg-password" class="form-control" data-elementtype="password" placeholder="Mật khẩu">
+                                <p class="warning password-warning">Mật khẩu phải có ít nhất 6 kí tự.</p>
+                            </div>
+                            <div class="form-group">
+                                
+                                <input id="rg-re-password" type="password" name="rg-re-password" class="form-control" data-elementtype="repassword" placeholder="Xác nhận mật khẩu">
+                                <p class="warning repassword-warning">Xác nhận mật khẩu không khớp.</p>
+                            </div>
+                            <div class="form-group">
+                                
+                                <input id="rg-re-captcha" class="form-control" data-elementtype="captcha" placeholder="Mã xác nhận">
+                                <img id="img-captcha" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="captcha" />
+                                <a id="refresh-captcha">Lấy mã mới</a>
+                                <p class="warning captcha-warning">Mã xác nhận không đúng.</p>
+                                <p class="warning common-warning">Có lỗi phát sinh. Vui lòng thử lại sau.</p>
+                            </div>
+                            <div class="form-group">
+                                <button type="button" id="btn-notify-register" class="btn btn-link">Khi bấm "Đăng ký" đồng thời bạn đã đồng ý với <b>điều khoản</b> của toà soạn</button>
+                            </div>
+                            <div class="form-group clearfix">
+                                <button type="button" id="btn-register" name="btn-login" class="btn btn-secondary" data-elementtype="register">Đăng ký</button>
+                            </div>
+                            <div class="form-group mgt8 content-social">
+                                <span>Hoặc đăng ký bằng:</span>
+                                <button type="button" class="btn btn-danger btn-google-plus" data-elementtype="logingoogle"></button>
+                                <button type="button" class="btn btn-primary btn-facebook" data-elementtype="loginfb"></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<style>
+    #vote-re-captcha {
+        float: left;
+        width: 100px;
+        margin-right: 10px;
+    }
+
+    #vote-img-captcha {
+        width: 100px;
+        height: 34px;
+        cursor: pointer;
+        float: left;
+        margin-right: 10px;
+    }
+
+    #vote-refresh-captcha {
+        float: left;
+        font-size: 12px;
+        line-height: 34px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    #btn-send-vote {
+        width: 125px;
+        font-family: Roboto;
+        font-size: 14px;
+        float: right;
+    }
+
+    #voteCatpchaForm .popup {
+        width: 375px;
+    }
+
+    .nav-link {
+        padding: 12px 24px;
+    }
+
+    /*.grecaptcha-badge {
+        display: none !important;
+    }*/
+
+    #voteCatpchaForm header {
+        position: relative;
+    }
+
+    #voteCatpchaForm .closepp {
+        font-size: 16px;
+        font-family: Roboto;
+        color: #220;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }
+</style>
+<script>
+    (runinit = window.runinit || []).push(function () {
+        $("#vote-img-captcha").click(function () {
+            $("#vote-img-captcha").attr("src", appSettings.apiDomain + "/captcha.htm?time=" + new Date().getTime());
+        });
+        $("#vote-refresh-captcha").click(function () {
+            $("#vote-img-captcha").attr("src", appSettings.apiDomain + "/captcha.htm?time=" + new Date().getTime());
+        });
+    });
+
+    function openPopupCaptcha(id, element, callback) {
+        $('#voteCatpchaForm .captcha-warning').hide();
+        $("#" + id).fadeIn(100);
+
+        $("#vote-img-captcha").attr("src", appSettings.apiDomain + "/captcha.htm?time=" + new Date().getTime());
+        $('#btn-send-vote').off("click").click(function (e) {
+            if ($('#vote-re-captcha').val() == '') {
+                $('#voteCatpchaForm .captcha-warning').show();
+                return;
+            }
+
+            if (typeof callback == "function") {
+                callback(element);
+            }
+        });
+    }
+</script>
+<div class="wrapPopup" id="voteCatpchaForm">
+    <div class="popup">
+        <div class="centerPopup">
+            <section>
+                <header>
+                    <p>Nhập mã xác nhận</p>
+                    <a href="javascript:;" title="Đóng" class="closepp" onclick="comment.closePopup('voteCatpchaForm')">Đóng lại</a>
+                </header>
+                <div class="content">
+                    <div class="form-group">
+                        <input id="vote-re-captcha" class="form-control" data-elementtype="captcha">
+                        <img id="vote-img-captcha" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="captcha" />
+                        <a id="vote-refresh-captcha">Lấy mã mới</a>
+                        <p class="warning captcha-warning">Mã xác nhận không đúng.</p>
+                        <p class="warning common-warning">Có lỗi phát sinh. Vui lòng thử lại sau.</p>
+                    </div>
+                    <div class="form-group clearfix">
+                        <button type="button" id="btn-send-vote" class="btn btn-secondary">Hoàn tất</button>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+
+
+                </div>
+            </div>
+            
+        
+        
+<a class="btn-backtotop" id="scrollToTop" title="Trở về đầu trang"><i class="arrow-up"></i></a>
+        
+        <script>
+            (runinit = window.runinit || []).push(function () {
+                comment.init();
+            });
+        </script>
+        
+    </body>
+    </html>
+
+<!--/can-biet/doi-song.htm--><!--s: 6/19/2020 3:14:24 PM-->
